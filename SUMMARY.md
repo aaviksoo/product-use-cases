@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Page 1](README.md)
-  * [INST-USCT-1 - Unconditional Social Cash Transfer](page-1/inst-usct-1-unconditional-social-cash-transfer.md)
+* [Product Use Case](README.md)
+  * [INST-USCT-1 - Unconditional Social Cash Transfer](product-use-case/inst-usct-1-unconditional-social-cash-transfer.md)
