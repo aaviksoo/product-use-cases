@@ -1,8 +1,8 @@
-# INST-USCT-1 - Unconditional Social Cash Transfer
+# INST-1 - Unconditional Social Cash Transfer
 
 ### Product Use Case Summary
 
-| ID      | INST-USCT-1                        |
+| ID      | INST-1                             |
 | ------- | ---------------------------------- |
 | Name    | Unconditional Social Cash Transfer |
 | Sector  | Institution                        |
@@ -50,19 +50,17 @@ Staff from the Ministry of Social Welfare or another leading agency / organizati
 * **Content management** for the backend Social Welfare staff to populate relevant educational and promotional content that local officers can use during on-the-ground outreach campaigns
 * **Identification and Registration** (with aid of geographic information services tool \*\*\*\* for potential use) in mapping and locating households and individuals for outreach target
 
-**Building Block Workflows**
+**Example Implementation**
+
+To do
+
+**Building Blocks**
 
 [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 
-* [9.3.1 Government/BB to Person communication](https://govstack.gitbook.io/bb-messaging/9-workflows#7.3.1-government-bb-to-person-communication)
-
 [**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)
 
-* [UseCase-2 Periodic Payroll and Payments Event scheduling : Post-Partum Care & Unconditional Social Benefit transfer programs](https://govstack.gitbook.io/bb-scheduler/9-workflows#usecase-2-periodic-payroll-and-payments-event-scheduling-post-partum-care-and-unconditional-social-b)
-
 **Mobility Management**
-
-* Future Workflow
 
 #### 2 - Registration
 
@@ -78,21 +76,17 @@ Registration is the process of collecting information on potential beneficiaries
 * **Identification and Registration** for enrolled identified beneficiaries in the system and enabling possible permissions for interaction with the SRIS, and (with aid of geographic information services tool) to potentially locate and track households during the interview process
 * **Client Case Management** for creating beneficiary user records
 
-**Building Block Workflows**
+**Example Implementation**
+
+To do
+
+**Building Blocks**
 
 [**Consent**](https://govstack.gitbook.io/bb-consent/)
 
-* [4.4.1 Consenting at initial registration](https://govstack.gitbook.io/bb-consent/9-workflows#4.4.1-consenting-at-initial-registration-pre-registration-using-a-centralised-id-system)
-* [4.4.2 Consenting after the registration](https://govstack.gitbook.io/bb-consent/9-workflows#4.4.2-consenting-after-the-registration-post-registration)
-
 [**Registration**](https://govstack.gitbook.io/bb-registration/)
 
-* [8.2 Using a Registration Service](https://govstack.gitbook.io/bb-registration/8-workflows#docs-internal-guid-6bac7ec4-7fff-2f07-f48f-168981104eec)
-
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
-
-* [6.1 Identity Registration](https://govstack.gitbook.io/bb-identity/6-functional-requirements#docs-internal-guid-54ffa6d1-7fff-1219-8f59-d45ca47b2ad7)
-* [6.2 Identity Verification](https://govstack.gitbook.io/bb-identity/6-functional-requirements#docs-internal-guid-2affb3f5-7fff-fa73-9e68-7707b820858d)
 
 #### 3 - Data Verification and Validation
 
@@ -103,16 +97,15 @@ Data within the SRIS Social Registry Information System (SRIS) is generally chec
 * **Client Case Management** for storing and reviewing identification records and eligibility information of potential beneficiaries
 * **Data Analysis and Business Intelligence** for cross-referencing and verifying records across multiple registry sources, and reconciling gaps / overlaps
 
-\
+**Example Implementation**
+
+To do
+
 **Building Block Workflows**
 
 [**Consent**](https://govstack.gitbook.io/bb-consent/)
 
-* [4.4.2 Consenting after the registration](https://govstack.gitbook.io/bb-consent/9-workflows#4.4.2-consenting-after-the-registration-post-registration)
-
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
-
-* [6.2 Identity Verification](https://govstack.gitbook.io/bb-identity/6-functional-requirements#docs-internal-guid-2affb3f5-7fff-fa73-9e68-7707b820858d)
 
 **Client Case Management**
 
@@ -131,23 +124,19 @@ NOTE: Depending on the country and programme, eligibility determination takes di
 * **Client Case Management** for determining and assigning benefit packages and benefit levels to specific user groups
 * **Data Analysis and Business Intelligence / Decision Support** potentially for identifying different benefit levels / types in correlation to target groups’ socioeconomic / demographic information, based on existing eligibility criteria (e.g. via proxy means test, means test or category-based)
 
-**Building Block Workflows**
+**Example Implementation**
+
+To do
+
+**Building Blocks**
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-* [6.2 Identity Verification](https://govstack.gitbook.io/bb-identity/6-functional-requirements#docs-internal-guid-2affb3f5-7fff-fa73-9e68-7707b820858d)
-
 **Client Case Management**
-
-* Future workflow
 
 **Analytics and Business Intelligence**
 
-* Future workflow
-
 **Artificial Intelligence**
-
-* Future workflow
 
 #### 5 - Enrollment
 
@@ -162,27 +151,21 @@ Eligible beneficiaries are re-contacted and asked to enroll onto the programme. 
 * **Identification and Registration** for identifying beneficiaries and confirming enrolment
 * **Client Case Management** for storing program specific data for tracking
 
-**Building Block Workflows**
+**Example Implementation**
+
+To do
+
+**Building Blocks**
 
 [**Payments**](https://govstack.gitbook.io/bb-payments/)
 
-* Unknown Workflow
-
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
-
-* [6.2 Identity Verification](https://govstack.gitbook.io/bb-identity/6-functional-requirements#docs-internal-guid-2affb3f5-7fff-fa73-9e68-7707b820858d)
 
 [**Registration**](https://govstack.gitbook.io/bb-registration/)
 
-* [8.2 Using a Registration Service](https://govstack.gitbook.io/bb-registration/8-workflows#docs-internal-guid-6bac7ec4-7fff-2f07-f48f-168981104eec)
-
 **Client Case Management**
 
-* Future workflow
-
 **Artificial Intelligence**
-
-* Future workflow
 
 #### 6 - Payment
 
@@ -195,15 +178,15 @@ If a social cash transfer programme has enabled electronic payment processes (e.
 * **Financial Services** for processing beneficiary payment directly to their account, or for generating payroll to deposit payment amounts for withdrawal by beneficiary from designated banking institution(s) / pay-point(s) thereafter
 * **Client Case Management** for identifying and authenticating individual that is making a withdrawal, or to recall / verify deposit account information prior to payment transaction
 
-**Building Block Workflows**
+**Example Implementation**
+
+To do
+
+**Building Blocks**
 
 [**Payments**](https://govstack.gitbook.io/bb-payments/)
 
-* [10.2.1 Bulk Disbursement for Unconditional Cash Transfer](https://govstack.gitbook.io/bb-payments/10-workflows#10.2.1-bulk-disbursement-for-unconditional-cash-transfer)
-
 **Client Case Management**
-
-* Future workflow
 
 #### 7 - Ongoing Case Management
 
@@ -215,31 +198,23 @@ Depending on the programme and on the country’s broader social protection poli
 * **Client Case Management** for identifying and recording beneficiary interaction with local officers and capturing reported cases on grievances / appeals etc., and for determining risks / conditionality by reviewing individual beneficiary client case
 * **Work Planning and Coordination** to potentially suggest and connect with departments / agencies offering other social benefits and services to eligible beneficiaries
 
-**Building Block Workflows**
+**Example Implementation**
+
+To do
+
+**Building Blocks**
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-* [6.2 Identity Verification](https://govstack.gitbook.io/bb-identity/6-functional-requirements#docs-internal-guid-2affb3f5-7fff-fa73-9e68-7707b820858d)
-
 [**Consent**](https://govstack.gitbook.io/bb-consent/)
 
-* [4.4.2 Consenting after the registration](https://govstack.gitbook.io/bb-consent/9-workflows#4.4.2-consenting-after-the-registration-post-registration)
+**Data Collection**
 
-Data Collection
+**Geographic Information Services (GIS)**
 
-* Future workflow
-
-Geographic Information Services (GIS)
-
-* Future workflow
-
-Scheduling
-
-* Future workflow
+**Scheduling**
 
 **Workflow**
-
-* Future workflow
 
 #### 8 - Ongoing M\&E
 
@@ -251,31 +226,23 @@ Central level managers and local social welfare officers base decisions and mana
 * **Identification and Registration** (with aid of geographic information services tool for potential use) in tracking / locating areas in relation to level of activities and adherence, or client household location
 * **Data Analysis and Business Intelligence** / **Decision Support** / **Data Collection and Reporting** to analyze, update, and report programme output / performance information
 
-**Building Block Workflows**
+**Example Implementation**
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+To do
 
-* [6.2 Identity Verification](https://govstack.gitbook.io/bb-identity/6-functional-requirements#docs-internal-guid-2affb3f5-7fff-fa73-9e68-7707b820858d)
+**Building Blocks**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)
+[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)****
 
-* [4.4.2 Consenting after the registration](https://govstack.gitbook.io/bb-consent/9-workflows#4.4.2-consenting-after-the-registration-post-registration)
+****[**Consent**](https://govstack.gitbook.io/bb-consent/)****
 
-Data Collection
+**Data Collection**
 
-* Future workflow
+**Geographic Information Services (GIS)**
 
-Geographic Information Services (GIS)
-
-* Future workflow
-
-Scheduling
-
-* Future workflow
+**Scheduling**
 
 **Workflow**
-
-* Future workflow
 
 #### 9 - Updating
 
@@ -287,31 +254,23 @@ Ensuring data is up to date to trigger: Programme exit for those who are no long
 * **Client Case Management** for ongoing review of beneficiary case information
 * **Data Analysis and Business Intelligence** / **Decision Support** to support identification of individuals for exit or entry based on analyzing change in programme-specific / socioeconomic data
 
-**Building Block Workflows**
+**Example Implementation**
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+To do
 
-* [6.2 Identity Verification](https://govstack.gitbook.io/bb-identity/6-functional-requirements#docs-internal-guid-2affb3f5-7fff-fa73-9e68-7707b820858d)
+**Building Blocks**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)
+[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)****
 
-* [4.4.2 Consenting after the registration](https://govstack.gitbook.io/bb-consent/9-workflows#4.4.2-consenting-after-the-registration-post-registration)
+****[**Consent**](https://govstack.gitbook.io/bb-consent/)****
 
-Data Collection
+**Data Collection**
 
-* Future workflow
+**Geographic Information Services (GIS)**
 
-Geographic Information Services (GIS)
-
-* Future workflow
-
-Scheduling
-
-* Future workflow
+**Scheduling**
 
 **Workflow**
-
-* Future workflow
 
 ### Outputs
 
