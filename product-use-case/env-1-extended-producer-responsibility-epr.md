@@ -165,11 +165,23 @@ For this use case there are three specific payments: (1) producer licensing fee,
 
 The producer licensing fee and the product registration fee are to be paid as part of each application process/phase, to the respective government agency in charge of allocating EPR licensing and EPR products registration. A payment receipt is to be provided to each producer for each payment made.&#x20;
 
-The concept of the EPR policy scheme is that an EPR fee is to be paid for each type of electrical and electronic equipments introduced into the market every year. The fee will be used at the end of the product lifecycle to cover the collection, treatment, recycling and awareness raising when it becomes e-waste. The EPR regulatory framework must clearly spell out which entity will collect the EPR fee, how much the fee is, what the methodology is being used to determine the fee, and how payment should be processed. The fee to be paid could be proportional to the amount of electrical and electronic equipment introduced into the market. Below are proposed methods to arrive at the fee:
+The concept of the EPR policy scheme is that an EPR fee is to be paid for each type of electrical and electronic equipments introduced into the market every year. The fee will be used at the end of the product lifecycle to cover the collection, treatment, recycling and awareness raising when it becomes e-waste. The EPR regulatory framework must clearly spell out which entity will collect the EPR fee, how much the fee is, what the methodology is being used to determine the fee, and how payment should be processed. For instance with e-waste products being imported, the EPR fee can be collected at the point/port of entry by Customs Revenue Authority or the Utilities Regulatory Authority. The EPR fee can be collected with the import tax fee etc. To facilitate this, producers could be required to declare cargo (online: e-single window) and make the payment through an online portal.
 
-<figure><img src="blob:https://app.gitbook.com/1aa2c829-71d9-4491-8200-d809505def68" alt=""><figcaption></figcaption></figure>
+The fee to be paid could be proportional to the amount of electrical and electronic equipment introduced into the market. Below is the proposed method to arrive at the fee:
 
-For instance with e-waste products being imported, the EPR fee can be collected at the point/port of entry by Customs Revenue Authority or the Utilities Regulatory Authority. The EPR fee can be collected with the import tax fee etc. To facilitate this, producers could be required to declare cargo (online: e-single window) and make the payment through an online portal.
+**a. Market share calculation for a producer:**
+
+* Market share = The weight of products put on the market by an individual producer per product type divided by/ The total weight of products put on the market by all produers for that specific product type
+
+**b. Obligation calculation for a producer:**
+
+* Obligation for a producer = Total reported tonnage by product type mutiplied by\* Individual producer's market share&#x20;
+
+**c. Total costs per e-waste product stream:**
+
+* Total costs = Overhead costs per product type multiplied by\* % Market share + Operational costs (per tonne) multiplied by\* Tonnes collected
+
+**Product EPR fee** = Total costs for waste stream divided by/ Mass of product type put on the market
 
 **Workflows**
 
