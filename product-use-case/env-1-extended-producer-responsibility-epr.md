@@ -1,6 +1,6 @@
 # ENV-1- Extended Producer Responsibility (EPR)
 
-### Product Use Case Summary
+## Product Use Case Summary
 
 | ID      | ENV-EPR-1                                                |
 | ------- | -------------------------------------------------------- |
@@ -13,14 +13,22 @@ This use case provides step by step guidelines on how to implement the Extended 
 
 Implementing EPR can create various environmental, economical and social benefits. Example of EPR benefits include - improved waste collection and treatment, higher rates of waste reuse and recycling, incentivizing greener products, helping to finance waste collection and processing, and generally promoting a sustainable management of waste and circular economy. Governments in low- and middle-income countries are increasingly interested in implementing the EPR in various forms, through a system where they: define the products covered, the producers affected, the obligations imposed on producers - targets and fees, disseminate information on EPR and e-waste to stakeholders and citizens, and have a process to ensure effective monitoring and enforcement of the EPR.&#x20;
 
-### SDG Targets
+## Stakeholders
+
+* Ministry of Environment or any Minstrial body in charge of enviromental, recycling, waste, ICT and/or circular economy related regulations and policies.
+* Inspectorate, Competition and Consumer Protection Authority or any governmental body that ensures the protection and promotion of basic consumer rights as well as safeguarding health competition among enterprises.
+* Utilities Regulatory Authority or any governmental body with the mandate to license, monitor and enforce license obligations in the ICT sector.
+* Revenues Authority or any government revenue collection agency in charge with enforcing, assessing, collecting, and accounting for the various taxes imposed in a country.
+* &#x20;Producers/business operators that manufacture, import, distribute, resell and/or assemble electrical and electronic equipment (e-waste products).
+
+## SDG Targets
 
 * [11.6](https://solutions.dial.community/sdgs/sustainable\_cities\_and\_communiti): Reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management.
 * [12.4](https://solutions.dial.community/sdgs/responsible\_consumption\_and\_prod): Achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment.
 * [12.5](https://solutions.dial.community/sdgs/responsible\_consumption\_and\_prod): Substantially reduce waste generation through prevention, reduction, recycling and reuse.
 * [12.6](https://solutions.dial.community/sdgs/responsible\_consumption\_and\_prod): Encourage companies, especially large and transnational companies, to adopt sustainable practices and to integrate sustainability information into their reporting cycle.
 
-### Building Blocks
+## Building Blocks
 
 * ****[**Registration**](https://govstack.gitbook.io/bb-registration)****
 * ****[**Digital Registry**](https://govstack.gitbook.io/specification/v/version-0.9.0/building-blocks/digital-registries) ****&#x20;
@@ -36,9 +44,13 @@ Future building block inclusion
 * Shared Data Repositories
 * Terminology
 
-### Steps
+## Source Documents
 
-#### 1 - Outreach and EPR Framework&#x20;
+* [EPR implementation plan for Rwanda](https://gizonline.sharepoint.com/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/Freigegebene%20Dokumente/Forms/AllItems.aspx?id=%2Fsites%2FICTBuildingBlocks%2DCommondigitalSDGplatformwithguests%2FFreigegebene%20Dokumente%2FGeneral%2FCountry%20Engagement%2FRwanda%2FEPR%2FDraft%20Technical%20Proposal%20Report%20on%20the%20Implementation%20of%20EPR%20%2D%20Rwanda%20%5B9%5D%2Epdf\&viewid=e46a3426%2D839c%2D4ae2%2Db78f%2Db2d441e872c1\&parent=%2Fsites%2FICTBuildingBlocks%2DCommondigitalSDGplatformwithguests%2FFreigegebene%20Dokumente%2FGeneral%2FCountry%20Engagement%2FRwanda%2FEPR)
+
+## Steps
+
+### 1 - Outreach and EPR Framework&#x20;
 
 The Ministry of Environment or relevant Ministry, should coordinate with relevant authorities i.e. the Inspectorate, Competition and Consumer Protection Authority, Utilities Regulatory Authority, the Revenues Authority etc., to develop and establish a legal **EPR Framework and Implementation Plan** that outlines the responsibilities and role of these authorities. The EPR framework should include key clauses on scope of obligated products, stakeholder roles and responsibilities, financing mechanism, targets, penalties, authorization procedure, reporting, monitoring and enforcement mechanisms. To formulate this document, the Ministry can map policies and learnings from other countries, evaluate e-waste quantities and flows within their country, analyze waste management infrastructure and skills, as well as existing policies and legislation at national and sub-national level.&#x20;
 
@@ -62,7 +74,7 @@ To do
 
 ****[**Scheduling**](https://govstack.gitbook.io/bb-scheduler/) ****&#x20;
 
-#### 2 -  Producer Registration
+### 2 -  Producer Registration
 
 Producer registration is the process of collecting information of a new business - i.e., a business' name, purpose, tax data, etc – required by the chamber of commerce and/or relevant government authority as part of the business registration process. In this use case, producers (e.g. an importer, manufacturer, distributor or reseller) of electrical and electronic equipment have to register with the relevant Inspectorate, Competition and Consumer Protection Authority, as a business entity planning to operate in the electricals and electronics sector. A certificate of domestic company registration will be provided to the producer following their provision of the required registration information. The business registration certificate is a prerequiste in order for the producer to then apply for the operational license required to put electrical or electronic equipments on the market.
 
@@ -86,7 +98,7 @@ To do
 
 **Client Case Mangement**
 
-#### 3 - Licensing&#x20;
+### 3 - Licensing&#x20;
 
 Licensing is the process to acquire authorization from a government agency to operate in a sector that has specific requirements that need to be met. In this use case, licensing is fee-based and is the process for business operators, manufacturers, importers, distributors or assemblers of e-waste products, to apply for operational permission to introduce e-waste products into the local market. The local government's Regulatory Authority makes the decision on whether or not to issue an EPR license. This license is required for all producers to acquire prior to registering the specific type of e-waste product(s) they plan to introduce into the market. Licensing application to include i.e. licensing application fee payment receipt, completed application form, certificate of domestic company registration, environmental impact assesment, etc).
 
@@ -111,7 +123,7 @@ To do
 
 **Client Case Management**&#x20;
 
-#### 4 - Product Registration
+### 4 - Product Registration
 
 Registration is the process of documenting and maintaining records of registered electrical and electronic products (new or used) being manufactured, distributed, imported and sold on the market. All licensed producers will be required to register the respective type of e-waste goods they wish to introduce to the market - in order to obtain a registration number for each type of product. As part of the product registration, producers to provide product registration fee payment receipt, completed application form, certificate of conformity, product user manual, installation manual, and document indicating product life span.&#x20;
 
@@ -138,7 +150,7 @@ To do
 
 **Client Case Mangement**
 
-#### 5 - Data Verification and Validation
+### 5 - Data Verification and Validation
 
 Data verification and validation should be coordinated with all relevant governement authorities and regulatory bodies. For the EPR system, in certain countries, the registration data collated of the e-waste producer and their products by the respective business registration and licensing authorities, is then generally checked by the Ministry of Environment, and against other government databases (eg. ID, tax, chamber of commerce, etc.) in order to fill in any missing gaps, verify and validate collected information, including authentication of all records. \*Data checking approaches also vary: sometimes batch-sharing via _CD, sometimes full interoperability._
 
@@ -159,7 +171,7 @@ To do
 
 **Analytics and Business Intelligence**
 
-#### 6 - Payment
+### 6 - Payment
 
 For this use case there are three specific payments: (1) producer licensing fee, (2) product registration fee, and (3) EPR fee.
 
@@ -198,7 +210,32 @@ To do
 
 **Client Case Management**
 
-**7 - Ongoing M\&E**
+### **7 - Ongoing Case Management**
+
+This step involves ensuring information of e-waste producers are kept up to date - especially relating to registration and licensing. Also ensuring that there is a process in place to address any complaints, grievances and appeals raised by the producers. This process should be led by the government authority's EPR compliance officers/team.&#x20;
+
+**Workflows**
+
+* **Data Collection and Reporting** for capturing changes in producer's information (e-waste products, licensing etc)
+* **Client Case Management** for identifying and recording producer interaction with EPR compliance officers and capturing reported cases on grievances / appeals etc., and for determining decisions/actions to proceed with by reviewing individual producer client case
+
+**Example Implementation**
+
+To do
+
+**Building Blocks**
+
+[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
+
+**Data Collection**
+
+**Scheduling**
+
+**Workflow**
+
+### **8 - Ongoing M\&E**
 
 The government authority leading the EPR implementation should also allocate a team in charge of regulating EPR compliance and enforcing penalties. A monitoring team consistently tracking all e-waste operators active in the market, registered with a license within the EPR system and payments of the EPR fee. A live database should be put in place to categorize and track e-waste products in the market and EPR fee payments from the producers. Late payments can be tracked and an automated system put in place to send out late fee penalties to the producers. &#x20;
 
@@ -217,10 +254,6 @@ To do
 
 **Client Case Management**
 
-### Outputs
+## Contributors
 
-1. To Do
-
-### Failure Points
-
-1. To Do
+* To Do
