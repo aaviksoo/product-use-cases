@@ -50,7 +50,8 @@ Future building block inclusion
 
 ## Source Documents
 
-* [EPR implementation plan for Rwanda](https://gizonline.sharepoint.com/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/Freigegebene%20Dokumente/Forms/AllItems.aspx?id=%2Fsites%2FICTBuildingBlocks%2DCommondigitalSDGplatformwithguests%2FFreigegebene%20Dokumente%2FGeneral%2FCountry%20Engagement%2FRwanda%2FEPR%2FDraft%20Technical%20Proposal%20Report%20on%20the%20Implementation%20of%20EPR%20%2D%20Rwanda%20%5B9%5D%2Epdf\&viewid=e46a3426%2D839c%2D4ae2%2Db78f%2Db2d441e872c1\&parent=%2Fsites%2FICTBuildingBlocks%2DCommondigitalSDGplatformwithguests%2FFreigegebene%20Dokumente%2FGeneral%2FCountry%20Engagement%2FRwanda%2FEPR)
+* [Final EPR User Journey Template for Rwanda](https://miro.com/app/board/uXjVP5pocE0=/)
+* [EPR Digital Service Design Proposal for Rwanda](https://docs.google.com/presentation/d/1ccGtd9eAQPtPZtgwCcCg3uk8lwbhHfEJ/edit#slide=id.p2)
 
 ## Steps
 
@@ -59,6 +60,8 @@ Future building block inclusion
 The Ministry of Environment or relevant Ministry, should coordinate with relevant authorities i.e. the Inspectorate, Competition and Consumer Protection Authority, Utilities Regulatory Authority, the Revenues Authority etc., to develop and establish a legal **EPR Framework and Implementation Plan** that outlines the responsibilities and role of all relevant authorities. The EPR framework should include key clauses on scope of obligated products, stakeholder roles and responsibilities, financing mechanism, targets, penalties, authorization procedure, reporting, monitoring and enforcement mechanisms. To formulate this document, the Ministry can map policies and learnings from other countries, evaluate e-waste quantities and flows within their country, analyze waste management infrastructure and skills, as well as existing policies and legislation at national and sub-national level.&#x20;
 
 As a next step, the draft Framework can be shared with a core group of diverse stakeholders including other government authorities, civil society actors, and private sector actors that are electrical and electronic equipment producers (importers, distributors, manufacturers and resellers) - to review and comment on the draft document via workshop format sessions. A co-creation session with this group around the registration and EPR fee payment procedure would be very useful to acquire input from producers, and promote a user-friendly EPR designed process.
+
+Once the EPR regulations and processes have been finalized, information on the EPR scheme can be disseminated via - media campaigns facilitated by relevant government authorities, and through local private sector federations/associations.
 
 &#x20;**Workflows**
 
@@ -85,7 +88,7 @@ Producer registration is the process of collecting information of a new business
 **Workflows**
 
 * **Data Collection and Reporting** for capturing the business registration information of producers wishing to operate in the electronics and electrical sector.
-* **Identification and Registration** for locating and tracking business operators registered in the EPR system.&#x20;
+* **Identification and Registration** for locating, authenticating and tracking business operators registered in the EPR system.&#x20;
 * **Client Case Management** for automating the process in creating, collecting and organizing the registered producers' records in one place. This will allow the convenient access and a comprehensive view of each registered producer in order to initiate and manage compliance. Moreover, support improved and timely registration services, and back office efficiencies.
 
 **Example of Implementation**
@@ -104,15 +107,18 @@ To do
 
 **Client Case Management**
 
+**Geographic Information Services (GIS)**
+
 ### 3 - Licensing&#x20;
 
-Licensing is the process to acquire authorization from a government agency to operate in a sector that has specific requirements that need to be met. In this use case, licensing is fee-based and is the process for business operators, manufacturers, importers, distributors or assemblers of e-waste products, to apply for operational permission to introduce e-waste products into the local market. The local government's Regulatory Authority makes the decision on whether or not to issue an EPR license. This license is required for all producers to acquire prior to registering the specific type of e-waste product(s) they plan to introduce into the market. Licensing application to include i.e. licensing application fee payment receipt, completed application form, certificate of domestic company registration, environmental impact assessment, etc).
+Licensing is the process to acquire authorization from a government agency to operate in a sector that has specific requirements that need to be met. In this use case, licensing is fee-based and is the process for business operators, manufacturers, importers, distributors or assemblers of e-waste products, to apply for operational permission to introduce e-waste products into the local market. The local government's Regulatory Authority makes the decision on whether or not to issue an EPR license. This license is required for all producers to acquire prior to registering the specific type of e-waste product(s) they plan to introduce into the market. Licensing application to include i.e. licensing application fee payment receipt, completed application form, certificate of domestic company registration, environmental impact assessment, audit certificates etc). Certain countries also require site visits of a producers warehouse/factory prior to approving the issuance of a license.&#x20;
 
 **Workflows**
 
 * **Data Collection and Reporting** for capturing and evaluating licensing application data submitted by producers of e-waste products.
 * **Identification** to easily be able to identify and track registered business operators applying for a license within the EPR system.  &#x20;
-* **Client Case Management** to help automate and manage the licensing application and approval process. Support in vetting/ensuring the applicants meet the eligibility requirements, and have submitted all required documentations.&#x20;
+* **Client Case Management** to help automate and manage the licensing application and approval process, schedule site visit appointments of e-waste factories/warehouses, and distinguish between new and renewal licensing applications. Moreover, support in vetting/ensuring the applicants meet the eligibility requirements, and have submitted all required documentations.&#x20;
+* **Client Communication** to update producers on additional documentations required and/or application status updates/outcome.
 * **Financial Services** for facilitating one off licensing application fee payment by the producer and allocation of a fee payment receipt.&#x20;
 
 **Example of Implementation**
@@ -127,13 +133,19 @@ To do
 
 ****[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)****
 
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+
 ****[**Payments**](https://govstack.gitbook.io/bb-payments/)****
+
+[**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)
 
 **Client Case Management**&#x20;
 
+**Geographic Information Services (GIS)**
+
 ### 4 - Product Registration
 
-Registration is the process of documenting and maintaining records of registered electrical and electronic products (new or used) being manufactured, distributed, imported and sold on the market. All licensed producers will be required to register the respective type of e-waste goods they wish to introduce to the market - in order to obtain a registration number/code for each type of product. As part of the product registration process: producers submit a completed product registration application form with agreement to comply to the EPR, the product user manual, installation manual, and document indicating product life span. The producer completes this registration process by paying the product registration application fee and receiving a receipt confirming payment. Once all requirements are met, the producer receices a registration number/product code.
+Registration is the process of documenting and maintaining records of registered electrical and electronic products (new or used) being manufactured, distributed, imported and sold on the market. All licensed producers will be required to register the respective type of e-waste goods they wish to introduce to the market - in order to obtain a registration number/code for each type of product. As part of the product registration process: producers submit a completed product registration application form with agreement to comply to the EPR, the product user manual, installation manual, and document indicating product life span. The producer completes this registration process by paying the product registration application fee and receiving a receipt confirming payment. Some producers may be requested to submit a product sample. Based on whether a producer imports their e-waste products, additional data might be requested (i.e. import permit, product country of origin etc). Once all requirements are met, the producer receives a registration number/product code.
 
 **Workflows**
 
@@ -195,21 +207,16 @@ The producer licensing fee and the product registration fee are to be paid as pa
 
 The concept of the EPR policy scheme is that an EPR fee is to be paid for each type of electrical and electronic equipments introduced into the market every year. The fee will be used at the end of the product lifecycle to cover the collection, treatment, recycling and awareness raising when it becomes e-waste. The EPR regulatory framework must clearly spell out which entity will collect the EPR fee, how much the fee is, what the methodology is being used to determine the fee, and how payment should be processed. For instance with e-waste products being imported, the EPR fee can be collected at the point/port of entry by Customs Revenue Authority or the Utilities Regulatory Authority. The EPR fee can be collected with the import tax fee etc. To facilitate this, producers could be required to declare cargo (online: e-single window) and make the payment through an online portal.
 
-The fee to be paid could be proportional to the amount of electrical and electronic equipment introduced into the market. Below is the proposed method to arrive at the fee:
+The fee to be paid could be proportional to the amount of electrical and electronic equipment introduced into the market. Below are examples of methods that can be used to arrive at the fee:
 
-**a. Market share calculation for a producer:**
-
-* Market share = The weight of products put on the market by an individual producer per product type divided by/ The total weight of products put on the market by all produers for that specific product type
-
-**b. Obligation calculation for a producer:**
-
-* Obligation for a producer = Total reported tonnage by product type mutiplied by\* Individual producer's market share&#x20;
-
-**c. Total costs per e-waste product stream:**
-
-* Total costs = Overhead costs per product type multiplied by\* % Market share + Operational costs (per tonne) multiplied by\* Tonnes collected
-
-**Product EPR fee** = Total costs for waste stream divided by/ Mass of product type put on the market
+1. **Product EPR fee paid by the producer** = Total costs for waste stream divided by/ Mass of product type put on the market.
+   1. **Market share calculation for a producer:**
+      * Market share = The weight of products put on the market by an individual producer per product type divided by/ The total weight of products put on the market by all producers for that specific product type
+   2. **Obligation calculation for a producer:**
+      * Obligation for a producer = Total reported tonnage by product type multiplied by\* Individual producer's market share&#x20;
+   3. **Total costs per e-waste product stream:**
+      * Total costs = Overhead costs per product type multiplied by\* % Market share + Operational costs (per tonne) multiplied by\* Tonnes collected
+2. **Product EPR fee paid by the producer** = An EPR cost is calculated and associated for every possible type of e-waste product. Thus, the EPR fee a producer has to pay is the quantity of a product they plan to introduce into the market multiplied by the EPR cost associated with the product type.
 
 **Workflows**
 
@@ -277,6 +284,8 @@ To do
 **Building Blocks**
 
 ****[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries) ****&#x20;
+
+****[**Identification and Verification**](https://govstack.gitbook.io/bb-identity/)****
 
 ****[**Messaging**](https://app.gitbook.com/s/oEAfhW9JLP3tJ6mPyxtF/2-description) ****&#x20;
 
