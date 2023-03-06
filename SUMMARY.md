@@ -1,5 +1,9 @@
 # Table of contents
 
-* [Workflows and Capabilities](README.md)
-* [Consent](consent.md)
-* [Payments](payments.md)
+* [Product Use Case](README.md)
+  * [\<Use Case Template>](product-use-case/less-than-use-case-template-greater-than.md)
+  * [INST-1 - Unconditional Social Cash Transfer](product-use-case/inst-1-unconditional-social-cash-transfer.md)
+  * [AGR-1-Market Linkage](product-use-case/agr-1-market-linkage.md)
+  * [HLTC-1-Postpartum and Infant Care](product-use-case/hltc-1-postpartum-and-infant-care.md)
+  * [ENV-1- Extended Producer Responsibility (EPR)](product-use-case/env-1-extended-producer-responsibility-epr.md)
+  * [URB - 1 - Online Building Plan Approval System](product-use-case/urb-1-online-building-plan-approval-system.md)
