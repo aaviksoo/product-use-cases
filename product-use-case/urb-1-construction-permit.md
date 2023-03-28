@@ -1,17 +1,17 @@
-# URB - 1 - Construction Permit Service
+# URB-1 - Construction Permit
 
 ## Product Use Case Summary
 
 | ID      | URB-1                        |
 | ------- | ---------------------------- |
-| Name    | Construction Permit Service  |
+| Name    | Construction Permit          |
 | Sector  | Urban Planning/ Development  |
 | Version | 1.0                          |
 | Status  | Draft                        |
 
-This use case profiles the implementation process of a construction permit service. A service that automates the entire construction permit approval process - from enabling online application submissions of building construction plans, to initiating verification and final approval by the local government authorities. This process is how local governments can decide whether to approve or decline construction permit applications by evaluating submitted building plans, and assessing their compliance with standard building codes and local regulations. A construction permit is an important requirement for countries to ensure buildings and structures are safe, with sound engineering, foundations and construction techniques.
+This use case profiles the implementation process of a construction permit. A service that automates the entire construction permit approval process - from enabling online application submissions of building construction plans, to initiating verification and final approval by the local government authorities. This process is how local governments can decide whether to approve or decline construction permit applications by evaluating submitted building plans, and assessing their compliance with standard building codes and local regulations. A construction permit is an important requirement for countries to ensure buildings and structures are safe, with sound engineering, foundations and construction techniques.
 
-Municipalities and counties/towns have traditionally managed construction permits "over the counter" and through paper or PDF applications. This time-consuming, complex and error-prone tasks has raised issues in some countries - around the accountability and transparency, as well as inefficiencies in achieving timely construction permitting processes, and sustainable urban planning development. As a result, a number of governments in low-and-middle income countries are implementing an online construction permit service. A digital service with a hassle-free online procedure and user-friendly tools to achieve a more streamlined end to end approval process that ensures transparency, accountability, and time-bound services.
+Municipalities and counties/towns have traditionally managed construction permits "over the counter" and through paper or PDF applications. This time-consuming, complex and error-prone tasks has raised issues in some countries - around the accountability and transparency, as well as inefficiencies in achieving timely construction permitting processes, and sustainable urban planning development. As a result, a number of governments in low-and-middle income countries are implementing an online construction permit. A digital service with a hassle-free online procedure and user-friendly tools to achieve a more streamlined end to end approval process that ensures transparency, accountability, and time-bound services.
 
 ## Stakeholders
 
@@ -30,19 +30,12 @@ Municipalities and counties/towns have traditionally managed construction permit
 * ****[**Consent**](https://govstack.gitbook.io/bb-consent/)****
 * ****[**Digital Registry**](https://govstack.gitbook.io/specification/v/version-0.9.0/building-blocks/digital-registries) ****&#x20;
 * ****[**Identification and Verification**](https://govstack.gitbook.io/bb-identity/)****
+* ****[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)****
 * [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 * ****[**Payments**](https://govstack.gitbook.io/bb-payments)****
 * ****[**Registration**](https://govstack.gitbook.io/bb-registration)****
 * ****[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)****
 * ****[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)****
-
-Future building block inclusion
-
-* E-Signature
-* E-Marketplace
-* GIS
-* UI/UX
-* Cloud and Infrastructure
 
 ## Source Documents
 
@@ -53,20 +46,20 @@ Future building block inclusion
 
 ### 1 - Outreach Communication
 
-Staff from the Ministry of Urban Planning or another leading agency / organization in charge of regulating all aspects of a country's construction permit issuance processes (building codes and laws), leads the campaign to disseminate information about the construction permit service. Roll out of this service can be disseminated on the Ministry's and all the municipalities' websites and social media platforms. Marketing and promotional communication materials (i.e., brochures, pamphlets, flyers etc) can also be made available at the local municipalities/urban planning centers.&#x20;
+Staff from the Ministry of Urban Planning or another leading agency / organization in charge of regulating all aspects of a country's construction permit issuance processes (building codes and laws), leads the campaign to disseminate information about the construction permit. Roll out of this service can be disseminated on the Ministry's and all the municipalities' websites and social media platforms. Marketing and promotional communication materials (i.e., brochures, pamphlets, flyers etc) can also be made available at the local municipalities/urban planning centers.&#x20;
 
-To achieve clarity, consistency and transparency on the new online process and requirements for obtaining a construction permit, target communication to the key stakeholders involved (issuing government authorities, citizens, architects, engineers) should be prioritized. The state team can lead rollout plans and ensure the necessary infrastructure for local municipalities staff training and deployment are made available at each building plan department in the country. Moreover, to ensure that implementation of the construction permit approval service is uniform throughout the country and that the rules are not interpreted differently, a user manual on the new construction permit service should be provided to each local government building plan staff.&#x20;
+To achieve clarity, consistency and transparency on the new online process and requirements for obtaining a construction permit, target communication to the key stakeholders involved (issuing government authorities, citizens, architects, engineers) should be prioritized. The state team can lead rollout plans and ensure the necessary infrastructure for local municipalities staff training and deployment are made available at each building plan department in the country. Moreover, to ensure that implementation of the construction permit approval method is uniform throughout the country and that the rules are not interpreted differently, a user manual on the new construction permit should be provided to each local government building plan staff.&#x20;
 
 Awareness campaigns can be organized across municipalities informing citizens about the new construction permit application procedure with information on how they can upload their application (building plans and construction documents), pay fees and track their application online, schedule an inspection (if required), and download and print their permit order once issued.&#x20;
 
 **Workflows**
 
-* **Client communication** to facilitate information dissemination on the new digitized construction permit service via government and municipalities' building construction permit websites, social media, and national media channel(s).&#x20;
+* **Client communication** to facilitate information dissemination on the new digitized construction permit via government and municipalities' building construction permit websites, social media, and national media channel(s).&#x20;
 * **e-Marketplace** as a web-based application to promote and disseminate information of all government services offered to citizens, and guidance on how to access them.
 * **Content management** for the development of a user manual and training guide on the digitized service for building plan officials and/or users wishing to submit a construction permit application.&#x20;
-* **Staff communication and education** for informing construction permit issuing staff authorities about the construction permit service. Organize training sessions for staff on how to review applications, check fee payment status, and process and issue permits - all online.&#x20;
+* **Staff communication and education** for informing construction permit issuing staff authorities about the construction permit. Organize training sessions for staff on how to review applications, check fee payment status, and process and issue permits - all online.&#x20;
 * **Identification and Registration** for providing an administration account for all qualified government building plan staff with authority to issue construction permits.&#x20;
-* **Data Collection and Reporting** for capturing the new construction permit service and regulation changes, and to report this data to all relevant stakeholders.&#x20;
+* **Data Collection and Reporting** for capturing the new construction permit and regulation changes, and to report this data to all relevant stakeholders.&#x20;
 
 **Example Implementation**
 
@@ -80,9 +73,9 @@ To do
 
 ### 2 - Registration
 
-Registration is the process of collecting information of users wishing to access a digital service. Depending on specific country context and the platform being utilized to host the construction permit service, registration process could defer. This service can be hosted using a single window approach to facilitate the end-to-end construction permit application procedure and clearances from multiple agencies or departments.&#x20;
+Registration is the process of collecting information of users wishing to access a digital service. Depending on specific country context and the platform being utilized to host the construction permit, registration process could defer. This service can be hosted using a single window approach to facilitate the end-to-end construction permit application procedure and clearances from multiple agencies or departments.&#x20;
 
-In certain countries, there is a statewide online construction permit service platform in place, and the target users - citizens, architects, engineers etc., are required to register (provide full name, email, phone number, occupation etc.) on the platform in order to generate personalized login credentials. Then subsequently with these login credentials, the user can then create, save and/or submit a construction permit application on the online portal. \*\*If a country already has a national digital registry system in place with a unique identification number for every citizen, then the registration step that allocates a unique username and password to access the permitting platform might not be necessary. In some countries, a citizen can use their national electronic identification data to access all online public services. This system will pull in all applicants' data to facilitate their registration process.
+In certain countries, there is a statewide online construction permit platform in place, and the target users - citizens, architects, engineers etc., are required to register (provide full name, email, phone number, occupation etc.) on the platform in order to generate personalized login credentials. Then subsequently with these login credentials, the user can then create, save and/or submit a construction permit application on the online portal. \*\*If a country already has a national digital registry system in place with a unique identification number for every citizen, then the registration step that allocates a unique username and password to access the permitting platform might not be necessary. In some countries, a citizen can use their national electronic identification data to access all online public services. This system will pull in all applicants' data to facilitate their registration process.
 
 **Workflows**
 
@@ -102,11 +95,9 @@ To do
 
 ****[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)****
 
+****[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)****
+
 [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
-
-**Information Mediator**
-
-**Client Case Management**&#x20;
 
 ### 3 - Application Process
 
@@ -137,11 +128,9 @@ To do
 
 ****[**Payments**](https://govstack.gitbook.io/bb-payments/)****
 
-**Client Case Management**&#x20;
-
 ### 4 - Data Verification and Validation
 
-Data within the online construction permit service is generally checked\* by the Central Level Ministry in charge of urban planning and the local permit issuing municipality departments, against other government databases (e.g., ID, tax, land titles, utilities, etc.) in order to fill in any missing gaps, verify and validate collected information, including authentication of all records. \*Data checking approaches also vary: sometimes batch-sharing via CD, sometimes full interoperability. This step may be done for both the registration (step 2), and application process (step 3) - whereby before any application is reviewed, each applicant's submitted data will be scrutinized and vetted. \*\*To address data privacy issues, in some countries, data sharing permission should have already been requested and granted from the applicant, to conduct the data checking process against other government databases. &#x20;
+Data within the online construction permit is generally checked\* by the Central Level Ministry in charge of urban planning and the local permit issuing municipality departments, against other government databases (e.g., ID, tax, land titles, utilities, etc.) in order to fill in any missing gaps, verify and validate collected information, including authentication of all records. \*Data checking approaches also vary: sometimes batch-sharing via CD, sometimes full interoperability. This step may be done for both the registration (step 2), and application process (step 3) - whereby before any application is reviewed, each applicant's submitted data will be scrutinized and vetted. \*\*To address data privacy issues, in some countries, data sharing permission should have already been requested and granted from the applicant, to conduct the data checking process against other government databases. &#x20;
 
 **Workflows**
 
@@ -160,21 +149,17 @@ To do
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
+****[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)****
+
 ****[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)****
-
-**Client Case Management**
-
-**Analytics and Business Intelligence**
-
-**Information Mediator**
 
 ### 5 - <mark style="color:purple;"></mark> Eligibility Determination
 
-The construction permit service can have APIs in place that can scrutinize submitted construction permit applications to support in the decision-making process. This entails the detailed review of application form data and all uploaded documentations (i.e., building plan design, land ownership, deed etc). Applicants should receive general updates on the status of their application such as a notification when their application is being processed with a tentative decision date, or additional information and documents required. &#x20;
+The construction permit can have APIs in place that can scrutinize submitted construction permit applications to support in the decision-making process. This entails the detailed review of application form data and all uploaded documentations (i.e., building plan design, land ownership, deed etc). Applicants should receive general updates on the status of their application such as a notification when their application is being processed with a tentative decision date, or additional information and documents required. &#x20;
 
 NOTE: Depending on the country, construction permit approval takes different forms e.g. some countries have a document submission checklist embedded and if one of the required documents is not submitted or the submitted documents are unclear or structural design images blurry, then the application is left as pending and a local building plan officer receives a notification for a more manual review and followup. The applicant will receive a notification (via email, SMS, on the permitting platform) stating what is missing or required. The building plan officer can request the hard copy permit application submissions, when appropriate. The application can then be revised and resubmitted.
 
-In most countries that have implemented the construction permit service, a building authority still scrutinizes all applications received and consults with other authorities: i.e., a design auditor may conduct an audit to provide feedback regarding the extent to which the design conforms to planning demands and technical requirements. If opinions from other authorities and design auditors are favorable, and the building authority is satisfied that the building design meets the compliance and technical building plan requirements (fire safety, accessibility, space standards etc), then a construction permit is granted. If the building design and construction documents do not meet the compliance and technical building plan requirements, the applicant will be issued a notice stating why their construction project does not comply. These applicants could be asked to submit further information or a revised application meeting the compliance requirements, in order for their application to be reconsidered. \*\*All submitted applications should be archived to ensure a secure longterm storage of this data.
+In most countries that have implemented the construction permit, a building authority still scrutinizes all applications received and consults with other authorities: i.e., a design auditor may conduct an audit to provide feedback regarding the extent to which the design conforms to planning demands and technical requirements. If opinions from other authorities and design auditors are favorable, and the building authority is satisfied that the building design meets the compliance and technical building plan requirements (fire safety, accessibility, space standards etc), then a construction permit is granted. If the building design and construction documents do not meet the compliance and technical building plan requirements, the applicant will be issued a notice stating why their construction project does not comply. These applicants could be asked to submit further information or a revised application meeting the compliance requirements, in order for their application to be reconsidered. \*\*All submitted applications should be archived to ensure a secure longterm storage of this data.
 
 **Workflows**
 
@@ -189,15 +174,9 @@ To do
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
+****[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)****
+
 ****[**Messaging**](http://localhost:5000/s/mNnAAqNpNoSI6WELhO9t/1-description)****
-
-**Client Case Management**
-
-**Analytics and Business Intelligence**
-
-**Artificial Intelligence**
-
-**Information Mediator**
 
 ### 6 - Payment
 
@@ -225,9 +204,7 @@ To do
 
 ****[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)****
 
-**Client Case Management**
-
-### **7 - Issuing / Permit Allocation**
+### **7 - Permit Issuing**
 
 Permit issuing generally takes place once the submitted construction permit application has been reviewed and approved, and in some country cases - an extra step includes conducting an in-person building site inspection prior to permit issuance. Examples of construction permit standards that must be met could include structural safety, fire safety, the control of toxic substances, ventilation, sanitation, fall-protection and general safety measures that will be implemented during the design, installation and inspection of building construction works.&#x20;
 
@@ -258,7 +235,7 @@ To do
 
 ### **8 - Ongoing Case Management**
 
-This step involves ensuring that there is a virtual help desk and/or physical support centers in place to address any queries pertaining to registration on the platform and the construction permit approval decision. Incorporating a complaint management software will efficiently and transparently ensure that all grievances, complaints and appeals raised by the applicants, are tracked and addressed. In certain countries, this process is led by the construction permit service help desk support unit at the state level, to address problem diagnosis needs pertaining to the platform. The local building officials can also be trained to address any queries that cannot be addressed through an automated process.
+This step involves ensuring that there is a virtual help desk and/or physical support centers in place to address any queries pertaining to registration on the platform and the construction permit approval decision. Incorporating a complaint management software will efficiently and transparently ensure that all grievances, complaints and appeals raised by the applicants, are tracked and addressed. In certain countries, this process is led by the construction permit help desk support unit at the state level, to address problem diagnosis needs pertaining to the platform. The local building officials can also be trained to address any queries that cannot be addressed through an automated process.
 
 **Workflows**
 
@@ -283,11 +260,9 @@ To do
 
 ****[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)****
 
-**Data Collection**
-
 ### **9 - Ongoing M\&E**
 
-Monitoring and evaluation is crucial to ensure transparency, accountability and quality public service delivery. To facilitate this process, the government authority leading the implementation of the construction permit <mark style="color:purple;"></mark> service can allocate a coordination team (i.e., inspection unit) in charge of ensuring construction work is carried out in compliance with the approved building plans, the construction permit and building regulations. This team could have in place a system with key stages to inspect all construction works or carry out random site inspections to supervise construction works. <mark style="color:purple;"></mark> The inspector authority can provide a report for each examination <mark style="color:purple;"></mark> - <mark style="color:purple;"></mark> available in a <mark style="color:purple;"></mark> digital format <mark style="color:purple;"></mark> and <mark style="color:blue;"><mark style="color:purple;"><mark style="color:purple;"></mark> accessible via the <mark style="color:blue;"><mark style="color:purple;"><mark style="color:purple;"></mark> permitting <mark style="color:purple;"></mark> platform. <mark style="color:purple;"></mark> If construction works take place without a construction permit or do not comply with the approved design, they can be suspended until the relevant local authority takes a decision regarding demolition or continuation. A fine may also be charged.
+Monitoring and evaluation is crucial to ensure transparency, accountability and quality public service delivery. To facilitate this process, the government authority leading the implementation of the construction permit can allocate a coordination team (i.e., inspection unit) in charge of ensuring construction work is carried out in compliance with the approved building plans, the construction permit and building regulations. This team could have in place a system with key stages to inspect all construction works or carry out random site inspections to supervise construction works. <mark style="color:purple;"></mark> The inspector authority can provide a report for each examination <mark style="color:purple;"></mark> - <mark style="color:purple;"></mark> available in a <mark style="color:purple;"></mark> digital format <mark style="color:purple;"></mark> and <mark style="color:blue;"><mark style="color:purple;"><mark style="color:purple;"></mark> accessible via the <mark style="color:blue;"><mark style="color:purple;"><mark style="color:purple;"></mark> permitting <mark style="color:purple;"></mark> platform. <mark style="color:purple;"></mark> If construction works take place without a construction permit or do not comply with the approved design, they can be suspended until the relevant local authority takes a decision regarding demolition or continuation. A fine may also be charged.
 
 In certain countries, once the construction work has been completed, the building authorities are to be notified. Several documents may be required to demonstrate completion, such as, the building design with the actual works carried out, reports of site inspections etc. In addition, submission of an attestation stating that the construction work has been carried out in accordance with the approved design and if any changes were made, that they comply with the building regulatory requirements. In other country cases, a final site inspection is required - the purpose is to verify whether construction works actually carried out comply with the building regulations and the approved building design.&#x20;
 
@@ -311,8 +286,6 @@ To do
 ****[**Payments**](https://govstack.gitbook.io/bb-payments/)****
 
 ****[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)****
-
-**Client Case Management**
 
 ## Contributors
 

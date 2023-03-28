@@ -1,15 +1,15 @@
-# ENV-1- Extended Producer Responsibility (EPR)
+# ENV-1 - Extended Producer Responsibility (EPR)
 
 ## Product Use Case Summary
 
-| ID      | ENV-EPR-1                                                |
+| ID      | ENV-1                                                    |
 | ------- | -------------------------------------------------------- |
 | Name    | Extended Producer Responsibility (EPR)                   |
 | Sector  | Environment - E-Waste Policy Compliance/Circular Economy |
 | Version | 1.0                                                      |
 | Status  | Draft                                                    |
 
-This use case provides step by step guidelines on how to implement the E**xtended Producer Responsibility (EPR)** system of waste from electrical and electronic equipments (also known as e-waste). **EPR** is an environmental policy approach that regulates a producer’s responsibility for a product throughout the product’s life cycle. Improper disposal of e-waste poses numerous threats to the environment, economy, and health and well-being of citizens. Under the EPR approach, a producer takes the responsibility for financing **collection**, **recycling** and end-of-life **disposal** of e-waste equipment/product streams - batteries, small consumer electronics, accumulators, packaging and other EPR product categories - in order to mitigate the environmental impacts of their products throughout the entire product life cycle. It thereby aims to increase the separate collection of end-of-life products and to enable their more circular treatment.
+This use case provides step by step guidelines on how to implement the Extended Producer Responsibility (EPR) system of waste from electrical and electronic equipments (also known as e-waste). EPR is an environmental policy approach that regulates a producer’s responsibility for a product throughout the product’s life cycle. Improper disposal of e-waste poses numerous threats to the environment, economy, and health and well-being of citizens. Under the EPR approach, a producer takes the responsibility for financing **** collection, recycling and end-of-life disposal **** of e-waste equipment/product streams - batteries, small consumer electronics, accumulators, packaging and other EPR product categories - in order to mitigate the environmental impacts of their products throughout the entire product life cycle. It thereby aims to increase the separate collection of end-of-life products and to enable their more circular treatment.
 
 Implementing EPR can create various environmental, economical and social benefits. Example of EPR benefits include - improved waste collection and treatment, higher rates of waste reuse and recycling, incentivizing greener products, helping to finance waste collection and processing, and generally promoting a sustainable management of waste and circular economy. Governments in low- and middle-income countries are increasingly interested in implementing an EPR system in various forms through a system where they: define the products covered, the producers affected, the obligations imposed on producers - targets and fees, disseminate information on EPR and e-waste to stakeholders and citizens, and have a process to ensure effective monitoring and enforcement of the EPR.&#x20;
 
@@ -33,20 +33,12 @@ Implementing EPR can create various environmental, economical and social benefit
 * ****[**Consent**](https://govstack.gitbook.io/bb-consent/)****
 * ****[**Digital Registry**](https://govstack.gitbook.io/specification/v/version-0.9.0/building-blocks/digital-registries) ****&#x20;
 * ****[**Identification and Verification**](https://govstack.gitbook.io/bb-identity/)****
+* ****[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)****
 * [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 * ****[**Payments**](https://govstack.gitbook.io/bb-payments)****
 * ****[**Registration**](https://govstack.gitbook.io/bb-registration)****
 * ****[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)****
 * ****[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)****
-
-Future building block inclusion
-
-* Analytics and Business Intelligence
-* Client Case Management
-* Data Collection
-* Reporting and Dashboards
-* Shared Data Repositories
-* Terminology
 
 ## Source Documents
 
@@ -57,7 +49,7 @@ Future building block inclusion
 
 ### 1 - Outreach and EPR Framework&#x20;
 
-The Ministry of Environment or relevant Ministry, should coordinate with relevant authorities i.e. the Inspectorate, Competition and Consumer Protection Authority, Utilities Regulatory Authority, the Revenues Authority etc., to develop and establish a legal **EPR Framework and Implementation Plan** that outlines the responsibilities and role of all relevant authorities. The EPR framework should include key clauses on scope of obligated products, stakeholder roles and responsibilities, financing mechanism, targets, penalties, authorization procedure, reporting, monitoring and enforcement mechanisms. To formulate this document, the Ministry can map policies and learnings from other countries, evaluate e-waste quantities and flows within their country, analyze waste management infrastructure and skills, as well as existing policies and legislation at national and sub-national level.&#x20;
+The Ministry of Environment or relevant Ministry, should coordinate with relevant authorities i.e. the Inspectorate, Competition and Consumer Protection Authority, Utilities Regulatory Authority, the Revenues Authority etc., to develop and establish a legal EPR Framework and Implementation Plan that outlines the responsibilities and role of all relevant authorities. The EPR framework should include key clauses on scope of obligated products, stakeholder roles and responsibilities, financing mechanism, targets, penalties, authorization procedure, reporting, monitoring and enforcement mechanisms. To formulate this document, the Ministry can map policies and learnings from other countries, evaluate e-waste quantities and flows within their country, analyze waste management infrastructure and skills, as well as existing policies and legislation at national and sub-national level.&#x20;
 
 As a next step, the draft Framework can be shared with a core group of diverse stakeholders including other government authorities, civil society actors, and private sector actors that are electrical and electronic equipment producers (importers, distributors, manufacturers and resellers) - to review and comment on the draft document via workshop format sessions. A co-creation session with this group around the registration and EPR fee payment procedure would be very useful to acquire input from producers, and promote a user-friendly EPR designed process.
 
@@ -103,11 +95,9 @@ To do
 
 ****[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)****
 
+****[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)****
+
 ****[**Registration**](https://govstack.gitbook.io/bb-registration/)****
-
-**Client Case Management**
-
-**Geographic Information Services (GIS)**
 
 ### 3 - Licensing&#x20;
 
@@ -133,15 +123,13 @@ To do
 
 ****[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)****
 
+****[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)****
+
 [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 
 ****[**Payments**](https://govstack.gitbook.io/bb-payments/)****
 
 [**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)
-
-**Client Case Management**&#x20;
-
-**Geographic Information Services (GIS)**
 
 ### 4 - Product Registration
 
@@ -166,11 +154,11 @@ To do
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
+****[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)****
+
 ****[**Payments**](broken-reference)****
 
 [**Registration**](https://govstack.gitbook.io/bb-registration/)
-
-**Client Case Mangement**
 
 ### 5 - Data Verification and Validation
 
@@ -193,11 +181,9 @@ To do
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
+****[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)****
+
 ****[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)****
-
-**Client Case Management**
-
-**Analytics and Business Intelligence**
 
 ### 6 - Payment
 
@@ -237,8 +223,6 @@ To do
 
 ****[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)****
 
-**Client Case Management**
-
 ### **7 - Ongoing Case Management**
 
 This step involves ensuring information of e-waste producers are kept up to date - specifically relating to registration and licensing. Also ensuring that there is a process in place to address any complaints, grievances and appeals raised by the producers. This process should be led by the government authority's EPR compliance officers/team.&#x20;
@@ -266,8 +250,6 @@ To do
 
 ****[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)****
 
-**Data Collection**
-
 ### **8 - Ongoing M\&E**
 
 The government authority leading the EPR implementation should also allocate a team in charge of regulating EPR compliance and enforcing penalties. A monitoring team consistently tracking all e-waste operators active in the market, registered with a license within the EPR system and payments of the EPR fee. A live database should be put in place to categorize and track e-waste products in the market and EPR fee payments from the producers. Late payments can be tracked and an automated system put in place to send out late fee penalties to the producers. &#x20;
@@ -292,8 +274,6 @@ To do
 ****[**Payments**](https://govstack.gitbook.io/bb-payments/)****
 
 ****[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)****
-
-**Client Case Management**
 
 ## Contributors
 
