@@ -189,7 +189,7 @@ To do
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-****[**Messaging**](https://app.gitbook.com/s/mNnAAqNpNoSI6WELhO9t/1-description)****
+****[**Messaging**](http://localhost:5000/s/mNnAAqNpNoSI6WELhO9t/1-description)****
 
 **Client Case Management**
 
@@ -219,7 +219,7 @@ To do
 
 ****[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries) ****&#x20;
 
-****[**Messaging**](https://app.gitbook.com/s/mNnAAqNpNoSI6WELhO9t/1-description)****
+****[**Messaging**](http://localhost:5000/s/mNnAAqNpNoSI6WELhO9t/1-description)****
 
 [**Payments**](https://govstack.gitbook.io/bb-payments/)
 
@@ -250,7 +250,7 @@ To do
 
 ****[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries) ****&#x20;
 
-****[**Messaging**](https://app.gitbook.com/s/oEAfhW9JLP3tJ6mPyxtF/2-description) ****&#x20;
+****[**Messaging**](http://localhost:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description) ****&#x20;
 
 ****[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)****
 
@@ -277,7 +277,7 @@ To do
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-****[**Messaging**](https://app.gitbook.com/s/oEAfhW9JLP3tJ6mPyxtF/2-description) ****&#x20;
+****[**Messaging**](http://localhost:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description) ****&#x20;
 
 ****[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)****
 
@@ -306,7 +306,7 @@ To do
 
 ****[**Identification and Verification**](https://govstack.gitbook.io/bb-identity/)****
 
-****[**Messaging**](https://app.gitbook.com/s/oEAfhW9JLP3tJ6mPyxtF/2-description) ****&#x20;
+****[**Messaging**](http://localhost:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description) ****&#x20;
 
 ****[**Payments**](https://govstack.gitbook.io/bb-payments/)****
 
