@@ -13,7 +13,9 @@ This use case profiles specifically the digital integration steps within the del
 
 ## Stakeholders
 
-*
+* Ministry or national government body in charge of social welfare, community development and/or implementing social assistance and cash transfer programmes.
+* Local social welfare officers in charge of identifying potential beneficiaries that meet eligibility criteria, and facilitating allocation of cash transfers to eligible beneficiaries.
+* Vulnerable population/households - beneficiaries, that comply with pre-defined conditionalities and meet the eligibility criteria.
 
 ## SDG Targets
 
@@ -22,13 +24,14 @@ This use case profiles specifically the digital integration steps within the del
 
 ## Building Blocks
 
-* [Consent](https://govstack.gitbook.io/bb-consent)
-* [Identification and Verification](https://govstack.gitbook.io/bb-identity)
-* [Messaging](https://govstack.gitbook.io/bb-messaging/)
-* [Payments](https://govstack.gitbook.io/bb-payments)
-* [Registration](https://govstack.gitbook.io/bb-registration)
-* [Scheduling](https://govstack.gitbook.io/bb-scheduler/)
-* [Workflow and Algorithm](https://govstack.gitbook.io/bb-workflow)
+* ****[**Consent**](https://govstack.gitbook.io/bb-consent)****
+* ****[**Identification and Verification**](https://govstack.gitbook.io/bb-identity)****
+* ****[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)****
+* ****[**Messaging**](https://govstack.gitbook.io/bb-messaging/)****
+* ****[**Payments**](https://govstack.gitbook.io/bb-payments)****
+* ****[**Registration**](https://govstack.gitbook.io/bb-registration)****
+* ****[**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)****
+* ****[**Workflow and Algorithm**](https://govstack.gitbook.io/bb-workflow)****
 
 ## Source Documents
 
@@ -81,6 +84,8 @@ To do
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
+****[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)****
+
 [**Registration**](https://govstack.gitbook.io/bb-registration/)
 
 ### 3 - Data Verification and Validation
@@ -102,6 +107,8 @@ To do
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
+****[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)****
+
 ### 4 - Eligibility Determination and Benefit Package(s) Design
 
 NOTE: Depending on the country and programme, eligibility determination takes different forms e.g. categorical by age without income screening , poverty-targeted, etc. often via “Proxy Means Test” calculation to screen and rank households by ‘inferred’ income. "Clean" data from a Social Registry that have undergone the data verification and validation step is used to screen eligible beneficiaries and establish the recommended benefit and services ‘package’. The amount of transfer often varies depending on household composition, and beneficiaries may qualify for other add-on services based on analyzed socioeconomic / demographic information being used for other welfare or social programmes.
@@ -118,6 +125,8 @@ To do
 **Building Blocks**
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)****
+
+****[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)****
 
 ### 5 - Enrollment
 
@@ -139,6 +148,8 @@ To do
 **Building Blocks**
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+
+****[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)****
 
 [**Payments**](https://govstack.gitbook.io/bb-payments/)
 
