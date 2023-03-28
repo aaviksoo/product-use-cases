@@ -68,7 +68,7 @@ Once the EPR regulations and processes have been finalized, information on the E
 * **Client education** for educating and/or informing producers (e.g. an importer, manufacturer, distributor or reseller) on the EPR legal framework, requirements, fee as well as sustainable e-waste management and collection systems they are recommended to implement.
 * **Client communication** to facilitate information dissemination of the EPR Framework and electrical and electronic product license and registration process via government and business registration and licensing websites, mobile / media channel(s)
   * Country wide campaign to increase awareness amongst local population about how and where to drop off old electrical and electronic equipment and the status of e-waste collection and management in the country.
-* **Identification and Registration** where target producers register with the relevant Regulatory Authority of the EPR system, apply for operational licensing and register the electricals and electronics they intend to introduce (new or used) into the market. Producers to then be allocated a certificate of approval with an EPR registration certificate and operational license number for identification purposes.&#x20;
+* **Identification and Registration** where target producers register with the relevant Regulatory Authority of the EPR system, apply for operational licensing and register the electricals and electronics they intend to introduce (new or used) into the market. Producers are then allocated a certificate of approval with an EPR registration certificate and operational license number for identification purposes.&#x20;
 * **Content management** for the backend EPR Regulatory and Revenue Authorities to populate, track and monitor e-waster producers (electronic manufactures, e-waste importers, e-waste management and recycling companies), and their registered products.
 
 **Example Implementation**
@@ -231,7 +231,7 @@ To do
 
 ****[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries) ****&#x20;
 
-****[**Messaging**](https://app.gitbook.com/s/mNnAAqNpNoSI6WELhO9t/1-description)****
+****[**Messaging**](http://localhost:5000/s/mNnAAqNpNoSI6WELhO9t/1-description)****
 
 [**Payments**](https://govstack.gitbook.io/bb-payments/)
 
@@ -260,7 +260,7 @@ To do
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-****[**Messaging**](https://app.gitbook.com/s/oEAfhW9JLP3tJ6mPyxtF/2-description) ****&#x20;
+****[**Messaging**](http://localhost:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description) ****&#x20;
 
 ****[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)****
 
@@ -287,7 +287,7 @@ To do
 
 ****[**Identification and Verification**](https://govstack.gitbook.io/bb-identity/)****
 
-****[**Messaging**](https://app.gitbook.com/s/oEAfhW9JLP3tJ6mPyxtF/2-description) ****&#x20;
+****[**Messaging**](http://localhost:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description) ****&#x20;
 
 ****[**Payments**](https://govstack.gitbook.io/bb-payments/)****
 
