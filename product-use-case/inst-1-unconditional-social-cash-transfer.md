@@ -24,14 +24,14 @@ This use case profiles specifically the digital integration steps within the del
 
 ## Building Blocks
 
-* ****[**Consent**](https://govstack.gitbook.io/bb-consent)****
-* ****[**Identification and Verification**](https://govstack.gitbook.io/bb-identity)****
-* ****[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)****
-* ****[**Messaging**](https://govstack.gitbook.io/bb-messaging/)****
-* ****[**Payments**](https://govstack.gitbook.io/bb-payments)****
-* ****[**Registration**](https://govstack.gitbook.io/bb-registration)****
-* ****[**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)****
-* ****[**Workflow and Algorithm**](https://govstack.gitbook.io/bb-workflow)****
+* [**Consent**](https://govstack.gitbook.io/bb-consent)
+* [**Identification and Verification**](https://govstack.gitbook.io/bb-identity)
+* [**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)
+* [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+* [**Payments**](https://govstack.gitbook.io/bb-payments)
+* [**Registration**](https://govstack.gitbook.io/bb-registration)
+* [**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)
+* [**Workflow and Algorithm**](https://govstack.gitbook.io/bb-workflow)
 
 ## Source Documents
 
@@ -50,15 +50,11 @@ Staff from the Ministry of Social Welfare or another leading agency / organizati
 * **Content management** for the backend Social Welfare staff to populate relevant educational and promotional content that local officers can use during on-the-ground outreach campaigns
 * **Identification and Registration** (with aid of geographic information services tool \*\*\*\* for potential use) in mapping and locating households and individuals for outreach target
 
-**Example Implementation**
-
-To do
-
 **Building Blocks**
 
 [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 
-[**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)****
+[**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)
 
 ### 2 - Registration
 
@@ -74,17 +70,13 @@ Registration is the process of collecting information on potential beneficiaries
 * **Identification and Registration** for enrolled identified beneficiaries in the system and enabling possible permissions for interaction with the SRIS, and (with aid of geographic information services tool) to potentially locate and track households during the interview process
 * **Client Case Management** for creating beneficiary user records
 
-**Example Implementation**
-
-To do
-
 **Building Blocks**
 
 [**Consent**](https://govstack.gitbook.io/bb-consent/)
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-****[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)****
+[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)
 
 [**Registration**](https://govstack.gitbook.io/bb-registration/)
 
@@ -97,17 +89,13 @@ Data within the SRIS Social Registry Information System (SRIS) is generally chec
 * **Client Case Management** for storing and reviewing identification records and eligibility information of potential beneficiaries
 * **Data Analysis and Business Intelligence** for cross-referencing and verifying records across multiple registry sources, and reconciling gaps / overlaps
 
-**Example Implementation**
-
-To do
-
 **Building Block Workflows**
 
 [**Consent**](https://govstack.gitbook.io/bb-consent/)
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-****[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)****
+[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)
 
 ### 4 - Eligibility Determination and Benefit Package(s) Design
 
@@ -118,15 +106,11 @@ NOTE: Depending on the country and programme, eligibility determination takes di
 * **Client Case Management** for determining and assigning benefit packages and benefit levels to specific user groups
 * **Data Analysis and Business Intelligence / Decision Support** potentially for identifying different benefit levels / types in correlation to target groups’ socioeconomic / demographic information, based on existing eligibility criteria (e.g. via proxy means test, means test or category-based)
 
-**Example Implementation**
-
-To do
-
 **Building Blocks**
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)****
+[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-****[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)****
+[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)
 
 ### 5 - Enrollment
 
@@ -141,19 +125,15 @@ Eligible beneficiaries are re-contacted and asked to enroll onto the programme. 
 * **Identification and Registration** for identifying beneficiaries and confirming enrolment
 * **Client Case Management** for storing program specific data for tracking
 
-**Example Implementation**
-
-To do
-
 **Building Blocks**
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-****[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)****
+[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)
 
 [**Payments**](https://govstack.gitbook.io/bb-payments/)
 
-[**Registration**](https://govstack.gitbook.io/bb-registration/)****
+[**Registration**](https://govstack.gitbook.io/bb-registration/)
 
 ### 6 - Payment
 
@@ -166,13 +146,9 @@ If a social cash transfer programme has enabled electronic payment processes (e.
 * **Financial Services** for processing beneficiary payment directly to their account, or for generating payroll to deposit payment amounts for withdrawal by beneficiary from designated banking institution(s) / pay-point(s) thereafter
 * **Client Case Management** for identifying and authenticating individual that is making a withdrawal, or to recall / verify deposit account information prior to payment transaction
 
-**Example Implementation**
-
-To do
-
 **Building Blocks**
 
-[**Payments**](https://govstack.gitbook.io/bb-payments/)****
+[**Payments**](https://govstack.gitbook.io/bb-payments/)
 
 ### 7 - Ongoing Case Management
 
@@ -184,19 +160,15 @@ Depending on the programme and on the country’s broader social protection poli
 * **Client Case Management** for identifying and recording beneficiary interaction with local officers and capturing reported cases on grievances / appeals etc., and for determining risks / conditionality by reviewing individual beneficiary client case
 * **Work Planning and Coordination** to potentially suggest and connect with departments / agencies offering other social benefits and services to eligible beneficiaries
 
-**Example Implementation**
-
-To do
-
 **Building Blocks**
 
 [**Consent**](https://govstack.gitbook.io/bb-consent/)
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-****[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)****
+[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
 
-****[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)****
+[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
 
 ### 8 - Ongoing M\&E
 
@@ -208,19 +180,15 @@ Central level managers and local social welfare officers base decisions and mana
 * **Identification and Registration** (with aid of geographic information services tool for potential use) in tracking / locating areas in relation to level of activities and adherence, or client household location
 * **Data Analysis and Business Intelligence** / **Decision Support** / **Data Collection and Reporting** to analyze, update, and report programme output / performance information
 
-**Example Implementation**
-
-To do
-
 **Building Blocks**
 
-****[**Consent**](https://govstack.gitbook.io/bb-consent/)****
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)****
+[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-****[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)****
+[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
 
-****[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)****
+[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
 
 ### 9 - Updating
 
@@ -232,20 +200,21 @@ Ensuring data is up to date to trigger: Programme exit for those who are no long
 * **Client Case Management** for ongoing review of beneficiary case information
 * **Data Analysis and Business Intelligence** / **Decision Support** to support identification of individuals for exit or entry based on analyzing change in programme-specific / socioeconomic data
 
-**Example Implementation**
-
-To do
-
 **Building Blocks**
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)****
+[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-****[**Consent**](https://govstack.gitbook.io/bb-consent/)****
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
 
-****[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)****
+[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
 
-****[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)****
+[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
 
 ## Contributors
 
-* To Do
+* Wesley Brown, GovStack Product Owner, Digital Impact Alliance
+* Steve Conrad, Associate Director of Technology, Digital Impact Alliance
+* Jaume Dubois, Digital ID Lead, GovStack
+* Sarah Farooqi, The Exchange Product Owner, Digital Impact Alliance
+* Sainabou Jallow, Business Analyst, Digital Impact Alliance
+* Dr. P.S. Ramkumar, GovStack, International Telecommunication Union (ITU)

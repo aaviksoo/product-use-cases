@@ -51,7 +51,7 @@ Prose description of the use case step
 
 **Building Blocks**
 
-List of Building Blocks involved in this use case step, including link to building block specification ****&#x20;
+List of Building Blocks involved in this use case step, including link to building block specification&#x20;
 
 ## Contributors
 

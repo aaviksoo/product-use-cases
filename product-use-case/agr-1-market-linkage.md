@@ -1,4 +1,4 @@
-# AGR-1-Market Linkage
+# AGR-1- Market Linkage
 
 ### Product Use Case Summary
 
@@ -138,13 +138,13 @@ To do
 
 [**Registration**](https://govstack.gitbook.io/bb-registration/)
 
-****[**Messaging**](https://govstack.gitbook.io/bb-messaging/)****
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 
 **Client Case Management**
 
 #### 5 - Payment
 
-To facilitate transactions/payments between buyers and sellers, the Farmers' Marketplace platform can have an in-built payment **** function in the application. Sellers pricing for each products and/or services are listed on the Marketplace. As a payment service option, users can enter their Universal Payment Interface ID (UPI-ID) of their bank account to make or receive payments. For instance, if a buyer is interested in buying a specific product, they can search for the product in the Marketplace and find different sellers who are selling the product in different markets, the pricing they are offering and the quality assurance report on the sellers goods or products. Once the buyer finds a seller that meets their pricing and need, they can directly contact the seller, negotiate pricing and share the product delivery location with the seller. If the seller agrees to deliver the product at the buyer's location and the pricing is agreed by both parties, then the payment process can be facilitated.&#x20;
+To facilitate transactions/payments between buyers and sellers, the Farmers' Marketplace platform can have an in-built payment function in the application. Sellers pricing for each products and/or services are listed on the Marketplace. As a payment service option, users can enter their Universal Payment Interface ID (UPI-ID) of their bank account to make or receive payments. For instance, if a buyer is interested in buying a specific product, they can search for the product in the Marketplace and find different sellers who are selling the product in different markets, the pricing they are offering and the quality assurance report on the sellers goods or products. Once the buyer finds a seller that meets their pricing and need, they can directly contact the seller, negotiate pricing and share the product delivery location with the seller. If the seller agrees to deliver the product at the buyer's location and the pricing is agreed by both parties, then the payment process can be facilitated.&#x20;
 
 The first step of the payment process is that the buyer enters their Universal Payment Interface ID (UPI-ID) of their bank account to make the payment, and once the payment has gone through, the buyer receives a SMS informing them of the transaction with an authentication code, which has to be shared with the delivery person when the product/good is delivered. Another SMS is sent to the seller informing the remittance. The money is deposited in to an Escrow Account managed by a financial service provider, which holds the final remittance to the seller until the physical deliver happens successfully. Once the delivery process has succeeded, the seller then receives the payment.
 

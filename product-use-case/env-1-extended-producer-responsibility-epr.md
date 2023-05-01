@@ -2,14 +2,14 @@
 
 ## Product Use Case Summary
 
-| ID      | ENV-1                                                    |
-| ------- | -------------------------------------------------------- |
-| Name    | Extended Producer Responsibility (EPR)                   |
-| Sector  | Environment - E-Waste Policy Compliance/Circular Economy |
-| Version | 1.0                                                      |
-| Status  | Draft                                                    |
+| ID      | ENV-1                                  |
+| ------- | -------------------------------------- |
+| Name    | Extended Producer Responsibility (EPR) |
+| Sector  | Environment and Climate                |
+| Version | 1.0                                    |
+| Status  | Draft                                  |
 
-This use case provides step by step guidelines on how to implement the Extended Producer Responsibility (EPR) system of waste from electrical and electronic equipments (also known as e-waste). EPR is an environmental policy approach that regulates a producer’s responsibility for a product throughout the product’s life cycle. Improper disposal of e-waste poses numerous threats to the environment, economy, and health and well-being of citizens. Under the EPR approach, a producer takes the responsibility for financing **** collection, recycling and end-of-life disposal **** of e-waste equipment/product streams - batteries, small consumer electronics, accumulators, packaging and other EPR product categories - in order to mitigate the environmental impacts of their products throughout the entire product life cycle. It thereby aims to increase the separate collection of end-of-life products and to enable their more circular treatment.
+This use case provides step by step guidelines on how to implement the Extended Producer Responsibility (EPR) system of waste from electrical and electronic equipments (also known as e-waste). EPR is an environmental policy approach that regulates a producer’s responsibility for a product throughout the product’s life cycle. Improper disposal of e-waste poses numerous threats to the environment, economy, and health and well-being of citizens. Under the EPR approach, a producer takes the responsibility for financing collection, recycling and end-of-life disposal of e-waste equipment/product streams - batteries, small consumer electronics, accumulators, packaging and other EPR product categories - in order to mitigate the environmental impacts of their products throughout the entire product life cycle. It thereby aims to increase the separate collection of end-of-life products and to enable their more circular treatment.
 
 Implementing EPR can create various environmental, economical and social benefits. Example of EPR benefits include - improved waste collection and treatment, higher rates of waste reuse and recycling, incentivizing greener products, helping to finance waste collection and processing, and generally promoting a sustainable management of waste and circular economy. Governments in low- and middle-income countries are increasingly interested in implementing an EPR system in various forms through a system where they: define the products covered, the producers affected, the obligations imposed on producers - targets and fees, disseminate information on EPR and e-waste to stakeholders and citizens, and have a process to ensure effective monitoring and enforcement of the EPR.&#x20;
 
@@ -30,15 +30,15 @@ Implementing EPR can create various environmental, economical and social benefit
 
 ## Building Blocks
 
-* ****[**Consent**](https://govstack.gitbook.io/bb-consent/)****
-* ****[**Digital Registry**](https://govstack.gitbook.io/specification/v/version-0.9.0/building-blocks/digital-registries) ****&#x20;
-* ****[**Identification and Verification**](https://govstack.gitbook.io/bb-identity/)****
-* ****[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)****
+* [**Consent**](https://govstack.gitbook.io/bb-consent/)
+* [**Digital Registry**](https://govstack.gitbook.io/specification/v/version-0.9.0/building-blocks/digital-registries)&#x20;
+* [**Identification and Verification**](https://govstack.gitbook.io/bb-identity/)
+* [**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)
 * [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
-* ****[**Payments**](https://govstack.gitbook.io/bb-payments)****
-* ****[**Registration**](https://govstack.gitbook.io/bb-registration)****
-* ****[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)****
-* ****[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)****
+* [**Payments**](https://govstack.gitbook.io/bb-payments)
+* [**Registration**](https://govstack.gitbook.io/bb-registration)
+* [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+* [**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
 
 ## Source Documents
 
@@ -63,15 +63,11 @@ Once the EPR regulations and processes have been finalized, information on the E
 * **Identification and Registration** where target producers register with the relevant Regulatory Authority of the EPR system, apply for operational licensing and register the electricals and electronics they intend to introduce (new or used) into the market. Producers are then allocated a certificate of approval with an EPR registration certificate and operational license number for identification purposes.&#x20;
 * **Content management** for the backend EPR Regulatory and Revenue Authorities to populate, track and monitor e-waster producers (electronic manufactures, e-waste importers, e-waste management and recycling companies), and their registered products.
 
-**Example Implementation**
-
-To do
-
 **Building Blocks**
 
 [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 
-****[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler) ****&#x20;
+[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)&#x20;
 
 ### 2 -  Producer Registration
 
@@ -83,21 +79,17 @@ Producer registration is the process of collecting information of a new business
 * **Identification and Registration** for locating, authenticating and tracking business operators registered in the EPR system.&#x20;
 * **Client Case Management** for automating the process in creating, collecting and organizing the registered producers' records in one place. This will allow the convenient access and a comprehensive view of each registered producer in order to initiate and manage compliance. Moreover, support improved and timely registration services, and back office efficiencies.
 
-**Example of Implementation**
-
-To do
-
 **Building Blocks**
 
-****[**Consent**](https://govstack.gitbook.io/bb-consent/)****
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
 
-****[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)****
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
 
-****[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)****
+[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-****[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)****
+[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)
 
-****[**Registration**](https://govstack.gitbook.io/bb-registration/)****
+[**Registration**](https://govstack.gitbook.io/bb-registration/)
 
 ### 3 - Licensing&#x20;
 
@@ -111,23 +103,19 @@ Licensing is the process to acquire authorization from a government agency to op
 * **Client Communication** to update producers on additional documentations required and/or application status updates/outcome.
 * **Financial Services** for facilitating one off licensing application fee payment by the producer and allocation of a fee payment receipt.&#x20;
 
-**Example of Implementation**
-
-To do
-
 **Building Blocks**
 
-****[**Consent**](https://govstack.gitbook.io/bb-consent/)****
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
 
-****[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)****
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
 
-****[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)****
+[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-****[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)****
+[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)
 
 [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 
-****[**Payments**](https://govstack.gitbook.io/bb-payments/)****
+[**Payments**](https://govstack.gitbook.io/bb-payments/)
 
 [**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)
 
@@ -142,21 +130,17 @@ Registration is the process of documenting and maintaining records of registered
 * **Client Case Management** for automating the process in creating, collecting and organizing the registered e-waste products' records in place. This will allow the convenient access and a comprehensive view of each type/category of registered e-waste products in order to calculate EPR fees and manage compliance.&#x20;
 * **Financial Services** for facilitating one-off product registration application fee payment by the producer and allocation of a fee payment receipt.
 
-**Example Implementation**
-
-To do
-
 **Building Blocks**
 
 [**Consent**](https://govstack.gitbook.io/bb-consent/)
 
-****[**Digital Registries** ](https://govstack.gitbook.io/bb-digital-registries)****
+[**Digital Registries** ](https://govstack.gitbook.io/bb-digital-registries)
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-****[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)****
+[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)
 
-****[**Payments**](broken-reference)****
+[**Payments**](broken-reference)
 
 [**Registration**](https://govstack.gitbook.io/bb-registration/)
 
@@ -169,21 +153,17 @@ Data verification and validation should be coordinated with all relevant governe
 * **Client Case Management** for storing and reviewing identification, registration, and licensing records.&#x20;
 * **Data Analysis and Business Intelligence** for cross-referencing and verifying records across multiple registry sources, and reconciling gaps / overlaps.
 
-**Example Implementation**
-
-To do
-
 **Building Blocks**
 
 [**Consent**](https://govstack.gitbook.io/bb-consent/)
 
-****[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)****
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-****[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)****
+[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)
 
-****[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)****
+[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
 
 ### 6 - Payment
 
@@ -209,19 +189,15 @@ The fee to be paid could be proportional to the amount of electrical and electro
 * **Financial Services** for processing EPR fee payments by producers.
 * **Client Case Management** for identifying, authenticating and monitoring/verifying that the e-waste producers have made the EPR payment and the transaction has been fully processed and received.
 
-**Example Implementation**
-
-To do
-
 **Building Blocks**
 
-****[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries) ****&#x20;
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)&#x20;
 
-****[**Messaging**](http://localhost:5000/s/mNnAAqNpNoSI6WELhO9t/1-description)****
+[**Messaging**](http://localhost:5000/s/mNnAAqNpNoSI6WELhO9t/1-description)
 
 [**Payments**](https://govstack.gitbook.io/bb-payments/)
 
-****[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)****
+[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
 
 ### **7 - Ongoing Case Management**
 
@@ -232,23 +208,19 @@ This step involves ensuring information of e-waste producers are kept up to date
 * **Data Collection and Reporting** for capturing changes in producer's information (e-waste products, licensing etc).
 * **Client Case Management** for identifying and recording producer interaction with EPR compliance officers and capturing reported cases on grievances / appeals etc., and for determining decisions/actions to proceed with by reviewing individual producer client case.
 
-**Example Implementation**
-
-To do
-
 **Building Blocks**
 
 [**Consent**](https://govstack.gitbook.io/bb-consent/)
 
-****[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries) ****&#x20;
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)&#x20;
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-****[**Messaging**](http://localhost:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description) ****&#x20;
+[**Messaging**](http://localhost:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description)&#x20;
 
-****[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)****
+[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
 
-****[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)****
+[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
 
 ### **8 - Ongoing M\&E**
 
@@ -259,22 +231,42 @@ The government authority leading the EPR implementation should also allocate a t
 * **Financial Services** for processing late EPR fee payments by producers.
 * **Client Case Management** for identifying, authenticating and monitoring/verifying that the e-waste producers have made the EPR fee payment and the transaction has been fully processed and received.
 
-**Example Implementation**
-
-To do
-
 **Building Blocks**
 
-****[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries) ****&#x20;
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)&#x20;
 
-****[**Identification and Verification**](https://govstack.gitbook.io/bb-identity/)****
+[**Identification and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-****[**Messaging**](http://localhost:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description) ****&#x20;
+[**Messaging**](http://localhost:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description)&#x20;
 
-****[**Payments**](https://govstack.gitbook.io/bb-payments/)****
+[**Payments**](https://govstack.gitbook.io/bb-payments/)
 
-****[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)****
+[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
 
 ## Contributors
 
-* To Do
+* Garam Bel, Circular Economy Coordinator, International Telecommunication Union (ITU)
+* Wesley Brown, GovStack Product Owner, Digital Impact Alliance
+* Taylor Downs, CEO and Founder, Open Function
+* Jaume Dubois, Digital ID Lead, GovStack
+* Longin Dusengeyezu, Database and Applications Lead, Rwanda Institute for Conservation Agriculture (RICA)&#x20;
+* Theophile Dusengimana, Environment and Climate Change Policy Specialist, Rwanda Ministry of Environment
+* Hani Eskandar, Head of Digital Services, International Telecommunication Union (ITU)
+* Sarah Farooqi, The Exchange Product Owner, Digital Impact Alliance
+* Sainabou Jallow, Business Analyst, Digital Impact Alliance
+* Concord Kananura, GovStack Africa Regional Coordinator, International Telecommunication Union (ITU)
+* Dismas Karuranga, Pollution Control Specialist, Rwanda Ministry of Environment
+* Nico Lück, GovStack Advisor, GIZ
+* Margus Mägi, GovStack Project Lead for Estonia, Governement of Estonia
+* Yolanda Martínez, Overall Lead for GovStack, International Telecommunication Union (ITU)
+* Antoinette Mbabazi, Head of Registration& Licensing Department, Rwanda Institute for Conservation Agriculture (RICA)&#x20;
+* Olivier Mbera, Country Manager, Enviroserve Rwanda
+* Robert Mugisha, Director of Registration& Licensing Unit, Rwanda Institute for Conservation Agriculture (RICA)&#x20;
+* Eric Murera, Environment Expert, Private Sector Federation (PSF) Rwanda
+* P.S. Ramkumar, GovStack, International Telecommunication Union (ITU)
+* Ayush Shukla, Technical Officer, International Telecommunication Union (ITU)&#x20;
+* Patrick Umuhoza, Multilateral Cooperation Officer, Rwanda Environment Management Authority
+* Olivier Urukundo, Engineering Risk Analysis Specialist, Rwanda Institute for Conservation Agriculture (RICA)&#x20;
+* Eng. Gaston Uwayo, TMEA ICT Technical Assistant, Rwanda Standards Board
+* Damascene Uwizeyemungu, IT Officer, Rwanda Utilities Regulatory Agency
+* Meelis Zujev, Project Manager, Gofore - Govstack Sandbox

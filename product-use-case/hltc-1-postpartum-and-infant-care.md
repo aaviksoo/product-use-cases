@@ -5,7 +5,7 @@
 | ID      | HLTC-1                     |
 | ------- | -------------------------- |
 | Name    | Postpartum and Infant Care |
-| Sector  | Healthcare                 |
+| Sector  | Health                     |
 | Version | 1.0                        |
 | Status  | Draft                      |
 
@@ -35,6 +35,10 @@ Postpartum maternal and infant mortality is still high across multiple low and m
 * [**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)
 * [**Workflow and Algorithm**](https://govstack.gitbook.io/bb-workflow)
 
+## Source Documents
+
+* [Digital Impact Exchange - Postpartum and Infant Care](https://exchange.dial.global/use\_cases/postpartum\_and\_infant\_care)
+
 ## Steps
 
 ### 1 - Outreach Communications
@@ -48,10 +52,6 @@ Outreach communication should be intensive during the kick-off phase of the new 
 * **Client Communication** to facilitate the spreading of programme awareness for target audience and encouraging enrollment via mobile / media channel(s)
 * **Client Education** for educating potential target beneficiaries around the approach and objective(s), benefit(s), incentives, role of Community Healthcare Workers, partner(s), etc. of the programme
 * **Content Management** for the backend Community Healthcare Workers staff to populate relevant educational and promotional content that local clinics, hospitals, facilities etc, can disseminate and use during on-the-ground outreach campaigns
-
-**Example Implementation**
-
-To do
 
 **Building Blocks**
 
@@ -71,10 +71,6 @@ For example, some countries use a centralized information technology based appli
 * **Identification and Registration** for registering the mother and child in the system
 * **Client Case Management** for the target beneficiary (mother/child's main caregiver) to give permission to a Healthcare Worker to access and use their electronic healthcare record to coordinate the mother and child's healthcare services being provided under the programme
 
-**Example Implementation**
-
-To do
-
 **Building Blocks**
 
 [**Consent**](https://govstack.gitbook.io/bb-consent/)
@@ -93,10 +89,6 @@ Data within the Mother and Child Tracking System (MCTS) is generally checked\* b
 
 * **Client Case Management** for storing and reviewing identification records and authentication information of target beneficiaries
 * **Data Analysis and Business Intelligence** for cross-referencing and verifying records across multiple registry sources, and reconciling gaps / overlaps
-
-**Example Implementation**
-
-To do
 
 **Building Block Workflows**
 
@@ -118,10 +110,6 @@ Community Healthcare workers determine eligibility by reviewing all submitted re
 * **Communication** to inform target beneficiaries that they meet the eligibility criteria and can start the enrollment process
 * **Data Analysis and Business Intelligence** potentially for mapping and analyzing the different beneficiaries - socioeconomic / demographic information
 
-**Example Implementation**
-
-To do
-
 **Building Blocks**
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
@@ -141,10 +129,6 @@ Enrollment is the action of being enrolled and accepted as a beneficiary to rece
 * **Identification and Registration** for identifying beneficiaries and confirming enrolment
 * **Client Case Management** for storing program specific data for tracking
 
-**Example of Implementation**
-
-To do
-
 **Building Blocks**
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
@@ -163,10 +147,6 @@ Certain mother and child community health programs have a financial incentive in
 
 * **Financial Services** for processing incentive payments that are G2C or B2C mobile payments, for withdrawal by beneficiary from designated mobile money/ pay-point(s) thereafter
 * **Client Case Management** for identifying and authenticating individual that is making a withdrawal, or to recall / verify deposit account information prior to payment transaction
-
-**Example Implementation**
-
-To do
 
 **Building Blocks**
 
@@ -189,10 +169,6 @@ This step involves ongoing interaction with beneficiaries via Community Health W
 * **Data Collection and Reporting** for capturing changes in beneficiary information
 * **Client Case Management** for identifying and recording beneficiary interaction with Community Health Workers, local hospitals/clinics and capturing reported cases on grievances etc., and for determining risks / conditionality by reviewing individual beneficiary client case
 * **Work Planning and Coordination** to potentially suggest and connect with other hospitals, clinics and relevant healthcare services to target beneficiaries
-
-**Example Implementation**
-
-To do
 
 **Building Blocks**
 
@@ -232,10 +208,6 @@ Ensuring data is up to date to trigger: Programme exit for those who are no long
 * **Client Case Management** for ongoing review of beneficiary case information
 * **Data Analysis and Business Intelligence** / **Decision Support** to support identification of individuals for exit or entry based on analyzing change in programme-specific / socioeconomic data
 
-**Example Implementation**
-
-To do
-
 **Building Block Workflows**
 
 [**Consent**](https://govstack.gitbook.io/bb-consent/)
@@ -244,10 +216,10 @@ To do
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)&#x20;
 
-### Outputs
+## Contributors
 
-1. To Do
-
-### Failure Points
-
-1. To Do
+* Wesley Brown, GovStack Product Owner, Digital Impact Alliance
+* Steve Conrad, Associate Director of Technology, Digital Impact Alliance
+* Sarah Farooqi, The Exchange Product Owner, Digital Impact Alliance
+* Sainabou Jallow, Business Analyst, Digital Impact Alliance
+* Dr. P.S. Ramkumar, GovStack, International Telecommunication Union (ITU)
