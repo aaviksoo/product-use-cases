@@ -1,13 +1,13 @@
-# URB-1 - Construction Permit
+# INF-1 - Construction Permit
 
 ## Product Use Case Summary
 
-| ID      | URB-1                        |
-| ------- | ---------------------------- |
-| Name    | Construction Permit          |
-| Sector  | Urban Planning/ Development  |
-| Version | 1.0                          |
-| Status  | Draft                        |
+| ID      | URB-1                       |
+| ------- | --------------------------- |
+| Name    | Construction Permit         |
+| Sector  | Sustainable Infrastructure  |
+| Version | 1.0                         |
+| Status  | Draft                       |
 
 This use case profiles the implementation process of a construction permit. A service that automates the entire construction permit approval process - from enabling online application submissions of building construction plans, to initiating verification and final approval by the local government authorities. This process is how local governments can decide whether to approve or decline construction permit applications by evaluating submitted building plans, and assessing their compliance with standard building codes and local regulations. A construction permit is an important requirement for countries to ensure buildings and structures are safe, with sound engineering, foundations and construction techniques.
 
@@ -27,15 +27,15 @@ Municipalities and counties/towns have traditionally managed construction permit
 
 ## Building Blocks
 
-* ****[**Consent**](https://govstack.gitbook.io/bb-consent/)****
-* ****[**Digital Registry**](https://govstack.gitbook.io/specification/v/version-0.9.0/building-blocks/digital-registries) ****&#x20;
-* ****[**Identification and Verification**](https://govstack.gitbook.io/bb-identity/)****
-* ****[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)****
+* [**Consent**](https://govstack.gitbook.io/bb-consent/)
+* [**Digital Registry**](https://govstack.gitbook.io/specification/v/version-0.9.0/building-blocks/digital-registries)&#x20;
+* [**Identification and Verification**](https://govstack.gitbook.io/bb-identity/)
+* [**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)
 * [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
-* ****[**Payments**](https://govstack.gitbook.io/bb-payments)****
-* ****[**Registration**](https://govstack.gitbook.io/bb-registration)****
-* ****[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)****
-* ****[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)****
+* [**Payments**](https://govstack.gitbook.io/bb-payments)
+* [**Registration**](https://govstack.gitbook.io/bb-registration)
+* [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+* [**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
 
 ## Source Documents
 
@@ -61,15 +61,11 @@ Awareness campaigns can be organized across municipalities informing citizens ab
 * **Identification and Registration** for providing an administration account for all qualified government building plan staff with authority to issue construction permits.&#x20;
 * **Data Collection and Reporting** for capturing the new construction permit and regulation changes, and to report this data to all relevant stakeholders.&#x20;
 
-**Example Implementation**
-
-To do
-
 **Building Blocks**
 
 [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 
-****[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler) ****&#x20;
+[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)&#x20;
 
 ### 2 - Registration
 
@@ -83,19 +79,15 @@ In certain countries, there is a statewide online construction permit platform i
 * **Identification** to easily be able to identify and track registered users.
 * **Client Case Management** to help automate and manage the registration process, and respond to any inquiries or issues around registering on the platform.&#x20;
 
-**Example of Implementation**
-
-To do
-
 **Building Blocks**
 
-****[**Consent**](https://govstack.gitbook.io/bb-consent/)****
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
 
-****[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)****
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
 
-****[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)****
+[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-****[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)****
+[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)
 
 [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 
@@ -112,21 +104,17 @@ Depending on the country context, the application process can require applicants
 * **Identification** to easily be able to identify and track registered applicant applying for a construction permit.  &#x20;
 * **Financial Services** for processing the permit application fee and generating payment confirmation receipt.&#x20;
 
-**Example of Implementation**
-
-To do
-
 **Building Blocks**
 
-****[**Consent**](https://govstack.gitbook.io/bb-consent/)****
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
 
-****[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)****
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
 
-****[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)****
+[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-****[**Messaging**](https://govstack.gitbook.io/bb-messaging/)****
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 
-****[**Payments**](https://govstack.gitbook.io/bb-payments/)****
+[**Payments**](https://govstack.gitbook.io/bb-payments/)
 
 ### 4 - Data Verification and Validation
 
@@ -137,23 +125,19 @@ Data within the online construction permit is generally checked\* by the Central
 * **Client Case Management** for storing and reviewing registration, and construction permit application records.&#x20;
 * **Data Analysis and Business Intelligence** for cross-referencing and verifying records across multiple registry sources and reconciling gaps / overlaps.
 
-**Example Implementation**
-
-To do
-
 **Building Blocks**
 
 [**Consent**](https://govstack.gitbook.io/bb-consent/)
 
-****[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)****
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-****[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)****
+[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)
 
-****[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)****
+[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
 
-### 5 - <mark style="color:purple;"></mark> Eligibility Determination
+### 5 - Eligibility Determination
 
 The construction permit can have APIs in place that can scrutinize submitted construction permit applications to support in the decision-making process. This entails the detailed review of application form data and all uploaded documentations (i.e., building plan design, land ownership, deed etc). Applicants should receive general updates on the status of their application such as a notification when their application is being processed with a tentative decision date, or additional information and documents required. &#x20;
 
@@ -166,17 +150,13 @@ In most countries that have implemented the construction permit, a building auth
 * **Client Case Management** for reviewing submitted applications and communicating any application status updates or additional information needed to the applicant.
 * **Data Analysis and Business Intelligence / Decision Support** for approving or rejecting applications - based on compliance with building regulations, submission of required documents, and existing criteria (e.g. via checklist, or category-based).
 
-**Example Implementation**
-
-To do
-
 **Building Blocks**
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-****[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)****
+[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)
 
-****[**Messaging**](http://localhost:5000/s/mNnAAqNpNoSI6WELhO9t/1-description)****
+[**Messaging**](http://localhost:5000/s/mNnAAqNpNoSI6WELhO9t/1-description)
 
 ### 6 - Payment
 
@@ -190,25 +170,21 @@ If an electronic payment process is enabled, then applicants can pay these fees 
 * **Client Case Management** for calculating fees, and monitoring/verifying that all required payment transactions, per applicant, has been fully processed and received. Also ensuring that applicants receive payment confirmation and receipt.&#x20;
 * **Content Management** for the development of documentation summarizing construction permit fees and calculation method.
 
-**Example Implementation**
-
-To do
-
 **Building Blocks**
 
-****[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries) ****&#x20;
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)&#x20;
 
-****[**Messaging**](http://localhost:5000/s/mNnAAqNpNoSI6WELhO9t/1-description)****
+[**Messaging**](http://localhost:5000/s/mNnAAqNpNoSI6WELhO9t/1-description)
 
 [**Payments**](https://govstack.gitbook.io/bb-payments/)
 
-****[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)****
+[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
 
 ### **7 - Permit Issuing**
 
 Permit issuing generally takes place once the submitted construction permit application has been reviewed and approved, and in some country cases - an extra step includes conducting an in-person building site inspection prior to permit issuance. Examples of construction permit standards that must be met could include structural safety, fire safety, the control of toxic substances, ventilation, sanitation, fall-protection and general safety measures that will be implemented during the design, installation and inspection of building construction works.&#x20;
 
-Once the building authority also ensures that all outstanding fees have been paid by the applicant, a notification is sent to the applicant informing them that their construction permit has been granted and issued. The permit can be allocated in different forms – a digital format that is downloadable via the permitting platform and/or issuance of a physical permit document with an official stamp. Permit issuance is communicated to different parties - informing relevant individuals/stakeholders of the issuance. A digital security label could be embedded in all government issues construction permits and an online system utilized to validate the authenticity of all permits during any building construction processes. <mark style="color:purple;"></mark>&#x20;
+Once the building authority also ensures that all outstanding fees have been paid by the applicant, a notification is sent to the applicant informing them that their construction permit has been granted and issued. The permit can be allocated in different forms – a digital format that is downloadable via the permitting platform and/or issuance of a physical permit document with an official stamp. Permit issuance is communicated to different parties - informing relevant individuals/stakeholders of the issuance. A digital security label could be embedded in all government issues construction permits and an online system utilized to validate the authenticity of all permits during any building construction processes.&#x20;
 
 \*\*\* In certain countries, following permit issuance, construction work can start right away. However, a construction permit can expire if construction work is not started within a certain period or is not completed within a certain time from the date the permit was granted. An application to extend the period to start or to complete the construction work can be submitted to the building authority. Beyond a certain limit, a new construction permit must be applied for.
 
@@ -217,21 +193,17 @@ Once the building authority also ensures that all outstanding fees have been pai
 * **Data Collection and Reporting** for capturing and tracking all approved permit issuances and permit holders and informing all relevant authorities of approval decision. &#x20;
 * **Client Case Management** to check that the applicant has paid all outstanding fees. To communicate approval decision to the applicant and coordinate permit pickup should allocation of a physical copy be a requirement.
 
-**Example Implementation**
-
-To do
-
 **Building Blocks**
 
 [**Consent**](https://govstack.gitbook.io/bb-consent/)
 
-****[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries) ****&#x20;
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)&#x20;
 
-****[**Messaging**](http://localhost:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description) ****&#x20;
+[**Messaging**](http://localhost:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description)&#x20;
 
-****[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)****
+[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
 
-****[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)****
+[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
 
 ### **8 - Ongoing Case Management**
 
@@ -242,51 +214,56 @@ This step involves ensuring that there is a virtual help desk and/or physical su
 * **Data Collection and Reporting** for capturing reoccurring complaints, queries and feedback received from the construction permit service users and permit holders. And integration of other databases and systems for automated data update on client cases overtime.
 * **Client Case Management** for identifying and capturing reported cases on grievances / appeals etc., and for determining decisions/actions to proceed with by reviewing individual applicant's client case.
 
-**Example Implementation**
-
-To do
-
 **Building Blocks**
 
 [**Consent**](https://govstack.gitbook.io/bb-consent/)
 
-****[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries) ****&#x20;
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)&#x20;
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-****[**Messaging**](http://localhost:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description) ****&#x20;
+[**Messaging**](http://localhost:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description)&#x20;
 
-****[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)****
+[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
 
-****[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)****
+[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
 
 ### **9 - Ongoing M\&E**
 
-Monitoring and evaluation is crucial to ensure transparency, accountability and quality public service delivery. To facilitate this process, the government authority leading the implementation of the construction permit can allocate a coordination team (i.e., inspection unit) in charge of ensuring construction work is carried out in compliance with the approved building plans, the construction permit and building regulations. This team could have in place a system with key stages to inspect all construction works or carry out random site inspections to supervise construction works. <mark style="color:purple;"></mark> The inspector authority can provide a report for each examination <mark style="color:purple;"></mark> - <mark style="color:purple;"></mark> available in a <mark style="color:purple;"></mark> digital format <mark style="color:purple;"></mark> and <mark style="color:blue;"><mark style="color:purple;"><mark style="color:purple;"></mark> accessible via the <mark style="color:blue;"><mark style="color:purple;"><mark style="color:purple;"></mark> permitting <mark style="color:purple;"></mark> platform. <mark style="color:purple;"></mark> If construction works take place without a construction permit or do not comply with the approved design, they can be suspended until the relevant local authority takes a decision regarding demolition or continuation. A fine may also be charged.
+Monitoring and evaluation is crucial to ensure transparency, accountability and quality public service delivery. To facilitate this process, the government authority leading the implementation of the construction permit can allocate a coordination team (i.e., inspection unit) in charge of ensuring construction work is carried out in compliance with the approved building plans, the construction permit and building regulations. This team could have in place a system with key stages to inspect all construction works or carry out random site inspections to supervise construction works. The inspector authority can provide a report for each examination - available in a digital format and accessible via the permitting platform. If construction works take place without a construction permit or do not comply with the approved design, they can be suspended until the relevant local authority takes a decision regarding demolition or continuation. A fine may also be charged.
 
 In certain countries, once the construction work has been completed, the building authorities are to be notified. Several documents may be required to demonstrate completion, such as, the building design with the actual works carried out, reports of site inspections etc. In addition, submission of an attestation stating that the construction work has been carried out in accordance with the approved design and if any changes were made, that they comply with the building regulatory requirements. In other country cases, a final site inspection is required - the purpose is to verify whether construction works actually carried out comply with the building regulations and the approved building design.&#x20;
 
 **Workflows**
 
 * **Financial Services** for processing fine payments of construction works not complying with the approved building design.
-* **Client Case Management** for monitoring building construction compliance by all permit holders. Also scheduling all site inspection visits, tracking site inspection reports, and communicating with permit holders. <mark style="color:purple;"></mark>&#x20;
-
-**Example Implementation**
-
-To do
+* **Client Case Management** for monitoring building construction compliance by all permit holders. Also scheduling all site inspection visits, tracking site inspection reports, and communicating with permit holders.&#x20;
 
 **Building Blocks**
 
-****[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries) ****&#x20;
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)&#x20;
 
-****[**Identification and Verification**](https://govstack.gitbook.io/bb-identity/)****
+[**Identification and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-****[**Messaging**](http://localhost:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description) ****&#x20;
+[**Messaging**](http://localhost:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description)&#x20;
 
-****[**Payments**](https://govstack.gitbook.io/bb-payments/)****
+[**Payments**](https://govstack.gitbook.io/bb-payments/)
 
-****[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)****
+[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
 
 ## Contributors
 
-* \<List of contributors, optionally including organization and email address>
+* Dominika Bieńkowska, IT Project Manager, SolDevelo&#x20;
+* Wesley Brown, GovStack Product Owner, Digital Impact Alliance
+* Steve Conrad, Associate Director of Technology, Digital Impact Alliance
+* Sarah Farooqi, The Exchange Product Owner, Digital Impact Alliance
+* Sainabou Jallow, Business Analyst, Digital Impact Alliance
+* Arnold Kibuuka, Project Officer, International Telecommunication Union (ITU)
+* Nico Lück, GovStack Advisor, GIZ
+* Margus Mägi, GovStack Project Lead for Estonia, Governement of Estonia
+* Yolanda Martínez, Overall Lead for GovStack, International Telecommunication Union (ITU)
+* Farina Carolina Owusu, GIZ&#x20;
+* P.S. Ramkumar, GovStack, International Telecommunication Union (ITU)
+* Ayush Shukla, Technical Officer, International Telecommunication Union (ITU)
+* Valeria Tafoya, Technology Consultant, International Telecommunication Union (ITU)
+* Meelis Zujev, Project Manager, Gofore - Govstack Sandbox
