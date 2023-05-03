@@ -269,4 +269,4 @@ The government authority leading the EPR implementation should also allocate a t
 * Olivier Urukundo, Engineering Risk Analysis Specialist, Rwanda Institute for Conservation Agriculture (RICA)&#x20;
 * Eng. Gaston Uwayo, TMEA ICT Technical Assistant, Rwanda Standards Board
 * Damascene Uwizeyemungu, IT Officer, Rwanda Utilities Regulatory Agency
-* Meelis Zujev, Project Manager, Gofore - Govstack Sandbox
+* Meelis Zujev, Project Manager, Govstack Sandbox, Gofore

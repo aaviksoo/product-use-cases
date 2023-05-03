@@ -256,14 +256,24 @@ In certain countries, once the construction work has been completed, the buildin
 * Dominika Bieńkowska, IT Project Manager, SolDevelo&#x20;
 * Wesley Brown, GovStack Product Owner, Digital Impact Alliance
 * Steve Conrad, Associate Director of Technology, Digital Impact Alliance
+* Hani Eskandar, Head of Digital Service Division,  International Telecommunication Union (ITU)
 * Sarah Farooqi, The Exchange Product Owner, Digital Impact Alliance
+* Ibrahim Habib, Director, Djibouti Ministry of Housing, Urbanism and Environment
+* Abdallah Ibrahim, Secretary General, Djibouti Ministry of digital economy & Innovation
 * Sainabou Jallow, Business Analyst, Digital Impact Alliance
+* Concorde Kananura, GovStack Regional Coordinator, Africa, International Telecommunication Union (ITU)
+* Mohamad Kaourah, Deputy Director, Djibouti Ministry of Housing, Urbanism and Environment
 * Arnold Kibuuka, Project Officer, International Telecommunication Union (ITU)
 * Nico Lück, GovStack Advisor, GIZ
 * Margus Mägi, GovStack Project Lead for Estonia, Governement of Estonia
 * Yolanda Martínez, Overall Lead for GovStack, International Telecommunication Union (ITU)
-* Farina Carolina Owusu, GIZ&#x20;
+* Stephen Oyala Odhiambo, Digital Government Advisor, GIZ
+* Farina Carolina Owusu, Junior Advisor Global Program Digital Transformation with GovStack, GIZ&#x20;
+* Hossam Ragheb, GovStack Regional Coordinator, International Telecommunication Union (ITU)
 * P.S. Ramkumar, GovStack, International Telecommunication Union (ITU)
+* Christin Schulz, Governance Advisor and Component Leader, GIZ
+* Pia Seiffarth, Junior Advisor Global Program Digital Transformation, GIZ
 * Ayush Shukla, Technical Officer, International Telecommunication Union (ITU)
+* Siri Nanz Snow, Country Engagement Lead for the GovStack Initiative, GIZ
 * Valeria Tafoya, Technology Consultant, International Telecommunication Union (ITU)
-* Meelis Zujev, Project Manager, Gofore - Govstack Sandbox
+* Meelis Zujev, Project Manager, Govstack Sandbox, Gofore
