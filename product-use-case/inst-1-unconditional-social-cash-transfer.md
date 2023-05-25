@@ -26,7 +26,7 @@ This use case profiles specifically the digital integration steps within the del
 
 * [**Consent**](https://govstack.gitbook.io/bb-consent)
 * [**Identification and Verification**](https://govstack.gitbook.io/bb-identity)
-* [**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)
+* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 * [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 * [**Payments**](https://govstack.gitbook.io/bb-payments)
 * [**Registration**](https://govstack.gitbook.io/bb-registration)
@@ -76,7 +76,7 @@ Registration is the process of collecting information on potential beneficiaries
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
 [**Registration**](https://govstack.gitbook.io/bb-registration/)
 
@@ -95,7 +95,7 @@ Data within the SRIS Social Registry Information System (SRIS) is generally chec
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
 ### 4 - Eligibility Determination and Benefit Package(s) Design
 
@@ -110,7 +110,7 @@ NOTE: Depending on the country and programme, eligibility determination takes di
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
 ### 5 - Enrollment
 
@@ -129,7 +129,7 @@ Eligible beneficiaries are re-contacted and asked to enroll onto the programme. 
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-[**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
 [**Payments**](https://govstack.gitbook.io/bb-payments/)
 
@@ -217,4 +217,8 @@ Ensuring data is up to date to trigger: Programme exit for those who are no long
 * Jaume Dubois, Digital ID Lead, GovStack
 * Sarah Farooqi, The Exchange Product Owner, Digital Impact Alliance
 * Sainabou Jallow, Business Analyst, Digital Impact Alliance
-* Dr. P.S. Ramkumar, GovStack, International Telecommunication Union (ITU)
+* Dr. P. S. Ramkumar, GovStack, International Telecommunication Union (ITU)
+* Max Carlson, GovStack
+* Uwe Washer, GovStack
+* Raul Kaidro, GovStack
+* Saurav Bhatta, GovStack

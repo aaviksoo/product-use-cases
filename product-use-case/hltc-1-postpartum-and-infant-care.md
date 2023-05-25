@@ -9,13 +9,13 @@
 | Version | 1.0                        |
 | Status  | Draft                      |
 
-This use case profiles the digital integration steps to provide high-quality and integrated Postpartum and Infant Care services for a mother and child spanning the mother's prenatal and postnatal periods - during the pregnancy, childbirth and after birth. Governments in low- and middle-income countries are increasingly implementing mother and child care programmes to provide primary healthcare services, prenatal care and educate new mothers about post-delivery care (e.g. breastfeeding, nutrition, immunization, personal hygiene).&#x20;
+This use case profiles the digital integration steps to provide high-quality and integrated Postpartum and Infant Care services for a mother and child spanning the mother's prenatal and postnatal periods - during the pregnancy, childbirth and after birth. Governments in low- and middle-income countries are increasingly implementing mother and child care programmes to provide primary healthcare services, prenatal care and educate new mothers about post-delivery care (e.g. breastfeeding, nutrition, immunization, personal hygiene).
 
 Postpartum maternal and infant mortality is still high across multiple low and middle income countries. This use case will support and guide countries in their efforts to reduce maternal and perinatal mortality and morbidity, through digitizing the process of postpartum care and services.
 
 ## Stakeholders
 
-* Ministry of Health and Welfare or national government body in charge of providing nationwide healthcare services and/or postpartum services and care.&#x20;
+* Ministry of Health and Welfare or national government body in charge of providing nationwide healthcare services and/or postpartum services and care.
 * Community healthcare workers trained in essential newborn care, and providing postpartum care for both mother and their newborns.
 * Expectant mothers and their new born babies as the key beneficiaries of this service.
 
@@ -28,7 +28,7 @@ Postpartum maternal and infant mortality is still high across multiple low and m
 
 * [**Consent**](https://govstack.gitbook.io/bb-consent)
 * [**Identification and Verification**](https://govstack.gitbook.io/bb-identity)
-* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)&#x20;
+* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 * [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 * [**Payments**](https://govstack.gitbook.io/bb-payments)
 * [**Registration**](https://govstack.gitbook.io/bb-registration)
@@ -45,7 +45,7 @@ Postpartum maternal and infant mortality is still high across multiple low and m
 
 Staff from the Ministry of Health or the relevant government agency leads a campaign to spread awareness about a new mother and childcare community health programme with the purpose of facilitating postpartum healthcare services. A comprehensive information and education campaign is developed around prenatal and postnatal healthcare services available through the programme. These educational materials/content can be made available in local languages online. \*\*The materials could include information on programme enrollment process and incentives, primary care recommendations/guidelines, pre-and post delivery healthcare support services being offered, participating facilities/clinics, beneficiaries rights and responsibilities, etc.
 
-Outreach communication should be intensive during the kick-off phase of the new programme, but also requires targeted communications to encourage expectant mothers' enrollment in the mother and child care community programme. The campaign can be conveyed via mobile messaging and/or aired on national radio/television as well as through field visit campaigns to local villages, hospitals/clinics - performed by well trained community healthcare workers.&#x20;
+Outreach communication should be intensive during the kick-off phase of the new programme, but also requires targeted communications to encourage expectant mothers' enrollment in the mother and child care community programme. The campaign can be conveyed via mobile messaging and/or aired on national radio/television as well as through field visit campaigns to local villages, hospitals/clinics - performed by well trained community healthcare workers.
 
 **Workflows**
 
@@ -61,9 +61,9 @@ Outreach communication should be intensive during the kick-off phase of the new 
 
 ### 2 - Registration
 
-Registration is the process of collecting information of target beneficiaries for identification purpose, assessment of their needs and conditions, and to enroll them in a programme.  Depending on specific country context, registration can work in very different ways. Registration should support the creation of an electronic medical record and tracking capabilities for each enrolled beneficiary. This can ensure timely and effective monitoring of healthcare data.&#x20;
+Registration is the process of collecting information of target beneficiaries for identification purpose, assessment of their needs and conditions, and to enroll them in a programme. Depending on specific country context, registration can work in very different ways. Registration should support the creation of an electronic medical record and tracking capabilities for each enrolled beneficiary. This can ensure timely and effective monitoring of healthcare data.
 
-For example, some countries use a centralized information technology based application to deliver maternal and child health care services through name-based tracking. During registration, the following information is collected: the mother's name, phone number and ID, as well as the information of their child's name, address and birth certificate. The data (the birth certificate and mother’s ID) provided is then automatically validated in the government’s citizen records system. Once their information is validated, it results in the following: 1. an online account per beneficiary - created for records associated with the mother and child care community programme; 2. a barcode unique to each beneficiary; 3. a Community Healthcare Worker assigned to their case to support the beneficiary in accessing all health services under this programme.&#x20;
+For example, some countries use a centralized information technology based application to deliver maternal and child health care services through name-based tracking. During registration, the following information is collected: the mother's name, phone number and ID, as well as the information of their child's name, address and birth certificate. The data (the birth certificate and mother’s ID) provided is then automatically validated in the government’s citizen records system. Once their information is validated, it results in the following: 1. an online account per beneficiary - created for records associated with the mother and child care community programme; 2. a barcode unique to each beneficiary; 3. a Community Healthcare Worker assigned to their case to support the beneficiary in accessing all health services under this programme.
 
 **Workflows**
 
@@ -79,7 +79,7 @@ For example, some countries use a centralized information technology based appli
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)&#x20;
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
 ### 3 - Data Verification and Validation
 
@@ -96,17 +96,17 @@ Data within the Mother and Child Tracking System (MCTS) is generally checked\* b
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)&#x20;
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
-### 4 - Eligibility Determination&#x20;
+### 4 - Eligibility Determination
 
 Eligibility determination is the process of assessing whether an eligibility criteria is met inorder to benefit from certain services. In most countries, the maternal and child health programme is part of the general health services provided by the government, however the eligibility structure can vary across countries. All expecting mothers and caregivers of infant children are generally considered to be eligible beneficiaries. The targets for this programme depends on a country by country basis. In certain countries, the target beneficiaries all women in their reproductive age groups, i.e., 15 - 49 years of age, and infants/ new born population. \*\*\*Certain government's give eligibility priorities to low-income pregnant individuals to help them get the health and social services they may need and covers a variety of services for pregnant individuals and their infants.
 
-Community Healthcare workers determine eligibility by reviewing all submitted registration details. Once eligibility has been determined, a notification (via sms, email etc) is sent to the beneficiary.&#x20;
+Community Healthcare workers determine eligibility by reviewing all submitted registration details. Once eligibility has been determined, a notification (via sms, email etc) is sent to the beneficiary.
 
 **Workflows**
 
-* **Client Case Management** for effectively managing all eligible and enrolled beneficiaries in the programme and monitoring the healthcare services being provided to them&#x20;
+* **Client Case Management** for effectively managing all eligible and enrolled beneficiaries in the programme and monitoring the healthcare services being provided to them
 * **Communication** to inform target beneficiaries that they meet the eligibility criteria and can start the enrollment process
 * **Data Analysis and Business Intelligence** potentially for mapping and analyzing the different beneficiaries - socioeconomic / demographic information
 
@@ -114,7 +114,7 @@ Community Healthcare workers determine eligibility by reviewing all submitted re
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)&#x20;
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
 [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 
@@ -125,7 +125,7 @@ Enrollment is the action of being enrolled and accepted as a beneficiary to rece
 **Workflows**
 
 * **Data Collection and Reporting** for capturing additional programmatic information on the beneficiaries during enrolment
-* **Financial Services** for staging beneficiary account details for enrollment  incentive payment processing
+* **Financial Services** for staging beneficiary account details for enrollment incentive payment processing
 * **Identification and Registration** for identifying beneficiaries and confirming enrolment
 * **Client Case Management** for storing program specific data for tracking
 
@@ -133,7 +133,7 @@ Enrollment is the action of being enrolled and accepted as a beneficiary to rece
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)&#x20;
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
 [**Payments**](https://govstack.gitbook.io/bb-payments/)
 
@@ -141,7 +141,7 @@ Enrollment is the action of being enrolled and accepted as a beneficiary to rece
 
 ### 6 - Payment
 
-Certain mother and child community health programs have a financial incentive in place in order to incentivize eligible beneficiaries to enroll and fully participate in the programme and the pre and post natal health services being provided. Furthermore in some cases, Community Health Workers also receive an incentive distribution for convincing/facilitating the process for expectant mothers to enroll in the programme. In most cases, incentive distributions are paid through mobile G2C or B2C incentive payments. Payments are subsequently paid according to the programme schedule e.g. one time incentive payment.&#x20;
+Certain mother and child community health programs have a financial incentive in place in order to incentivize eligible beneficiaries to enroll and fully participate in the programme and the pre and post natal health services being provided. Furthermore in some cases, Community Health Workers also receive an incentive distribution for convincing/facilitating the process for expectant mothers to enroll in the programme. In most cases, incentive distributions are paid through mobile G2C or B2C incentive payments. Payments are subsequently paid according to the programme schedule e.g. one time incentive payment.
 
 **Workflows**
 
@@ -152,7 +152,7 @@ Certain mother and child community health programs have a financial incentive in
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)&#x20;
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
 [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 
@@ -160,7 +160,7 @@ Certain mother and child community health programs have a financial incentive in
 
 ### 7 - Ongoing Case Management
 
-As part of this programme, Community Healthcare Workers or healthcare professionals, play a very active and hands-on role in the programme. They are generally the professionals on the ground, reaching out to target beneficiaries and convincing them to enroll in the programme.&#x20;
+As part of this programme, Community Healthcare Workers or healthcare professionals, play a very active and hands-on role in the programme. They are generally the professionals on the ground, reaching out to target beneficiaries and convincing them to enroll in the programme.
 
 This step involves ongoing interaction with beneficiaries via Community Health Workers and local hospitals/clinics/facilities to: ensure information on beneficiaries stays up to date, monitor usage of the primary healthcare services, and address grievances, and general primary care needs. Note that this step also requires clarity, clear decisions, and protocols regarding up-to-date data management and sharing between different health clinics and hospitals that provide pre-and post natal healthcare services.
 
@@ -176,7 +176,7 @@ This step involves ongoing interaction with beneficiaries via Community Health W
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)&#x20;
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
 [**Payments**](https://govstack.gitbook.io/bb-payments/)
 
@@ -196,7 +196,7 @@ National healthcare managers and officers make decisions and management choices 
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)&#x20;
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
 ### 9 - Updating
 
@@ -214,7 +214,7 @@ Ensuring data is up to date to trigger: Programme exit for those who are no long
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)&#x20;
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
 ## Contributors
 
@@ -222,4 +222,6 @@ Ensuring data is up to date to trigger: Programme exit for those who are no long
 * Steve Conrad, Associate Director of Technology, Digital Impact Alliance
 * Sarah Farooqi, The Exchange Product Owner, Digital Impact Alliance
 * Sainabou Jallow, Business Analyst, Digital Impact Alliance
-* Dr. P.S. Ramkumar, GovStack, International Telecommunication Union (ITU)
+* Dr. P. S. Ramkumar, GovStack, International Telecommunication Union (ITU)
+* Max Carlson, GovStack
+* Raul Kaidro, GovStack
