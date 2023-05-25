@@ -7,7 +7,7 @@
 | Name    | Postpartum and Infant Care |
 | Sector  | Health                     |
 | Version | 1.0                        |
-| Status  | Draft                      |
+| Status  | Published                  |
 
 This use case profiles the digital integration steps to provide high-quality and integrated Postpartum and Infant Care services for a mother and child spanning the mother's prenatal and postnatal periods - during the pregnancy, childbirth and after birth. Governments in low- and middle-income countries are increasingly implementing mother and child care programmes to provide primary healthcare services, prenatal care and educate new mothers about post-delivery care (e.g. breastfeeding, nutrition, immunization, personal hygiene).
 
@@ -43,7 +43,7 @@ Postpartum maternal and infant mortality is still high across multiple low and m
 
 ### 1 - Outreach Communications
 
-Staff from the Ministry of Health or the relevant government agency leads a campaign to spread awareness about a new mother and childcare community health programme with the purpose of facilitating postpartum healthcare services. A comprehensive information and education campaign is developed around prenatal and postnatal healthcare services available through the programme. These educational materials/content can be made available in local languages online. \*\*The materials could include information on programme enrollment process and incentives, primary care recommendations/guidelines, pre-and post delivery healthcare support services being offered, participating facilities/clinics, beneficiaries rights and responsibilities, etc.
+Staff from the Ministry of Health or the relevant government agency leads a campaign to spread awareness about a new mother and childcare community health programme with the purpose of facilitating postpartum healthcare services. A comprehensive information and education campaign is developed around prenatal and postnatal healthcare services available through the programme. These educational materials/content can be made available in local languages online. The materials could include information on programme enrollment process and incentives, primary care recommendations/guidelines, pre-and post delivery healthcare support services being offered, participating facilities/clinics, beneficiaries rights and responsibilities, etc.
 
 Outreach communication should be intensive during the kick-off phase of the new programme, but also requires targeted communications to encourage expectant mothers' enrollment in the mother and child care community programme. The campaign can be conveyed via mobile messaging and/or aired on national radio/television as well as through field visit campaigns to local villages, hospitals/clinics - performed by well trained community healthcare workers.
 
@@ -83,7 +83,7 @@ For example, some countries use a centralized information technology based appli
 
 ### 3 - Data Verification and Validation
 
-Data within the Mother and Child Tracking System (MCTS) is generally checked\* by the Ministry of Health managers, against other government databases (eg. ID, citizen's records, civil registry municipality etc.) in order to fill in any missing gaps, verify and validate collected information, including authentication of all records. \*Data checking approaches also vary: sometimes batch-sharing via CD, sometimes full interoperability.
+Data within the Mother and Child Tracking System (MCTS) is generally checked by the Ministry of Health managers, against other government databases (eg. ID, citizen's records, civil registry municipality etc.) in order to fill in any missing gaps, verify and validate collected information, including authentication of all records. \*Data checking approaches also vary: sometimes batch-sharing via CD, sometimes full interoperability.
 
 **Workflows**
 

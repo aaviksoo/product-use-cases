@@ -7,7 +7,7 @@
 | Name    | Unconditional Social Cash Transfer |
 | Sector  | Institution                        |
 | Version | 1.0                                |
-| Status  | Draft                              |
+| Status  | Published                          |
 
 This use case profiles specifically the digital integration steps within the delivery journey of a generalized unconditional social cash transfer service. Unconditional cash transfers are cash payments provided to financially disadvantaged or vulnerable people or households without requiring anything in return (i.e. without conditionality). This is different from a conditional payment where the benefit needs to be applied on the basis of achieving a certain result (e.g. higher school attendance, or prenatal care visit), or to be expended specifically on a type of resource (e.g. housing, or agricultural equipment). Governments in low- and middle-income countries increasingly use these benefit schemes in attempt to reduce poverty or other vulnerabilities, such as those related to health.
 

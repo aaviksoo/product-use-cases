@@ -7,7 +7,7 @@
 | Name    | Construction Permit        |
 | Sector  | Sustainable Infrastructure |
 | Version | 1.0                        |
-| Status  | Draft                      |
+| Status  | Published                  |
 
 This use case profiles the implementation process of a construction permit. A service that automates the entire construction permit approval process - from enabling online application submissions of building construction plans, to initiating verification and final approval by the local government authorities. This process is how local governments can decide whether to approve or decline construction permit applications by evaluating submitted building plans, and assessing their compliance with standard building codes and local regulations. A construction permit is an important requirement for countries to ensure buildings and structures are safe, with sound engineering, foundations and construction techniques.
 
