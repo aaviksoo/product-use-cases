@@ -13,10 +13,11 @@ Anticipatory cash transfers (or forecast-based financing) are a social protectio
 
 ## Stakeholders
 
-* Aid dispensing agent (can be government, NGOs, multilateral)
-* Aid recipients
-* Government agencies
-* MNOs
+* Aid dispensing agent in charge of the program. The agent can be government, NGOs, multilateral)
+* Aid recipients or end beneficiaries of cash disbursement
+* Government agencies required for data collection, coordination, and oversight. Specific ministries that need to be involved may vary from country to country and may include 1) civil defense, emergencies, and disaster relief, 2) earth sciences and observatory, 3) oceanic and atmospheric agencies, 4) ministry of finance in cases where governments are the agents, etc.
+* Mobile network operators involved in the digital aspects of the use case
+* Financial institutions for disbursement of funds.
 
 ## SDG Targets
 
@@ -39,15 +40,13 @@ Future building block inclusion
 
 ## Steps
 
-### 1 - Commit to program and assess feasibility&#x20;
+### 1 - Needs assessment and context analysis
 
-Prose description of the use case step
+Conduct a thorough needs assessment to understand the specific risks, vulnerabilities, and disaster-prone areas within the target region. Analyze the existing institutional framework, digital infrastructure, and financial systems to assess the feasibility of implementing a digital anticipatory cash transfer program.
 
 &#x20;**Workflows**
 
-* List of the workflows involved in this step, include a description of how the workflow involved
-* Format: **Workflow Name** text description
-  * **Identification and Registration** for locating and tracking users registered in the system.&#x20;
+* **Data collection and reporting** for primary data collection and assessment of the existing landscape and need.
 
 **Example Implementation**
 
@@ -55,9 +54,19 @@ Prose description of the use case step
 
 **Building Blocks**
 
-List of Building Blocks involved in this use case step, including link to building block specification&#x20;
+* [GIS](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
 
 ### 2 - Stakeholder engagement and advocacy&#x20;
+
+Engage relevant stakeholders, including local communities, government agencies, financial service providers, and technology partners. Foster collaborations and partnerships to ensure a coordinated approach and leverage existing resources and expertise.
+
+&#x20;**Workflows**
+
+* **Work planning and coordination** to ensure roles and responsibilities are defined and that all stakeholders are involved in the process.
+
+**Building Blocks**
+
+
 
 ### 3 - Program set up
 
