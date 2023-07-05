@@ -39,7 +39,7 @@ Future building block inclusion
 
 ## Steps
 
-### <# - Step Name>
+### 1 - Commit to program and assess feasibility&#x20;
 
 Prose description of the use case step
 
@@ -56,6 +56,32 @@ Prose description of the use case step
 **Building Blocks**
 
 List of Building Blocks involved in this use case step, including link to building block specification&#x20;
+
+### 2 - Stakeholder engagement and advocacy&#x20;
+
+### 3 - Program set up
+
+### 4 - Identify available forecasts and define impact level
+
+### 5 - Set up trigger
+
+### 6 - Contract service providers&#x20;
+
+### 7 - Identification and registration
+
+### 8 - Data verification and validation
+
+### 9 - Approve and finance
+
+### 10 - Activate, monitor, and evaluate
+
+### 11 - Cash disbursement management
+
+### 12 -  Case management
+
+### 13 -  Ongoing Monitoring and Evaluation&#x20;
+
+
 
 ## Contributors
 
