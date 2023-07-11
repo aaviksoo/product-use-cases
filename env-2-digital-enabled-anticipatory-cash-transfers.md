@@ -1,4 +1,4 @@
-# ENV-2 Digital-Enabled Anticipatory Cash Transfers for Disaster Risk Reduction
+# ENV-2 - Digital-Enabled Anticipatory Cash Transfers
 
 ## Product Use Case Summary
 
@@ -51,10 +51,6 @@ Conduct a thorough needs assessment to understand the specific risks, vulnerabil
 &#x20;**Workflows**
 
 * **Data collection and reporting** for primary data collection and assessment of the existing landscape and need.
-
-**Example Implementation**
-
-\<Link to example implementation>
 
 **Building Blocks**
 
@@ -120,9 +116,9 @@ Develop a robust beneficiary registration and verification process using digital
 * [Information mediator](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
 * [Registration](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/34nLw76x9QyukJXQ4A27)
 
-### 8 - Early Warning Systems (EWS) and Data Integration&#x20;
+### 8 - Integrate with Early Warning Systems (EWS)&#x20;
 
-Set up or enhance early warning systems, integrating relevant data sources and technologies such as meteorological data, climate models, and risk indicators. Develop algorithms or models to analyze data and trigger cash transfers based on predetermined thresholds.
+Integrate national/regional early warning systems, leveraging relevant data sources and technologies such as meteorological data, climate models, and risk indicators. Develop algorithms or models to analyze data and trigger cash transfers based on predetermined thresholds. (Note: This use case externalizes the creation of the EWS).
 
 &#x20;**Workflows**
 
@@ -133,26 +129,76 @@ Set up or enhance early warning systems, integrating relevant data sources and t
 **Building Blocks**
 
 * [GIS](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
+* [Information Mediator](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
+* [Workflow ](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
 
 ### 9 - Develop mobile or web-based application
 
 Design and develop user-friendly mobile or web-based platforms for beneficiary enrollment, communication, and feedback. Ensure the platforms are accessible, secure, and capable of handling data collection, cash transfer disbursements, and monitoring functionalities.
 
-### 10 - Training and Capacity Building
+**Workflows**
 
-Conduct training sessions for program implementers, local staff, and beneficiaries on the use of digital tools, mobile applications, and the cash transfer process. Ensure that all stakeholders have the necessary skills and knowledge to effectively participate in the program.
+* **Identification and registration** to coordinate with relevant national ID and national disaster relief agencies.
+* **Financial services** including integrations with financial providers and MNOs. &#x20;
+
+**Building Blocks**
+
+* [UX](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/mZjQFipOkdLHeoXnKg9n)
 
 ### 11 - Piloting and Iteration
 
-Initiate a small-scale pilot implementation of the digital anticipatory cash transfer program to test its effectiveness, identify operational challenges, and gather feedback from beneficiaries and stakeholders. Based on the lessons learned, refine and iterate the program design and processes.
+Initiate a small-scale pilot implementation of the digital anticipatory cash transfer program to test its effectiveness, identify operational challenges, and gather feedback from beneficiaries and stakeholders. Based on the lessons learned, refine and iterate the program design and processes. Additionally, this step involves conducting training sessions for program implementers, local staff, and beneficiaries on the use of digital tools, mobile applications, and the cash transfer process. Ensure that all stakeholders have the necessary skills and knowledge to effectively participate in the program.
+
+**Workflows**
+
+* **Client communication** to ensure stakeholders are involved and are participating.&#x20;
+* **Client education** to ensure that appropriate capacity exists for program implementers and beneficiaries.&#x20;
+* **Content management** to develop relevant training guides and manuals.&#x20;
+* **Financial Services** for processing beneficiary payment directly to their account, or for generating payroll to deposit payment amounts for withdrawal by beneficiary from designated banking institution(s) / pay-point(s) thereafter
+* **Client Case Management** for identifying and authenticating individual that is making a withdrawal, or to recall / verify deposit account information prior to payment transaction
+
+**Building Blocks**
+
+* [Consent](https://govstack.gitbook.io/bb-consent/)
+* [Identity and Verification](https://govstack.gitbook.io/bb-identity/)
+* [Information Mediator](https://govstack.gitbook.io/bb-information-mediation)
+* [Payments](https://govstack.gitbook.io/bb-payments/)
 
 ### 12 -  Program Rollout and Scaling
 
 Once the pilot phase is successful, expand the program to cover a larger number of beneficiaries and target areas. Ensure appropriate scaling of digital infrastructure, financial resources, and human capacity to meet the increased demand.
 
-### 13 -  Ongoing Monitoring, Evaluation, and Learning
+**Workflows**
 
-Establish a robust monitoring and evaluation framework to assess the program's impact, effectiveness, and efficiency. Continuously collect data, analyze program outcomes, and incorporate learnings to improve program design, targeting, and implementation.
+* **Client communication** to ensure stakeholders are involved and are participating.&#x20;
+* **Client education** to ensure that appropriate capacity exists for program implementers and beneficiaries.&#x20;
+* **Content management** to develop relevant training guides and manuals.&#x20;
+* **Financial Services** for processing beneficiary payment directly to their account, or for generating payroll to deposit payment amounts for withdrawal by beneficiary from designated banking institution(s) / pay-point(s) thereafter
+* **Client Case Management** for identifying and authenticating individual that is making a withdrawal, or to recall / verify deposit account information prior to payment transaction
+
+**Building Blocks**
+
+* [Consent](https://govstack.gitbook.io/bb-consent/)
+* [Identity and Verification](https://govstack.gitbook.io/bb-identity/)
+* [Information Mediator](https://govstack.gitbook.io/bb-information-mediation)
+* [Payments](https://govstack.gitbook.io/bb-payments/)
+
+### 13 -  Ongoing M\&E
+
+Monitoring and evaluation for anticipatory cash requires involvement of stakeholders for different parts of the project. Periodic evaluation should consider whether the thresholds, data inputs, and triggers are appropriate or need to be re-evaluated. In addition, assessments should consider impact of the of the program rollout on the intended beneficiaries.
+
+**Workflows**
+
+* **Client Case Management** for ongoing monitoring and tracking of client performance, and integration to other registries for holistic view and reporting
+* **Identification and Registration** (with aid of geographic information services tool for potential use) in tracking / locating areas in relation to level of activities and adherence, or client household location
+* **Data Analysis and Business Intelligence** / **Decision Support** / **Data Collection and Reporting** to analyze, update, and report program output / performance information
+
+**Building Blocks**
+
+* [Consent](https://govstack.gitbook.io/bb-consent/)
+* [Identity and Verification](https://govstack.gitbook.io/bb-identity/)
+* [Scheduler](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+* [Workflow](https://govstack.gitbook.io/specification/building-blocks/workflow)
 
 ## Contributors
 
