@@ -37,6 +37,7 @@ Anticipatory cash transfers (or forecast-based financing) are a social protectio
 * [Consent](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
 * [Identity](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
 * [Registration](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/34nLw76x9QyukJXQ4A27)
+* [Scheduler](https://govstack.gitbook.io/specification/building-blocks/scheduler)
 
 ## Source Documents
 
@@ -58,7 +59,7 @@ Conduct a thorough needs assessment to understand the specific risks, vulnerabil
 
 ### 2 - Stakeholder engagement and advocacy&#x20;
 
-Engage relevant stakeholders, including local communities, government agencies, financial service providers, and technology partners. Foster collaborations and partnerships to ensure a coordinated approach and leverage existing resources and expertise.
+Engage relevant stakeholders, including local communities, government agencies, financial service providers, and technology partners. Foster collaborations and partnerships to ensure a coordinated approach and leverage existing resources and expertise.&#x20;
 
 &#x20;**Workflows**
 
@@ -67,7 +68,8 @@ Engage relevant stakeholders, including local communities, government agencies, 
 
 **Building Blocks**
 
-_\[none]_
+* [Information Mediator](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
+* [Workflow](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/)
 
 ### 3 - Design program&#x20;
 
@@ -160,7 +162,7 @@ Initiate a small-scale pilot implementation of the digital anticipatory cash tra
 **Building Blocks**
 
 * [Consent](https://govstack.gitbook.io/bb-consent/)
-* [Identity and Verification](https://govstack.gitbook.io/bb-identity/)
+* [Identity ](https://govstack.gitbook.io/bb-identity/)
 * [Information Mediator](https://govstack.gitbook.io/bb-information-mediation)
 * [Payments](https://govstack.gitbook.io/bb-payments/)
 
@@ -179,7 +181,7 @@ Once the pilot phase is successful, expand the program to cover a larger number 
 **Building Blocks**
 
 * [Consent](https://govstack.gitbook.io/bb-consent/)
-* [Identity and Verification](https://govstack.gitbook.io/bb-identity/)
+* [Identity](https://govstack.gitbook.io/bb-identity/)
 * [Information Mediator](https://govstack.gitbook.io/bb-information-mediation)
 * [Payments](https://govstack.gitbook.io/bb-payments/)
 
