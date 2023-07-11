@@ -202,4 +202,4 @@ Monitoring and evaluation for anticipatory cash requires involvement of stakehol
 
 ## Contributors
 
-* \<List of contributors, optionally including organization and email address>
+* Sarah Farooqi, DIAL, sfarooqi@dial.global&#x20;
