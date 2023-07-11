@@ -1,4 +1,4 @@
-# HLTC-2- Telemedicine
+# HLTC-2 - Telemedicine
 
 ## Product Use Case Summary
 
@@ -11,9 +11,9 @@
 
 Telemedicine (also referred to as telehealth) lets patients visit with a health care provider without an in-person office visit. Instead, patient-provider interaction is conducted over the phone or online through a computer, tablet, or smartphone.
 
-The goal for modern telemedicine is to provide an alternative to in-person visits which helps improve access to health care for distant or rural populations, provides a safe experience without the risk of exposure to communicable diseases, and/or helps patients receive routine, specialty, or emergency care without the need to visit a health center. For s healthcare providers telemedicine can save time in under-resourced areas, can extend the geographical reach of individual practitioners, and can meet gaps in a practitioner’s schedule.&#x20;
+The goal for modern telemedicine is to provide an alternative to in-person visits which helps improve access to health care for distant or rural populations, provides a safe experience without the risk of exposure to communicable diseases, and/or helps patients receive routine, specialty, or emergency care without the need to visit a health center. For s healthcare providers telemedicine can save time in under-resourced areas, can extend the geographical reach of individual practitioners, and can meet gaps in a practitioner’s schedule.
 
-Telemedicine is not a substitute for in-person care, but can extend the reach of traditional health systems and can help meet ambitious national health targets.&#x20;
+Telemedicine is not a substitute for in-person care, but can extend the reach of traditional health systems and can help meet ambitious national health targets.
 
 Local connectivity levels must be considered when designing a telemedicine project since there may be remote communication disadvantages in rural regions to ensure efficient remote consultations. For instance, if the internet connection is poor, software should be able to switch to audio communication using VoIP (Voice over Internet Protocol) or cellular network. If the audiovisual communication is still poor, healthcare practitioners can consult via text messages.
 
@@ -41,9 +41,9 @@ Local connectivity levels must be considered when designing a telemedicine proje
 * [**E-Signature**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/EiApewuu4GrhgGCBTps0)
 * [**GIS**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
 * [**Identity**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
-* [**Information Mediator**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)&#x20;
+* [**Information Mediator**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
 * [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
-* [**Payments** ](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/6Cj5POQHYPnh5QnRgPDm)
+* [**Payments**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/6Cj5POQHYPnh5QnRgPDm)
 * [**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)
 * [**Workflow**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
 * [**UX**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/mZjQFipOkdLHeoXnKg9n)
@@ -62,13 +62,9 @@ Future building block inclusion:
 
 In cases where telemedicine is being pursued as a centralized activity to meet national health objectives, the Ministry of Health can work with Mobile Network Operators (MNOs) to map regions and districts which have broadband connectivity. Communications Satellite Networks can also be engaged to provide the required broadband bandwidth for effective delivery of telemedicine services in areas with little or no terrestrial mobile networks. In some cases, agreements between governments and MNOs need to be established in order to enable an accessible system, such as health helplines.
 
-&#x20;**Workflows**
+**Workflows**
 
 * **Data Collection and Reporting** to facilitate the mapping and scoping of connected/under connected areas.
-
-**Example of Implementation**
-
-To do
 
 **Building Blocks**
 
@@ -94,15 +90,15 @@ To do
 * [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 * [**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)
 
-### Step 3 - Health Provider Registration&#x20;
+### Step 3 - Health Provider Registration
 
-Registration for healthcare workers can occur differently based on whether the telemedicine system is rolled out in a centralized or decentralized manner. In country contexts where a centralized authority (such as the Ministry of Health) is rolling out a telemedicine program (such as a health helpline), healthcare workers can sign up on a central roster.&#x20;
+Registration for healthcare workers can occur differently based on whether the telemedicine system is rolled out in a centralized or decentralized manner. In country contexts where a centralized authority (such as the Ministry of Health) is rolling out a telemedicine program (such as a health helpline), healthcare workers can sign up on a central roster.
 
-In decentralized contexts, healthcare workers an sign up through participating hospitals/health care provider networks or directly through a telehealth company.&#x20;
+In decentralized contexts, healthcare workers an sign up through participating hospitals/health care provider networks or directly through a telehealth company.
 
 In this step, all healthcare workers will also provide information on qualifications, certifications and licenses.
 
-#### Workflows&#x20;
+#### Workflows
 
 * **Data Collecting and Reporting** to capture provider’s demographic data, information on specialties, and information on qualifications. In return patients can provide demographic, geographic, and health history data.
 * **Identification and Verification** for enrolled identified healthcare providers and patients and enabling permissions.
@@ -117,48 +113,40 @@ To do
 * [**Consent**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
 * [**Digital Registries**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/JMaO4Mpz4NPyGolHgYNS)
 * [**Identity**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
-* [**Information Mediator**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)&#x20;
+* [**Information Mediator**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
 * [**E-Signature**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/EiApewuu4GrhgGCBTps0)
 
 ### Step 4 - Patient Registration
 
 Registration for patients can vary depending on specific country/district-level contexts. Patients can sign up directly, through their hospital systems, or via representative health workers that can register participating individuals. In the latter case, the healthcare worker can assist individuals to provide demographic, geographic, and health history data into the system.
 
-#### Workflows&#x20;
+#### Workflows
 
 * **Data Collecting and Reporting** to capture provider’s demographic data, information on specialties, and information on qualifications. In return patients can provide demographic, geographic, and health history data.
 * **Identification and Verification** for enrolled identified healthcare providers and patients and enabling permissions.
 * **Client Case Management** for creating patient user records.
 
-**Example of Implementation**
-
-To do
-
 #### Building Blocks
 
 * [**Consent**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
 * [**Identity**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
-* [**Information Mediator**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)&#x20;
+* [**Information Mediator**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
 * [**E-Signature**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/EiApewuu4GrhgGCBTps0)
 
 ### Step 5 - Data Verification and Validation
 
 In this step, registration data needs to be verified and validated. Healthcare provider qualifications can be checked via the licensure organization in the country and patient data can be verified with local digital identification or census database.
 
-#### Workflows&#x20;
+#### Workflows
 
-* **Client case management** - used for verifying and validating enrollment of patients and healthcare workers. &#x20;
+* **Client case management** - used for verifying and validating enrollment of patients and healthcare workers.
 * **Data analysis and Business Intelligence / Data Collection and Reporting** - for administrators and national workers to monitor and track use and uptake of the system.
-
-**Example of Implementation**
-
-To do
 
 #### Building Blocks
 
 * [**Consent**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
 * [**Identity**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
-* [**Information Mediator**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)&#x20;
+* [**Information Mediator**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
 
 ### Step 6 - System Access
 
@@ -166,12 +154,12 @@ Patients, healthcare providers, and administrators need access to telehmedicine 
 
 #### Workflows
 
-* **Client Communication** - to facilitate individual communication between the system and all users (healthcare workers, patients, and administrators)&#x20;
+* **Client Communication** - to facilitate individual communication between the system and all users (healthcare workers, patients, and administrators)
 
 #### Building Blocks
 
 * [**Cloud Infrastructure**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/7JY4z52IqkGnrVeNUnnn)
-* [**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)
+* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 * [**UX**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/mZjQFipOkdLHeoXnKg9n)
 
 ### Step 7 - Schedule Appointments
@@ -185,12 +173,12 @@ Appointments can be triggered by patients (such as for a first-time visit) or by
 
 #### Building Blocks
 
-* [**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)
+* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 * [**Messaging**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/izJ8qoBNDEfETK9xzjLp)
 * [**Scheduler**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/bRT3Mh4gvorgs9yuilzH)
 * [**Workflow**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
 
-### Step 8 - Consultation&#x20;
+### Step 8 - Consultation
 
 Depending on connectivity and device parameters, there are two main ways that a health care practitioner and patient can conduct the consultation. 1) The consultation can be done through a live phone or video chat using a personal device. In some cases, the consultation can be done using a shared device provided by a health care officer or other intermediary. 2) The consultation can also be done by sending and receiving messages using secure messaging, email, and secure file exchange.
 
@@ -206,8 +194,8 @@ As part of the consultation, the healthcare provider can update the patient reco
 #### Building Blocks
 
 * [**Consent**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
-* [**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)
-* [**Scheduler** ](http://localhost:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description)
+* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+* [**Scheduler**](http://localhost:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description)
 
 ### Step 9 - Payment Management
 
@@ -222,13 +210,13 @@ Payments can be collected either pre- or post-consultation. In the context where
 
 * [**Identity**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
 * [**Information Mediator**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
-* [**Payments** ](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/6Cj5POQHYPnh5QnRgPDm)
+* [**Payments**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/6Cj5POQHYPnh5QnRgPDm)
 
 ### Step 10 - Ongoing Case Management
 
 Depending on the program and on the country’s broader health policies, this step involves ongoing interaction with beneficiaries via healthcare officers to help:
 
-* &#x20;Provide ongoing care and management – In some cases, this can also be done through remote sensors that can send information to healthcare providers on the patient’s health status
+* Provide ongoing care and management – In some cases, this can also be done through remote sensors that can send information to healthcare providers on the patient’s health status
 * Ensure information on patients and health care providers stays up to date
 * Address complaints, grievances, and appeals
 
@@ -242,7 +230,7 @@ Depending on the program and on the country’s broader health policies, this st
 
 * [**Consent**](https://govstack.gitbook.io/bb-consent/)
 * [**Identity**](https://govstack.gitbook.io/bb-identity/)
-* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)&#x20;
+* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 * [**Messaging**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/izJ8qoBNDEfETK9xzjLp)
 * [**Workflow**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
 
@@ -253,7 +241,7 @@ Administrators of the telehealth company and/or Ministry of Health analysts cond
 #### Workflows
 
 * **Client Case Management** - for ongoing monitoring and tracking of patients and health care workers usage and experience
-* **Data Analysis and Business Intelligence/ Decision Support / Data Collection and Reporting** - to analyize, update, and report program output/performance information&#x20;
+* **Data Analysis and Business Intelligence/ Decision Support / Data Collection and Reporting** - to analyize, update, and report program output/performance information
 
 #### Building Blocks
 
@@ -265,4 +253,6 @@ Administrators of the telehealth company and/or Ministry of Health analysts cond
 
 ## Contributors
 
-* \<List of contributors, optionally including organization and email address>
+* Dr. Sanjay Sood, eSanjeevani, spsood@cpac.int&#x20;
+* Jai Ganesh Udayasankaran, AeHIN, au.jaiganesh@gmail.com
+* Sarah Farooqi, DIAL, sfarooqi@dial.global
