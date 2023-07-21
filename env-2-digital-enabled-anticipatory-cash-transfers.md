@@ -2,12 +2,7 @@
 
 ## Product Use Case Summary
 
-| ID      | ENV-2                                                                   |
-| ------- | ----------------------------------------------------------------------- |
-| Name    | Digital-Enabled Anticipatory Cash Transfers for Disaster Risk Reduction |
-| Sector  | Environment (?)                                                         |
-| Version | 1.0                                                                     |
-| Status  | Draft                                                                   |
+<table><thead><tr><th width="305.5">ID</th><th>ENV-2</th></tr></thead><tbody><tr><td>Name</td><td>Digital-Enabled Anticipatory Cash Transfers for Disaster Risk Reduction</td></tr><tr><td>Sector</td><td>Environment (?)</td></tr><tr><td>Version</td><td>1.0</td></tr><tr><td>Status</td><td>Draft</td></tr></tbody></table>
 
 The primary agent aims to leverage digital technologies and data-driven approaches to implement anticipatory cash transfers, providing timely financial assistance to vulnerable populations in high-risk areas prone to natural disasters.
 
@@ -30,13 +25,13 @@ Anticipatory cash transfers (or forecast-based financing) are a social protectio
 
 ## Building Blocks
 
-* [GIS](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
-* [Information Mediator](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
-* [Workflow](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/)
-* [Payments](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/s/uJEXiAICNFsZ8S17X5KP/)
-* [Consent](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
-* [Identity](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
-* [Registration](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/34nLw76x9QyukJXQ4A27)
+* [GIS](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
+* [Information Mediator](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
+* [Workflow](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/)
+* [Payments](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/uJEXiAICNFsZ8S17X5KP/)
+* [Consent](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
+* [Identity](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
+* [Registration](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/34nLw76x9QyukJXQ4A27)
 * [Scheduler](https://govstack.gitbook.io/specification/building-blocks/scheduler)
 
 ## Source Documents
@@ -55,7 +50,7 @@ Conduct a thorough needs assessment to understand the specific risks, vulnerabil
 
 **Building Blocks**
 
-* [GIS](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
+* [GIS](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
 
 ### 2 - Stakeholder engagement and advocacy&#x20;
 
@@ -68,8 +63,8 @@ Engage relevant stakeholders, including local communities, government agencies, 
 
 **Building Blocks**
 
-* [Information Mediator](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
-* [Workflow](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/)
+* [Information Mediator](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
+* [Workflow](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/)
 
 ### 3 - Design program&#x20;
 
@@ -83,9 +78,9 @@ Define the program's objectives, scope, and eligibility criteria. Determine the 
 
 **Building Blocks**
 
-* [Information Mediator](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
-* [Workflow](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/)
-* [GIS](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
+* [Information Mediator](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
+* [Workflow](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/)
+* [GIS](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
 
 ### 5 - Establish digital payment system
 
@@ -99,7 +94,7 @@ Identify and establish partnerships with digital payment service providers or mo
 
 **Building Blocks**
 
-* [Payments](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/s/uJEXiAICNFsZ8S17X5KP/)
+* [Payments](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/uJEXiAICNFsZ8S17X5KP/)
 
 ### 6 - Beneficiary Registration and Verification
 
@@ -113,10 +108,10 @@ Develop a robust beneficiary registration and verification process using digital
 
 **Building Blocks**
 
-* [Consent](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
-* [Identity](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
-* [Information mediator](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
-* [Registration](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/34nLw76x9QyukJXQ4A27)
+* [Consent](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
+* [Identity](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
+* [Information mediator](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
+* [Registration](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/34nLw76x9QyukJXQ4A27)
 
 ### 8 - Integrate with Early Warning Systems (EWS)&#x20;
 
@@ -130,9 +125,9 @@ Integrate national/regional early warning systems, leveraging relevant data sour
 
 **Building Blocks**
 
-* [GIS](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
-* [Information Mediator](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
-* [Workflow ](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
+* [GIS](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
+* [Information Mediator](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
+* [Workflow ](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
 
 ### 9 - Develop mobile or web-based application
 
@@ -145,7 +140,7 @@ Design and develop user-friendly mobile or web-based platforms for beneficiary e
 
 **Building Blocks**
 
-* [UX](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/mZjQFipOkdLHeoXnKg9n)
+* [UX](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/mZjQFipOkdLHeoXnKg9n)
 
 ### 11 - Piloting and Iteration
 
