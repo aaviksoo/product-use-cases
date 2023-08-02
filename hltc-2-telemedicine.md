@@ -36,17 +36,17 @@ Local connectivity levels must be considered when designing a telemedicine proje
 
 ## Building Blocks
 
-* [**Consent**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
-* [**Digital Registries**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/JMaO4Mpz4NPyGolHgYNS)
-* [**E-Signature**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/EiApewuu4GrhgGCBTps0)
-* [**GIS**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
-* [**Identity**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
-* [**Information Mediator**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
+* [**Consent**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
+* [**Digital Registries**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/JMaO4Mpz4NPyGolHgYNS)
+* [**E-Signature**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/EiApewuu4GrhgGCBTps0)
+* [**GIS**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
+* [**Identity**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
+* [**Information Mediator**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
 * [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
-* [**Payments**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/6Cj5POQHYPnh5QnRgPDm)
+* [**Payments**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/6Cj5POQHYPnh5QnRgPDm)
 * [**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)
-* [**Workflow**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
-* [**UX**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/mZjQFipOkdLHeoXnKg9n)
+* [**Workflow**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
+* [**UX**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/mZjQFipOkdLHeoXnKg9n)
 
 Future building block inclusion:
 
@@ -68,7 +68,7 @@ In cases where telemedicine is being pursued as a centralized activity to meet n
 
 **Building Blocks**
 
-* [**GIS**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
+* [**GIS**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
 
 ### Step 2 - Outreach Communications
 
@@ -110,11 +110,11 @@ To do
 
 #### Building Blocks
 
-* [**Consent**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
-* [**Digital Registries**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/JMaO4Mpz4NPyGolHgYNS)
-* [**Identity**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
-* [**Information Mediator**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
-* [**E-Signature**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/EiApewuu4GrhgGCBTps0)
+* [**Consent**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
+* [**Digital Registries**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/JMaO4Mpz4NPyGolHgYNS)
+* [**Identity**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
+* [**Information Mediator**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
+* [**E-Signature**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/EiApewuu4GrhgGCBTps0)
 
 ### Step 4 - Patient Registration
 
@@ -128,10 +128,10 @@ Registration for patients can vary depending on specific country/district-level 
 
 #### Building Blocks
 
-* [**Consent**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
-* [**Identity**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
-* [**Information Mediator**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
-* [**E-Signature**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/EiApewuu4GrhgGCBTps0)
+* [**Consent**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
+* [**Identity**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
+* [**Information Mediator**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
+* [**E-Signature**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/EiApewuu4GrhgGCBTps0)
 
 ### Step 5 - Data Verification and Validation
 
@@ -144,9 +144,9 @@ In this step, registration data needs to be verified and validated. Healthcare p
 
 #### Building Blocks
 
-* [**Consent**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
-* [**Identity**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
-* [**Information Mediator**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
+* [**Consent**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
+* [**Identity**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
+* [**Information Mediator**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
 
 ### Step 6 - System Access
 
@@ -158,9 +158,9 @@ Patients, healthcare providers, and administrators need access to telehmedicine 
 
 #### Building Blocks
 
-* [**Cloud Infrastructure**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/7JY4z52IqkGnrVeNUnnn)
+* [**Cloud Infrastructure**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/7JY4z52IqkGnrVeNUnnn)
 * [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
-* [**UX**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/mZjQFipOkdLHeoXnKg9n)
+* [**UX**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/mZjQFipOkdLHeoXnKg9n)
 
 ### Step 7 - Schedule Appointments
 
@@ -174,9 +174,9 @@ Appointments can be triggered by patients (such as for a first-time visit) or by
 #### Building Blocks
 
 * [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
-* [**Messaging**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/izJ8qoBNDEfETK9xzjLp)
-* [**Scheduler**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/bRT3Mh4gvorgs9yuilzH)
-* [**Workflow**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
+* [**Messaging**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/izJ8qoBNDEfETK9xzjLp)
+* [**Scheduler**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/bRT3Mh4gvorgs9yuilzH)
+* [**Workflow**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
 
 ### Step 8 - Consultation
 
@@ -193,9 +193,9 @@ As part of the consultation, the healthcare provider can update the patient reco
 
 #### Building Blocks
 
-* [**Consent**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
+* [**Consent**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
 * [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
-* [**Scheduler**](http://localhost:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description)
+* [**Scheduler**](http://127.0.0.1:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description)
 
 ### Step 9 - Payment Management
 
@@ -208,9 +208,9 @@ Payments can be collected either pre- or post-consultation. In the context where
 
 #### Building Blocks
 
-* [**Identity**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
-* [**Information Mediator**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
-* [**Payments**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/6Cj5POQHYPnh5QnRgPDm)
+* [**Identity**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
+* [**Information Mediator**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
+* [**Payments**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/6Cj5POQHYPnh5QnRgPDm)
 
 ### Step 10 - Ongoing Case Management
 
@@ -231,8 +231,8 @@ Depending on the program and on the country’s broader health policies, this st
 * [**Consent**](https://govstack.gitbook.io/bb-consent/)
 * [**Identity**](https://govstack.gitbook.io/bb-identity/)
 * [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
-* [**Messaging**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/izJ8qoBNDEfETK9xzjLp)
-* [**Workflow**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
+* [**Messaging**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/izJ8qoBNDEfETK9xzjLp)
+* [**Workflow**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
 
 ### Step 11 - Ongoing Monitoring and Evaluation
 
@@ -247,7 +247,7 @@ Administrators of the telehealth company and/or Ministry of Health analysts cond
 
 * [**Consent**](https://govstack.gitbook.io/bb-consent/)
 * [**Identity**](https://govstack.gitbook.io/bb-identity/)
-* [**GIS**](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
+* [**GIS**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
 * [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
 * [**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
 
