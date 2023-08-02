@@ -2,7 +2,7 @@
 
 ## Product Use Case Summary
 
-<table><thead><tr><th width="305.5">ID</th><th>ENV-2</th></tr></thead><tbody><tr><td>Name</td><td>Digital-Enabled Anticipatory Cash Transfers for Disaster Risk Reduction</td></tr><tr><td>Sector</td><td>Environment (?)</td></tr><tr><td>Version</td><td>1.0</td></tr><tr><td>Status</td><td>Draft</td></tr></tbody></table>
+<table><thead><tr><th width="305.5">ID</th><th>ENV-2</th></tr></thead><tbody><tr><td>Name</td><td>Anticipatory Cash Transfers </td></tr><tr><td>Sector</td><td>Environment </td></tr><tr><td>Version</td><td>1.0</td></tr><tr><td>Status</td><td>Draft</td></tr></tbody></table>
 
 The primary agent aims to leverage digital technologies and data-driven approaches to implement anticipatory cash transfers, providing timely financial assistance to vulnerable populations in high-risk areas prone to natural disasters.
 
@@ -122,7 +122,7 @@ Based on national/regional early warning systems, the anticipatory cash program 
 * [Information Mediator](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
 * [Workflow ](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
 
-### 5 - Real-time Eligibility Determination &#x20;
+### 6 - Real-time Eligibility Determination &#x20;
 
 Once the program has been triggered after an emergency event, there will be a real-time eligibility process for beneficiaries to receive cash. Depending on regional/national context, this process could range from highly automated (using mobile technology) to highly manual (with on ground staff) to determine eligibility on a case-by-case basis. Eligibility criteria will be made clear (such as which geographic regions the rollout is specific to) so that non-eligible registrants understand the conditions under which eligibility has been determined.&#x20;
 
@@ -139,7 +139,7 @@ Once the program has been triggered after an emergency event, there will be a re
 * [Information Mediator](https://govstack.gitbook.io/bb-information-mediation)
 * [Registration](https://govstack.gitbook.io/bb-registration/)
 
-### 6 - Payment
+### 7 - Payment
 
 Depending on specific country contexts, payments can be highly automated (such as through mobile banking) or highly manual (i.e., local staff as cash distributors. In the case of an automated system, service providers (such as digital payment services or mobile network operators) should have been formally contracted in step 1 to facilitate cash disbursements. If the electronic payment system has been enabled, the payment can be processed for eligible beneficiaries. In the context where a digital financial service system is not employed, each beneficiary would be requested to travel to the nearest designated paypoint and collect money by program-specific authentication. In either case, the money is transferred to the selected payment provider as per generated payroll and is subsequently verified against the individual’s identification of program enrollment. Other possible add-on intervention activities at this step: behavior change communication; triggering of add-on benefits (or widening of beneficiary pool) if emergency worsens.&#x20;
 
@@ -152,7 +152,7 @@ Depending on specific country contexts, payments can be highly automated (such a
 
 * [Payments](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/uJEXiAICNFsZ8S17X5KP/)
 
-### 7 - Ongoing Case Management
+### 8 - Ongoing Case Management
 
 During non-emergency times, this step involves ongoing interaction with beneficiaries to ensure information on beneficiaries stays up to date. During emergency times, there may be an added responsibility to address complaints, grievances, and appeals. &#x20;
 
@@ -169,7 +169,7 @@ During non-emergency times, this step involves ongoing interaction with benefici
 * [Scheduler](https://govstack.gitbook.io/specification/building-blocks/scheduler)
 * [Workflow](https://govstack.gitbook.io/specification/building-blocks/workflow)
 
-### 8 - Ongoing M\&E and Program Update
+### 9 - Ongoing M\&E and Program Update
 
 The primary agent should conduct M\&E exercises to make management choices such as where to conduct training, registration campaigns, where to prioritize budget, etc.  Monitoring and evaluation for anticipatory cash requires involvement of stakeholders for different parts of the project. Periodic evaluation should consider whether the thresholds, data inputs, and triggers are appropriate or need to be re-evaluated. In addition, assessments should consider impact of the of the program rollout on the intended beneficiaries.
 
@@ -185,8 +185,6 @@ The primary agent should conduct M\&E exercises to make management choices such 
 * [Identity ](https://govstack.gitbook.io/bb-identity/)
 * [Scheduler](https://govstack.gitbook.io/specification/building-blocks/scheduler)
 * [Workflow](https://govstack.gitbook.io/specification/building-blocks/workflow)
-
-
 
 ## Contributors
 
