@@ -3,7 +3,7 @@
 | ID      | EDU-1           |
 | ------- | --------------- |
 | Name    | Remote Learning |
-| Sector  | 4               |
+| Sector  | Education       |
 | Version | 1.0             |
 | Status  | Draft           |
 
