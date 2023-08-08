@@ -2,7 +2,7 @@
 
 * [AGR-1- Market Linkage](README.md)
 * [HLTC-2 - Telemedicine](hltc-2-telemedicine.md)
-* [ENV-2 - Anticipatory Cash Transfers](env-2-digital-enabled-anticipatory-cash-transfers.md)
+* [INST-2 - Anticipatory Cash Transfers](inst-2-anticipatory-cash-transfers.md)
 * [HLTC-3 - Smart Vaccination](hltc-3-smart-vaccination.md)
-* [EDU-1 - School Fees Payments](edu-1-school-fees-payments.md)
+* [EDU-1 - Remote Learning](edu-1-remote-learning.md)
 * [CLMT-1 - National Disaster Management](clmt-1-national-disaster-management.md)

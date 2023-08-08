@@ -1,8 +1,8 @@
-# ENV-2 - Anticipatory Cash Transfers
+# INST-2 - Anticipatory Cash Transfers
 
 ## Product Use Case Summary
 
-<table><thead><tr><th width="305.5">ID</th><th>ENV-2</th></tr></thead><tbody><tr><td>Name</td><td>Anticipatory Cash Transfers </td></tr><tr><td>Sector</td><td>Environment </td></tr><tr><td>Version</td><td>1.0</td></tr><tr><td>Status</td><td>Draft</td></tr></tbody></table>
+<table><thead><tr><th width="305.5">ID</th><th>INST-2</th></tr></thead><tbody><tr><td>Name</td><td>Anticipatory Cash Transfers </td></tr><tr><td>Sector</td><td>Institution</td></tr><tr><td>Version</td><td>1.0</td></tr><tr><td>Status</td><td>Draft</td></tr></tbody></table>
 
 The primary agent aims to leverage digital technologies and data-driven approaches to implement anticipatory cash transfers, providing timely financial assistance to vulnerable populations in high-risk areas prone to natural disasters.
 
