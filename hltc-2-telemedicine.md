@@ -81,10 +81,6 @@ Staff from the Ministry of Health, private telehealth companies, or other interm
 * **Content management** for the backend Social Welfare staff to populate relevant educational and promotional content that local officers can use during on-the-ground outreach campaigns
 * **Identification and Registration** (along with GIS) in mapping and locating households and individuals for outreach target
 
-**Example of Implementation**
-
-To do
-
 #### Building Blocks
 
 * [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
@@ -103,10 +99,6 @@ In this step, all healthcare workers will also provide information on qualificat
 * **Data Collecting and Reporting** to capture provider’s demographic data, information on specialties, and information on qualifications. In return patients can provide demographic, geographic, and health history data.
 * **Identification and Verification** for enrolled identified healthcare providers and patients and enabling permissions.
 * **Client Case Management** for creating patient user records.
-
-**Example of Implementation**
-
-To do
 
 #### Building Blocks
 
