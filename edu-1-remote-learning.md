@@ -9,11 +9,13 @@
 
 The primary objective of the remote learning platform is to deliver engaging and effective educational content to students, facilitate seamless communication between educators and learners, enable interactive assessments, and support continuous learning in a virtual environment.
 
+Remote learning systems can be used to enhance traditional schooling, for vocational training, or for continuous learning and it reduces the need for physical infrastructure, travel, and resource duplication. Learners can access educational content and participate in classes from anywhere, breaking down geographical barriers, and promoting learners of all abilities to participate effectively.&#x20;
+
 ## Stakeholders
 
-* Administrator
-* Educator
-* Student
+* **Administrator** that manages the remote learning system and can be available for technical difficulties.
+* **Educator** that is in charge of course creation, course delivery, and student evaluation.
+* **Learner** that is accessing platform for educational content.&#x20;
 
 ## SDG Targets
 
@@ -24,6 +26,20 @@ The primary objective of the remote learning platform is to deliver engaging and
 
 ## Building Blocks
 
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
+
+[**Identity** ](https://govstack.gitbook.io/bb-identity/)
+
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+
+[**Registration**](https://govstack.gitbook.io/bb-registration/)
+
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+
+[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+
 ## Source Documents
 
 [_SDG Digital Investment Framework - A whole-of-Government Approach to Investing in Digital Technologies to Achieve the SDGs_](http://handle.itu.int/11.1002/pub/812df924-en)
@@ -32,71 +48,121 @@ The primary objective of the remote learning platform is to deliver engaging and
 
 ### 1 - Registration&#x20;
 
-Educators register on the platform by providing their credentials, teaching experience, and expertise. Their accounts are verified and approved by administrators. Students register on the platform by providing basic personal information. User accounts are created, allowing access to course offerings and other platform features.
+Educators register on the platform by providing their credentials, teaching experience, and expertise. Their accounts are verified and approved by administrators. Learners register on the platform by providing basic personal information. User accounts are created, allowing access to course offerings and other platform features.
 
 **Workflows**
 
-* **Data Collection and Reporting** for capturing interview responses or observation during registration process
-* **Identification and Registration** for enrolled identified beneficiaries in the system and enabling possible permissions for interaction with the SRIS, and (with aid of geographic information services tool) to potentially locate and track households during the interview process
-* **Client Case Management** for creating beneficiary user records
+* **Data Collection and Reporting** for capturing details of educators and learners.
+* **Identification and Registration** for educators and students.&#x20;
+* **Client Case Management** for creating user records
 
 **Building Blocks**
 
 [**Consent**](https://govstack.gitbook.io/bb-consent/)
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity** ](https://govstack.gitbook.io/bb-identity/)
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
 [**Registration**](https://govstack.gitbook.io/bb-registration/)
 
-### 3 - Data Verification and Validation&#x20;
+### 2 - Data Verification and Validation&#x20;
 
-Accounts are verified and approved by administrators, including setting permissions based on the user profile. For example, educators will have access to course creation features and will have grade visibility of all students. Students will have a view that supports their personal learning. Using advanced identity verification mechanisms, such as email confirmation or multi-factor authentication will ensure the accuracy of user-provided information and prevent unauthorized access.
+Accounts are verified and approved by administrators, including setting permissions based on the user profile. For example, educators will have access to course creation features and will have grade visibility of all students (if applicable). Learners will have a view that supports their personal learning. Advanced identity verification mechanisms, such as email confirmation or multi-factor authentication can ensure the accuracy of user-provided information and prevent unauthorized access. In some cases verification will also involve checking with learning institution (such as student/faculty ID numbers).&#x20;
 
 **Workflows**
 
-* **Client Case Management** for storing and reviewing identification records and eligibility information of potential beneficiaries
-* **Data Analysis and Business Intelligence** for cross-referencing and verifying records across multiple registry sources, and reconciling gaps / overlaps
+* **Client Case Management** for storing and reviewing identification records&#x20;
+* **Data Analysis and Business Intelligence** for cross-referencing and verifying records with email, two-factor authentication, student/faculty records
 
-**Building Block Workflows**
+**Building Blocks**&#x20;
 
 [**Consent**](https://govstack.gitbook.io/bb-consent/)
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
-### 2 - Payment&#x20;
+### 3 - Payment&#x20;
 
-In some cases, payment will be required as part of the course (such as for MOOCs). In other cases, payment may be collected at registration and will be external to the learning management system. If payment is required, the platform can facilitate secure online payment options for course enrollment, or the student may be be requested to travel to the nearest designated pay-point and pay in person.
+In some cases, payment will be required as part of the course, and students and/or educators will have to make the payment after registration. In other cases, payment may be collected as part of a school student and will be external to the learning management system. If payment is required, the platform can facilitate secure online payment options for course enrollment, or the student may be be requested to travel to the nearest designated pay-point and pay in person.
 
 **Workflows**
 
-* **Financial Services** for processing beneficiary payment directly to their account, or for generating payroll to deposit payment amounts for withdrawal by beneficiary from designated banking institution(s) / pay-point(s) thereafter
-* **Client Case Management** for identifying and authenticating individual that is making a withdrawal, or to recall / verify deposit account information prior to payment transaction
+* **Financial Services** for processing educator and/or learner payments for accessing the course
+* **Client Case Management** for identifying and authenticating individual that is making the payment&#x20;
 
 **Building Blocks**
 
 [**Payments**](https://govstack.gitbook.io/bb-payments/)
 
-### 4 - Course Creation
+### 4 - Educator Functions&#x20;
 
-Educators create courses by defining titles, descriptions, objectives, and prerequisites. Course details are displayed on the platform's catalog.
+Educators can create courses, upload course materials, including lecture notes, presentations, assignments, and reading materials. These resources are made available to enrolled students. They can also conduct real-time virtual classes using video conferencing tools integrated into the platform.&#x20;
 
-### 5 - Educator Functions&#x20;
+**Workflows**
 
-Educators upload course materials, including lecture notes, presentations, assignments, and reading materials. These resources are made available to enrolled students. They can also conduct real-time virtual classes using video conferencing tools integrated into the platform.&#x20;
+* **Client Education** for tutorials or guides aimed educators that are creating course content
+* **Knowledge Management** to manage course materials, lectures, assets, etc.
+* **Work planning and Coordination** to manage release of learning modules, grades, quizzes, etc.&#x20;
 
-### 7 - Student functions
+**Building Blocks**
 
-Discussion forums, chat features, and virtual study groups allow students to interact with peers and educators.
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
-Access course module when released/submit assignments/access quizzes/access grades/use discussion boards&#x20;
+[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
 
-### 8 - Digital badge
+### 5 - Student functions
 
-### 9 - Ongoing monitoring and evaluation
+Learners can access course content when released by instructors, submit assignments, access quizzes, access grades, and use discussion boards interact with peers and educators. Students can also receive notifications when new modules, messages, or grades are received.
 
-The platform tracks student performance, engagement, and progress throughout the course. Educators and administrators access real-time analytics and reports to monitor learning outcomes. Track bug/issues
+**Workflows**
+
+* **Client Education** for tutorials or guides aimed learners to be able to use platform with ease
+* **Knowledge Management** to manage submissions, interactions with educators and peers, etc.&#x20;
+
+**Building Blocks**
+
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+
+[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+
+### 6 - Digital badge
+
+At the end of the course, the learner will receive a digital badge (or final grade) that certifies course completion.
+
+**Workflows**
+
+* **Identification and registration** to link student account with credential/digital badge
+
+**Building Blocks**
+
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
+
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+
+### 7 - Ongoing monitoring and evaluation
+
+The platform tracks student performance, engagement, and progress throughout the course. Educators and administrators access real-time analytics and reports to monitor learning outcomes. Administrators can also track bug and issues create system updates accordingly.&#x20;
+
+**Workflows**
+
+* **Client Case Management** for ongoing monitoring and tracking of how educators and learners are using the platform
+* **Data Analysis and Business Intelligence** / **Decision Support** / **Data Collection and Reporting** to analyze, update, and report course performance and evaluation
+
+**Building Blocks**
+
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
+
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
+
+[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+
+[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
 
