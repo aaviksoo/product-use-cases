@@ -176,4 +176,22 @@ Depending on the country context and the systems used in a country's disaster ma
 * [**Messaging**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/izJ8qoBNDEfETK9xzjLp)
 * [**Workflow**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
 
+### **7 - Ongoing Monitoring and Evaluation**
+
+Monitoring insights are essential to facilitate learning and continuous improvements. Ongoing monitoring and evaluation entails tracking performance of a service all throughout its implementation cycle. All remote sensing and geodata collected and monitored can be assesed to identify ways to improve support during a national disaster situation. A process should be in place to implement learnings as quickly as possible, and method to collect, asses and incorporate feedback from all stakeholders. I.e., this could mean having a system in place that learns and improves its algorithms for subsequent climate events.
+
+**Workflows**
+
+* **Data Collection and Reporting** - for capturing feedback received, and data collected.
+* **Client Case Management** for ongoing monitoring and tracking of support services provided to affected population.
+* **Data Analysis and Business Intelligence** / **Decision Support** / **Data Collection and Reporting** to analyze, update, and evaluate disaster response performances.
+
+**Building Blocks**
+
+* [**Consent**](https://govstack.gitbook.io/bb-consent/)
+* [**Identity**](https://govstack.gitbook.io/bb-identity/)
+* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+* [**Messaging**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/izJ8qoBNDEfETK9xzjLp)
+* [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+
 ## Contributors
