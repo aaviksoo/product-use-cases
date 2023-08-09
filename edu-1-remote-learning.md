@@ -96,7 +96,7 @@ In some cases, payment will be required as part of the course, and students and/
 
 [**Payments**](https://govstack.gitbook.io/bb-payments/)
 
-### 4 - Educator Functions&#x20;
+### 4 - Educator functions
 
 Educators can create courses, upload course materials, including lecture notes, presentations, assignments, and reading materials. These resources are made available to enrolled students. They can also conduct real-time virtual classes using video conferencing tools integrated into the platform.&#x20;
 
