@@ -129,9 +129,9 @@ Learners can access course content when released by instructors, submit assignme
 
 [**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
 
-### 6 - Digital badge
+### 6 - Provide evidence of learning
 
-At the end of the course, the learner will receive a digital badge (or final grade) that certifies course completion.
+At the end of the course, the learner will receive proof of evidence of learning, for example: a digital badge, final grade, and/or certificate that shows the course was completed by the student.
 
 **Workflows**
 
@@ -166,3 +166,22 @@ The platform tracks student performance, engagement, and progress throughout the
 
 [**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
 
+### 7 - Archiving/Sunsetting
+
+The system should cater to the archiving/sunsetting of student data, cohort data, and course data, while considering the security of personally identifiable information. In some cases, data should be archived at the end of the course or at the end of student enrollment. In other cases, the system will have a delay function where data will be archived after a pre-determined amount of time. While most data should be archived, analytics and other anonymized data can be retained. Reminder messages may be sent to stakeholders to remind them that their data will be archived/deleted.
+
+**Workflows**
+
+* **Content management** for student/educator records.
+* **Data analysis and business intelligence** to retain necessary analysis on courses, student progress, educator profiles, etc.&#x20;
+* **Knowledge management** for archiving course content and any libraries associated with courses.
+
+**Building Blocks**
+
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
+
+[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+
+[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
