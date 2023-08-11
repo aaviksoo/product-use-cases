@@ -4,7 +4,7 @@
 
 <table><thead><tr><th width="305.5">ID</th><th>CLMT-1</th></tr></thead><tbody><tr><td>Name</td><td>National Disaster Management</td></tr><tr><td>Sector</td><td>Climate</td></tr><tr><td>Version</td><td>1.0</td></tr><tr><td>Status</td><td>Draft</td></tr></tbody></table>
 
-This use case profiles the implementation process of a national disaster management system. With the increasing frequency and severity of disasters, the international community and country-level national disaster management authorities are prioritizing ways to mitigate, prepare for, respond to, and recover from disasters. This process tends to involve a multiplicity of diverse stakeholders (public, private, non-profit organizations) - to respond to disasters and protect people, property, and places.
+This use case profiles the implementation process of a national disaster management system. With the increasing frequency and severity of disasters (both natural and human-made hazards), the international community and country-level national disaster management authorities are prioritizing ways to mitigate, prepare for, respond to, and recover from disasters. This process tends to involve a multiplicity of diverse stakeholders (public, private, non-profit organizations) - to respond to disasters and protect people, property, and places.
 
 Thus, implementing a harmonized approach to disaster management requires systematic and clear coordination mechanisms on disaster preparedness within government authorities across sectors, at all levels, between levels, as well as with disaster relief organizations. This process entails how to coordinate once a disaster occurs, to setting up a rapid response disaster relief, delivering information on disaster management activities to the public, and implementing rehabilitation and reconstruction support. Certain countries and organizations are increasingly incorporating the use of digital tools in their disaster management systems to enhance their capabilities for preparedness, detection, mitigation, and response to various types of disasters.
 
@@ -144,7 +144,22 @@ Depending on the location(s) of the disaster, effective cooperation between emer
 
 [**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
 
-### **5 - International Cooperation**
+### **5 - Community Engagement**&#x20;
+
+Community engagement is a critical component of emergency management and disaster resilience. It is the process of building the resilience of communities to play an active role before, during and after a disaster occurs. Especially in disaster prone areas, local volunteers can respond quicker and provide aid due to their close proximity - assisting their fellow community members directly impacted by the disaster - disseminating real time information, evacuation coordination support, emergency first aid etc. Thus this step recommends for governement authorities to coordinate closely with local community groups in the disaster management process.&#x20;
+
+**Workflows**
+
+* **Data Collection and Reporting** - for collecting real time data and disseminating with relavant parties.&#x20;
+* **Coordination** for liaising with local emergency agencies and their workers involved in supporting disaster relief.&#x20;
+
+**Building Blocks**
+
+* [**Messaging**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/izJ8qoBNDEfETK9xzjLp)
+* [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+* [**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+
+### **6 - International Cooperation**
 
 Since most municipalities are too small to handle major hazards, and certain countries might not have the resources to handle all disasters, international cooperation with disaster relief organizations is the norm. The Ministry of the Interior and/or Ministry of Foreign Affairs coordinates support request from international disaster relief organizations. Coordination between national and international emergency agencies and their workers is crucial for any disaster response effort to run smoothly and enable a quicker and better response in crises. Certain countries have digital systems and platforms in place to facilitate asynchronous coordination and communication with international actors on registering the affected population, evacuating people, providing medical assistance, first aid, food, and temporary shelter.
 
@@ -158,7 +173,7 @@ Since most municipalities are too small to handle major hazards, and certain cou
 
 [**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
 
-### **6 - Ongoing Case Management**&#x20;
+### **7 - Ongoing Case Management**&#x20;
 
 Depending on the country context and the systems used in a country's disaster management system, case management is crucial in the disaster recovery phase. Thus, in certain countries, each municipality has a unit in place with case managers to support case management services during disaster relief efforts. For instance, case managers supporting affected population to have access to public services - housing, medical needs, food etc. These case managers respond, track and monitor urgent support requests from citizens, displaced people etc. Depending on the resources available, certain countries follow a “one-to-one” approach - assigning one case manager per household affected by the disaster.
 
@@ -176,7 +191,7 @@ Depending on the country context and the systems used in a country's disaster ma
 * [**Messaging**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/izJ8qoBNDEfETK9xzjLp)
 * [**Workflow**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
 
-### **7 - Ongoing Monitoring and Evaluation**
+### **8 - Ongoing Monitoring and Evaluation**
 
 Monitoring insights are essential to facilitate learning and continuous improvements. Ongoing monitoring and evaluation entails tracking performance of a service all throughout its implementation cycle. All remote sensing and geodata collected and monitored can be assesed to identify ways to improve support during a national disaster situation. A process should be in place to implement learnings as quickly as possible, and method to collect, asses and incorporate feedback from all stakeholders. I.e., this could mean having a system in place that learns and improves its algorithms for subsequent climate events.
 
