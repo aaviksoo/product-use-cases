@@ -146,11 +146,11 @@ Depending on the location(s) of the disaster, effective cooperation between emer
 
 ### **5 - Community Engagement**&#x20;
 
-Community engagement is a critical component of emergency management and disaster resilience. It is the process of building the resilience of communities to play an active role before, during and after a disaster occurs. Especially in disaster prone areas, local volunteers can respond quicker and provide aid due to their close proximity - assisting their fellow community members directly impacted by the disaster - disseminating real time information, evacuation coordination support, emergency first aid etc. Thus this step recommends for governement authorities to coordinate closely with local community groups in the disaster management process.&#x20;
+Community engagement is a critical component of emergency management and disaster resilience. It is the process of building the resilience of communities to play an active role before, during and after a disaster occurs. Especially in disaster prone areas, local volunteers can respond quicker and provide aid due to their close proximity - assisting their fellow community members directly impacted by the disaster - disseminating real time information, evacuation coordination support, emergency first aid etc. Thus, this step recommends for government authorities to coordinate closely with local community groups in the disaster management process.&#x20;
 
 **Workflows**
 
-* **Data Collection and Reporting** - for collecting real time data and disseminating with relavant parties.&#x20;
+* **Data Collection and Reporting** - for collecting real time data and disseminating with relevant parties.&#x20;
 * **Coordination** for liaising with local emergency agencies and their workers involved in supporting disaster relief.&#x20;
 
 **Building Blocks**
