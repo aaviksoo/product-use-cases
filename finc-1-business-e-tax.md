@@ -4,9 +4,9 @@
 
 <table><thead><tr><th width="305.5">ID</th><th>FINC-1</th></tr></thead><tbody><tr><td>Name</td><td>Business E-Tax</td></tr><tr><td>Sector</td><td>Finance</td></tr><tr><td>Version</td><td>1.0</td></tr><tr><td>Status</td><td>Draft</td></tr></tbody></table>
 
-This use case profiles the digital transformation of tax administration (e-taxataion) in the business sector. Tax administrations across the globe are examining the potential benefits of digitalization to increase tax based revenue and improve the quality of taxpayer services - tax reporting and collection. Digital tools are seen as potential means that can make tax systems more accessible, efficient and seamless for both taxpayers and tax administrations.&#x20;
+This use case profiles the digital transformation of tax administration (e-taxataion) in the business sector. Tax administrations across the globe are examining the potential benefits of digitalization to broaden the tax base  and improve the quality of taxpayer services - tax reporting and collection. Digital tools are seen as potential means that can make tax systems more accessible, efficient and seamless for both taxpayers and tax administrations.&#x20;
 
-Moreover, digitalizaing the tax collection process is now seen as a way to combat tax evasion and promote compliance. Thus, more countries are focused on moving away from a paper-based tax administration, to a digitized process driven by data that is automatically streamed from the taxpayer, captured, cleaned, filtered, matched, and warehoused for assessing risk, audit, dispute, and other processes.
+Moreover, digitalizaing the tax collection process is now seen as a way to combat tax evasion and promote compliance - broaden the tax base and reduce the room for non-compliance. Thus, more countries are focused on moving away from a paper-based tax administration, to a digitized process driven by data that is automatically streamed from the taxpayer, captured, cleaned, filtered, matched, and warehoused for assessing risk, audit, dispute, and other processes. \*\*\*This process can also help tackle problems of businesses operating in the the hidden and informal economy.
 
 ## Stakeholders
 
@@ -37,14 +37,14 @@ Moreover, digitalizaing the tax collection process is now seen as a way to comba
 
 ### 1 - Outreach Communications
 
-Success requires a high level of commitment on the part of policymakers via a communication strategy that focuses on stakeholder management, and a fully articulated implementation plan (road map). In this step, the national body in charge of tax administration, educates tax officials, recruitment, determination of their regular or special status (tax technologist) and, ultimately, performance measurement and the compensation and reward system.&#x20;
+Success of digitalizing the tax administration process requires a high level of commitment on the part of policymakers via a communication strategy that focuses on stakeholder management, and a fully articulated implementation plan (road map). In this step, the national body in charge of tax administration - trains and educates tax officials on the new and improved tax reporting system.&#x20;
 
-Taxpayer service can also be improved by shifting from reactive communication, relying on taxpayers contacting the administration, to the tax administration proactively contacting taxpayers using relatively low cost channels such as SMS. The proactive communication service can be complemented with relatively low-cost communication via social media to reach an even larger range of taxpayers.
+For communication with target group - business entity taxpayers, the tax administration proactively contacts the target group via the country's formal business registry system informing them on the new digitized tax reporting process with clear guidelines and initial support on how to file taxes electronically. All information on the tax reporting platform being utilized - submission process, timeline, pre-filled standard form to declare revenue, expenses etc., should be easily accessible and disseminated on all relevant governement and private sector sites. An awareness raising campaign should be launched - communication on this new process can also be disseminated via email, SMS, and social media to reach an even larger range of taxpayers. \*\*\*Certain countries have a grace period of 1-3 years by which all businesses are required to transition to electronic invoicing (instead of cash based transactions) to streamline and automate tax filing and reporting process.
 
 &#x20;**Workflows**
 
-* **Client communication** to facilitate program awareness for target audience and encouraging enrollment&#x20;
-* **Client education** for educating potential target beneficiaries around the approach and objective(s), benefit(s), constraint(s), partner(s), etc. of the program
+* **Client communication** to facilitate awareness of the digitized process for target audience and ensure enrollment in tax adminstration platform.
+* **Client education** for educating target users/audience around the approach and objective(s), benefit(s), etc.
 * **Content management** for the staff of the primary agent to generate relevant educational and promotional content&#x20;
 
 **Building Blocks**
