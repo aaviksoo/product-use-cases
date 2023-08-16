@@ -71,9 +71,25 @@ Registration is the process of collecting information of all eligible tax paying
 * [Information Mediator](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
 * [Registration](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/34nLw76x9QyukJXQ4A27)
 
-### 3 - E-file
+### 3 - Data Verification and Validation
 
-Use of standardized electronic form for filing tax returns required or optional; other income data (e.g., payroll and financial) filed electronically and matched annually.
+Data verification and validation should be coordinated with all relevant governement authorities and regulatory bodies. For the e-tax system, in certain countries, the business tax registration data, is then generally checked and against other government databases (eg. chamber of commerce, etc.) in order to fill in any missing gaps, verify and validate collected information, including authentication of all records. \*Data checking approaches also vary: sometimes batch-sharing via _CD, sometimes full interoperability._
+
+**Workflows**
+
+* **Client Case Management** for storing and reviewing identification, registration, and business registration records.
+* **Data Analysis and Business Intelligence** for cross-referencing and verifying records across multiple registry sources, and reconciling gaps / overlaps.
+
+#### Building Blocks&#x20;
+
+* [Consent](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
+* [Identity](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)&#x20;
+* [Information Mediator](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
+* [Registration](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/34nLw76x9QyukJXQ4A27)
+
+### &#x20;4 - E-file/Tax Submission
+
+Use of standardized electronic form for filing tax returns required or optional; other income data (e.g., payroll and financial) filed electronically and matched annually. Submit accounting or other source data to support filings (e.g., invoices and trial balances) in a defined electronic format to a defined timetable; frequent additions and changes at this level.
 
 &#x20;**Workflows**
 
@@ -85,33 +101,31 @@ Use of standardized electronic form for filing tax returns required or optional;
 * [Consent](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
 * [Identity](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
 * [Information mediator](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
+* [Workflow ](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
 
-### 4 - E-accounting&#x20;
+### 5 - Payment
 
-Submit accounting or other source data to support filings (e.g., invoices and trial balances) in a defined electronic format to a defined timetable; frequent additions and changes at this level.
+Allowing taxpayers to switch from tax payment by cash to mobile banking, partially leapfrogging the traditional banking system stage_._ Depending on specific country contexts, payments is automated (such as through mobile banking).
 
 &#x20;**Workflows**
 
-* **Data analysis and business intelligence** to implement the trigger which responds to incoming data from government's early warning system.
-* **Decision support** to automate the trigger mechanism based on the agreed-upon impact level.
-* **Remote monitoring** by the government of weather patterns and other climate emergencies
+* **Financial Services** for processing tax payments from designated banking institution(s)
+* **Client Case Management** for identifying and authenticating business entities making the  payment transaction and ensuring it matches taxes owed to be paid.
 
 **Building Blocks**
 
-* [GIS](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
-* [Information Mediator](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
-* [Workflow ](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
+* [Payments](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/uJEXiAICNFsZ8S17X5KP/)
 
-### 5 - E-match &#x20;
+### 6 - E-match/checking process &#x20;
 
-Submit additional accounting and source data; government accesses additional data (bank statements) and begins to match data across tax types, and potentially across taxpayers and jurisdictions, in real time.
+Submit additional accounting and source data; government accesses additional data (bank statements) and begins to match data across tax types, and potentially across taxpayers and jurisdictions, in real time. Level-2 data analyzed by government entities and cross-checked to filings in real time to map the geographic economic ecosystem; taxpayers receiving electronic audit assessments with limited time to respond.
 
 **Workflows**
 
-* **Data Collection and Reporting** for capturing additional programmatic information on the beneficiaries during enrolment
-* **Financial Services** for staging beneficiary account details for cash transfer processing
-* **Identification and Registration** for identifying beneficiaries and confirming enrolment
-* **Client Case Management** for storing program specific data for tracking
+* **Data Collection and Reporting**&#x20;
+* **Financial Services**&#x20;
+* **Identification and Registration**
+* **Client Case Management**&#x20;
 
 **Building Blocks**
 
@@ -119,70 +133,31 @@ Submit additional accounting and source data; government accesses additional dat
 * [Information Mediator](https://govstack.gitbook.io/bb-information-mediation)
 * [Registration](https://govstack.gitbook.io/bb-registration/)
 
-### 6 - Payment
+### 7 - Ongoing Case Management
 
-Allowing taxpayers to switch from tax payment by cash to mobile banking, partially leapfrogging the traditional banking system stage_._ Depending on specific country contexts, payments can be highly automated (such as through mobile banking) or highly manual (i.e., local staff as cash distributors. In the case of an automated system, service providers (such as digital payment services or mobile network operators) should have been formally contracted in step 1 to facilitate cash disbursements.&#x20;
-
-&#x20;**Workflows**
-
-* **Financial Services** for processing beneficiary payment directly to their account, or for generating payroll to deposit payment amounts for withdrawal by beneficiary from designated banking institution(s) / pay-point(s) thereafter
-* **Client Case Management** for identifying and authenticating individual that is making a withdrawal, or to recall / verify deposit account information prior to payment transaction
-
-**Building Blocks**
-
-* [Payments](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/uJEXiAICNFsZ8S17X5KP/)
-
-### 7 - E-audit
-
-Level-2 data analyzed by government entities and cross-checked to filings in real time to map the geographic economic ecosystem; taxpayers receiving electronic audit assessments with limited time to respond.
-
-&#x20;**Workflows**
-
-* **Financial Services** for processing beneficiary payment directly to their account, or for generating payroll to deposit payment amounts for withdrawal by beneficiary from designated banking institution(s) / pay-point(s) thereafter
-* **Client Case Management** for identifying and authenticating individual that is making a withdrawal, or to recall / verify deposit account information prior to payment transaction
-
-**Building Blocks**
-
-* [Payments](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/uJEXiAICNFsZ8S17X5KP/)
-
-### 8 - E-assess
-
-Government entities using submitted data to assess tax without the need for tax forms; taxpayers allowed a limited time to audit government- calculated tax.
+This step involves ensuring information of businesses are kept up to date - specifically relating to tax payments. Also ensuring that there is a process in place to address any complaints, grievances and appeals raised. This process should be led by the government authority's compliance officers/team.
 
 **Workflows**
 
-* **Financial Services** for processing beneficiary payment directly to their account, or for generating payroll to deposit payment amounts for withdrawal by beneficiary from designated banking institution(s) / pay-point(s) thereafter
-* **Client Case Management** for identifying and authenticating individual that is making a withdrawal, or to recall / verify deposit account information prior to payment transaction
-
-**Building Blocks**
-
-* [Payments](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/uJEXiAICNFsZ8S17X5KP/)
-
-### 9 - Ongoing Case Management
-
-During non-emergency times, this step involves ongoing interaction with beneficiaries to ensure information on beneficiaries stays up to date. During emergency times, there may be an added responsibility to address complaints, grievances, and appeals. &#x20;
-
-**Workflows**
-
-* **Data Collection and Reporting** for capturing changes in beneficiary information
-* **Client Case Management** for identifying and recording beneficiary interaction with local officers and capturing reported cases on grievances / appeals etc., and for determining risks / conditionality by reviewing individual beneficiary client case
-* **Work Planning and Coordination** to potentially suggest and connect with departments / agencies offering other social benefits and services to eligible beneficiaries
+* **Data Collection and Reporting** for capturing changes in business entity information
+* **Client Case Management** for identifying and recording business entity interaction with local officers and capturing reported cases on grievances / appeals etc., and for determining risks / conditionality by reviewing individual client case
+* **Work Planning and Coordination** to potentially suggest and connect with Chambers of Commerce
 
 **Building Blocks**
 
 * [Consent](https://govstack.gitbook.io/bb-consent/)
 * [Identity ](https://govstack.gitbook.io/bb-identity/)
+* [Messaging](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/izJ8qoBNDEfETK9xzjLp)
 * [Scheduler](https://govstack.gitbook.io/specification/building-blocks/scheduler)
 * [Workflow](https://govstack.gitbook.io/specification/building-blocks/workflow)
 
-### 10 - Ongoing M\&E&#x20;
+### 8 - Ongoing M\&E&#x20;
 
-The primary agent should conduct M\&E exercises to make management choices such as where to conduct training, registration campaigns, where to prioritize budget, etc.  Monitoring and evaluation for anticipatory cash requires involvement of stakeholders for different parts of the project. Periodic evaluation should consider whether the thresholds, data inputs, and triggers are appropriate or need to be re-evaluated. In addition, assessments should consider impact of the of the program rollout on the intended beneficiaries.
+The primary agent should conduct M\&E exercises to acquire feedback from all relevant stakeholders on ways to improve the platform and ensure tax submission - calculation, payments etc. are as streamlined, effective and efficient as possible. This should incorporate periodic evaluation and impact assesment.&#x20;
 
 **Workflows**
 
-* **Client Case Management** for ongoing monitoring and tracking of client performance, and integration to other registries for holistic view and reporting
-* **Identification and Registration** (with aid of geographic information services tool for potential use) in tracking / locating areas in relation to level of activities and adherence, or client household location
+* **Client Case Management** for ongoing monitoring and tracking of performance, and integration to other registries for holistic view and reporting
 * **Data Analysis and Business Intelligence** / **Decision Support** / **Data Collection and Reporting** to analyze, update, and report program output / performance information
 
 **Building Blocks**
