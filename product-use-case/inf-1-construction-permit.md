@@ -156,7 +156,7 @@ In most countries that have implemented the construction permit, a building auth
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
-[**Messaging**](http://localhost:5000/s/mNnAAqNpNoSI6WELhO9t/1-description)
+[**Messaging**](http://127.0.0.1:5000/s/mNnAAqNpNoSI6WELhO9t/1-description)
 
 ### 6 - Payment
 
@@ -174,7 +174,7 @@ If an electronic payment process is enabled, then applicants can pay these fees 
 
 [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
 
-[**Messaging**](http://localhost:5000/s/mNnAAqNpNoSI6WELhO9t/1-description)
+[**Messaging**](http://127.0.0.1:5000/s/mNnAAqNpNoSI6WELhO9t/1-description)
 
 [**Payments**](https://govstack.gitbook.io/bb-payments/)
 
@@ -199,7 +199,7 @@ Once the building authority also ensures that all outstanding fees have been pai
 
 [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
 
-[**Messaging**](http://localhost:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description)
+[**Messaging**](http://127.0.0.1:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description)
 
 [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
 
@@ -222,7 +222,7 @@ This step involves ensuring that there is a virtual help desk and/or physical su
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-[**Messaging**](http://localhost:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description)
+[**Messaging**](http://127.0.0.1:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description)
 
 [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
 
@@ -245,7 +245,7 @@ In certain countries, once the construction work has been completed, the buildin
 
 [**Identification and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-[**Messaging**](http://localhost:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description)
+[**Messaging**](http://127.0.0.1:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description)
 
 [**Payments**](https://govstack.gitbook.io/bb-payments/)
 
