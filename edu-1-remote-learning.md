@@ -187,3 +187,11 @@ The system should cater to the archiving/sunsetting of student data, cohort data
 [**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
 
 ## **Contributors**
+
+Rachel Lawson
+
+Meelis Zujev
+
+Ayush Shukla
+
+Sarah Farooqi
