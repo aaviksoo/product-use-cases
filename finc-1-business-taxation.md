@@ -1,8 +1,8 @@
-# FINC-1 - Business E-Tax
+# FINC-1 - Business Taxation
 
 ## Product Use Case Summary
 
-<table><thead><tr><th width="305.5">ID</th><th>FINC-1</th></tr></thead><tbody><tr><td>Name</td><td>Business E-Tax</td></tr><tr><td>Sector</td><td>Finance</td></tr><tr><td>Version</td><td>1.0</td></tr><tr><td>Status</td><td>Draft</td></tr></tbody></table>
+<table><thead><tr><th width="305.5">ID</th><th>FINC-1</th></tr></thead><tbody><tr><td>Name</td><td>Business Taxation</td></tr><tr><td>Sector</td><td>Finance</td></tr><tr><td>Version</td><td>1.0</td></tr><tr><td>Status</td><td>Draft</td></tr></tbody></table>
 
 This use case profiles the digital transformation of tax administration (e-taxataion) in the business sector. Tax administrations across the globe are examining the potential benefits of digitalization to broaden the tax base  and improve the quality of taxpayer services - tax reporting and collection. Digital tools are seen as potential means that can make tax systems more accessible, efficient and seamless for both taxpayers and tax administration.&#x20;
 
