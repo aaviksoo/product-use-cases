@@ -56,12 +56,12 @@ For communication with the target business entity taxpayers - the tax administra
 
 ### 2 - Registration&#x20;
 
-Registration is the process of collecting information of all eligible tax paying busineses that have formally registered their business entity in a country. All eligible taxpaying business entities must register on the tax regime platform via their computer, mobile device etc. This process should provide a secure gateway and foundation for a digital tax administration. Personalized log in credentials can be provided for each entity. Depending on specific country context/processes, registration credentials used to log into the platform may be the same credentials provided when the business entity first registered their business in the country. During this process, the taxpayer's business information is collected e.g. name of company, date of business registration, business bank account details, etc.&#x20;
+Registration is the process of collecting information of all eligible tax paying busineses that have formally registered their business entity in a country. Registration on the tax administration platform can take place via computer, mobile device etc. Information required could include business name, address, legal structure, identification details of the company representative, bank account details, business identification number or certificate received from the Chamber of Commerce etc. Personalized log in credentials can then be provided for each entity to be able to login to tax administration platform. Depending on specific country context/processes, registration credentials used to log into the platform may be the same credentials provided when the business entity first registered their business via the Chamber of Commerce.
 
 **Workflows**
 
 * **Data Collection and Reporting** for capturing data of business entities.&#x20;
-* **Identification and Registration** for registered business entities to have access to the platform to submit all required forms and documentation.&#x20;
+* **Identification and Registration** for each registered business to have personalized login details to the tax administration platform to submit all required forms and tax related documents.&#x20;
 * **Client Case Management** for creating business entity user records.
 
 #### Building Blocks&#x20;
@@ -73,7 +73,7 @@ Registration is the process of collecting information of all eligible tax paying
 
 ### 3 - Data Verification and Validation
 
-Data verification and validation should be coordinated with all relevant governement authorities and regulatory bodies. For the e-tax system, in certain countries, the business tax registration data, is then generally checked and against other government databases (eg. chamber of commerce, etc.) in order to fill in any missing gaps, verify and validate collected information, including authentication of all records. \*Data checking approaches also vary: sometimes batch-sharing via _CD, sometimes full interoperability._
+Data verification and validation should be coordinated with all relevant governement authorities and regulatory bodies. For the e-tax system, in certain countries, the registration data that is submitted for tax purposes, is checked against other government databases (eg. chamber of commerce business registry, etc.) in order to fill in any missing gaps, verify and validate collected information, including authentication of all records. \*Data checking approaches also vary: sometimes batch-sharing via _CD, sometimes full interoperability._
 
 **Workflows**
 
