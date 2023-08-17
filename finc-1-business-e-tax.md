@@ -62,7 +62,7 @@ For communication with the target business entity taxpayers - the tax administra
 
 * **Client communication** to facilitate awareness of the tax platform for target audience and mandatory registration and enrollment process.&#x20;
 * **Client education** for educating target users/audience on the objective(s), benefit(s), process, guideline etc.
-* **Content management** for the staff  to generate relevant educational and promotional content&#x20;
+* **Content management** for the staff  to generate relevant educational and promotional content.
 
 **Building Blocks**
 
@@ -125,85 +125,56 @@ To complete the registration, a fee can be charged to cover administration cost 
 
 [**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
 
-### 6 - E-file/Tax Submission
+### 6 - E-file Submission
 
-Use of standardized electronic form for filing tax returns required or optional; other income data (e.g., payroll and financial) filed electronically and matched annually. Submit accounting or other source data to support filings (e.g., invoices and trial balances) in a defined electronic format to a defined timetable; frequent additions and changes at this level.
-
-&#x20;**Workflows**
-
-* **Client Case Management**&#x20;
-* **Data Analysis and Business Intelligence**&#x20;
-
-**Building Blocks**
-
-* [Consent](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
-* [Identity](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
-* [Information mediator](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
-* [Workflow ](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
-
-### 5 - Payment
-
-Allowing taxpayers to switch from tax payment by cash to mobile banking, partially leapfrogging the traditional banking system stage_._ Depending on specific country contexts, payments is automated (such as through mobile banking).
+To file and submit all requirements for tax submission purposes, users (business owners) can log in to the designate platform. They can then complete standardized electronic form for filing tax returns, and other income data (e.g., payroll and financial). This can be filed electronically and matched annually. They can also submit accounting or other source data to support filings (e.g., invoices and trial balances) in a defined electronic format.
 
 &#x20;**Workflows**
 
-* **Financial Services** for processing tax payments from designated banking institution(s)
-* **Client Case Management** for identifying and authenticating business entities making the  payment transaction and ensuring it matches taxes owed to be paid.
+* **Client Case Management** to track and manage all tax related submissions and respond to any inquiries or support needs.
+* **Data Analysis and Business Intelligence** to analyze all submitted data and ensure they meet requirements.
 
 **Building Blocks**
 
-* [Payments](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/uJEXiAICNFsZ8S17X5KP/)
-
-### 6 - E-match/checking process &#x20;
-
-Submit additional accounting and source data; government accesses additional data (bank statements) and begins to match data across tax types, and potentially across taxpayers and jurisdictions, in real time. Level-2 data analyzed by government entities and cross-checked to filings in real time to map the geographic economic ecosystem; taxpayers receiving electronic audit assessments with limited time to respond.
-
-**Workflows**
-
-* **Data Collection and Reporting**&#x20;
-* **Financial Services**&#x20;
-* **Identification and Registration**
-* **Client Case Management**&#x20;
-
-**Building Blocks**
-
-* [Identity and Verification](https://govstack.gitbook.io/bb-identity/)
-* [Information Mediator](https://govstack.gitbook.io/bb-information-mediation)
-* [Registration](https://govstack.gitbook.io/bb-registration/)
+* [**Consent**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
+* [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
+* [**Identity**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
+* [**Information mediator**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
+* [**Workflow** ](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
 
 ### 7 - Ongoing Case Management
 
-This step involves ensuring information of businesses are kept up to date - specifically relating to tax payments. Also ensuring that there is a process in place to address any complaints, grievances and appeals raised. This process should be led by the government authority's compliance officers/team.
+This step involves ensuring information of businesses are kept up to date - specifically relating to tax payments. Also ensuring that there is a process in place to address any complaints, grievances and appeals raised. This process should be led by the Tax Administration's compliance officers/team.
 
 **Workflows**
 
-* **Data Collection and Reporting** for capturing changes in business entity information
-* **Client Case Management** for identifying and recording business entity interaction with local officers and capturing reported cases on grievances / appeals etc., and for determining risks / conditionality by reviewing individual client case
-* **Work Planning and Coordination** to potentially suggest and connect with Chambers of Commerce
+* **Data Collection and Reporting** for capturing changes in business entity information.
+* **Client Case Management** for identifying and recording business entity interaction with local officers and capturing reported cases on grievances / appeals etc., and for determining risks / conditionality by reviewing individual client case.
+* **Work Planning and Coordination** to potentially suggest and connect with Chambers of Commerce in information validation/vetting.
 
 **Building Blocks**
 
-* [Consent](https://govstack.gitbook.io/bb-consent/)
-* [Identity ](https://govstack.gitbook.io/bb-identity/)
-* [Messaging](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/izJ8qoBNDEfETK9xzjLp)
-* [Scheduler](https://govstack.gitbook.io/specification/building-blocks/scheduler)
-* [Workflow](https://govstack.gitbook.io/specification/building-blocks/workflow)
+* [**Consent**](https://govstack.gitbook.io/bb-consent/)
+* [**Identity** ](https://govstack.gitbook.io/bb-identity/)
+* [**Messaging**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/izJ8qoBNDEfETK9xzjLp)
+* [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+* [**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
 
 ### 8 - Ongoing M\&E&#x20;
 
-The primary agent should conduct M\&E exercises to acquire feedback from all relevant stakeholders on ways to improve the platform and ensure tax submission - calculation, payments etc. are as streamlined, effective and efficient as possible. This should incorporate periodic evaluation and impact assesment.&#x20;
+The primary agent should conduct M\&E exercises to acquire feedback from all relevant stakeholders on ways to improve the platform and ensure tax submissions are as streamlined, effective and efficient as possible.&#x20;
 
 **Workflows**
 
-* **Client Case Management** for ongoing monitoring and tracking of performance, and integration to other registries for holistic view and reporting
-* **Data Analysis and Business Intelligence** / **Decision Support** / **Data Collection and Reporting** to analyze, update, and report program output / performance information
+* **Client Case Management** for ongoing monitoring and tracking of performance, and integration to other registries for holistic view and reporting.
+* **Data Analysis and Business Intelligence** / **Decision Support** / **Data Collection and Reporting** to analyze, update, and report output / performance information.
 
 **Building Blocks**
 
-* [Consent](https://govstack.gitbook.io/bb-consent/)
-* [Identity ](https://govstack.gitbook.io/bb-identity/)
-* [Scheduler](https://govstack.gitbook.io/specification/building-blocks/scheduler)
-* [Workflow](https://govstack.gitbook.io/specification/building-blocks/workflow)
+* [**Consent**](https://govstack.gitbook.io/bb-consent/)
+* [**Identity** ](https://govstack.gitbook.io/bb-identity/)
+* [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+* [**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
 
 ## Contributors
 
