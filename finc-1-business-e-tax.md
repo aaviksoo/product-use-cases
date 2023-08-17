@@ -22,14 +22,16 @@ Moreover, digitalizaing the tax collection process is now seen as a way to comba
 
 ## Building Blocks
 
-* [Information Mediator](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
-* [Workflow](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/)
-* [Payments](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/uJEXiAICNFsZ8S17X5KP/)
-* [Consent](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
-* [Identity](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
-* [Registration](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/34nLw76x9QyukJXQ4A27)
-* [Scheduler](https://govstack.gitbook.io/specification/building-blocks/scheduler)
-* [Messaging](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/izJ8qoBNDEfETK9xzjLp)
+* [**Consent**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
+* [**Digital Registries**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/JMaO4Mpz4NPyGolHgYNS)
+* [**E-Signature**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/EiApewuu4GrhgGCBTps0)
+* [**GIS**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
+* [**Identity**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
+* [**Information Mediator**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
+* [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+* [**Payments**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/6Cj5POQHYPnh5QnRgPDm)
+* [**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)
+* [**Workflow**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
 
 ## Source Documents
 
@@ -37,9 +39,22 @@ Moreover, digitalizaing the tax collection process is now seen as a way to comba
 
 ## Steps
 
-### 1 - Outreach Communications
+### 1 - Coordination&#x20;
 
-Success of digitalizing the tax administration process requires a high level of commitment on the part of policymakers via a communication strategy that focuses on stakeholder management, and a fully articulated implementation plan (road map). In this step, the national body in charge of tax administration collaborates closely with the national Chamber of Commerce and trains/educates tax officials and chamber of commerce staff about the new and improved business tax reporting system.&#x20;
+Success in digitalizing the tax administration process requires a high level of commitment on the part of policymakers via a communication strategy that focuses on stakeholder management, and a fully articulated implementation plan (road map). In this step, the government body in charge of tax administration (i.e., Tax and Customs Administration) collaborates closely with the Chamber of Commerce and trains/educates tax officials and Chamber of Commerce staff about the new and improved business tax reporting system. \*\*In certain countries, once they formally register their business with the Chamber of Commerce, their information is automatically forwarded to the Tax Administration.
+
+**Workflows**
+
+* **Coordination** to have an agreed form of coordination, communication and collaboration between the Chambers of Commerce and Tax Administration - facilitating information sharing on businesses operating in the country.
+* **Education** for educating and training all relevant governement staff on new process and platform/solutioin being utilized. Emphasis on objective, process, guidelines, and benefits - time saving and easy usability.
+* **Content management** for the staff to acquire technical and nontechnical guidelines on how to use platform.
+
+**Building Blocks**
+
+* [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+* [**Workflow** ](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
+
+### 2 - Outreach Communications
 
 For communication with the target business entity taxpayers - the tax administration implements a  robust awareness raising campaign via telephone, email (i.e., Chambers of Commerce registered business entities contact database), SMS, newspapers, and social media, informing this group about the new and madatory digitized tax reporting process with clear guidelines and initial support on how to file taxes electronically using the platform in place. All information on the tax reporting platform should already be easily accessible and disseminated on all governement run websites including in the Chambers of Commerce website, - timeframe to register, tax submission steps and requirements, deadlines, pre-filled standard form to declare revenue, expenses etc., . \*\*\*Certain countries have a grace period of 1-3 years by which all businesses are required to transition to electronic invoicing (instead of cash based transactions) to streamline and automate tax filing and reporting process.
 
@@ -51,12 +66,14 @@ For communication with the target business entity taxpayers - the tax administra
 
 **Building Blocks**
 
-* [Scheduler](https://govstack.gitbook.io/specification/building-blocks/scheduler)
-* [Messaging](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/izJ8qoBNDEfETK9xzjLp)
+* [**Consent**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
+* [**Digital Registries**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/JMaO4Mpz4NPyGolHgYNS)
+* [**Messaging**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/izJ8qoBNDEfETK9xzjLp)
+* [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
 
-### 2 - Registration&#x20;
+### 3 - Registration&#x20;
 
-Registration is the process of collecting information of all eligible tax paying busineses that have formally registered their business entity in a country. Registration on the tax administration platform can take place via computer, mobile device etc. Information required could include business name, address, legal structure, identification details of the company representative, bank account details, business identification number or certificate received from the Chamber of Commerce etc. Personalized log in credentials can then be provided for each entity to be able to login to tax administration platform. Depending on specific country context/processes, registration credentials used to log into the platform may be the same credentials provided when the business entity first registered their business via the Chamber of Commerce.
+Registration is the process of collecting information of all eligible tax paying busineses that have formally registered their business entity in a country. Registration on the tax administration platform can take place via computer, mobile device etc. Information required could include business name, address, legal structure, identification details of the company representative, bank account details, business identification number or certificate received from the Chamber of Commerce etc. Personalized log in credentials can then be provided for each entity to be able to login to tax administration platform. Depending on specific country context/processes, registration credentials used to log into the platform may be the same credentials provided when the business entity first registered their business via the Chamber of Commerce. \*\*In certain countries, the Tax Adminstration allocates a registeration number and/or value added tax number (VAT) to each business that registers for the tax scheme.
 
 **Workflows**
 
@@ -66,12 +83,14 @@ Registration is the process of collecting information of all eligible tax paying
 
 #### Building Blocks&#x20;
 
-* [Consent](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
-* [Identity](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)&#x20;
-* [Information Mediator](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
-* [Registration](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/34nLw76x9QyukJXQ4A27)
+* [**Consent**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
+* [**Digital Registries**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/JMaO4Mpz4NPyGolHgYNS)
+* [**E-Signature**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/EiApewuu4GrhgGCBTps0)
+* [**GIS**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
+* [**Identity**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
+* [**Information Mediator**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
 
-### 3 - Data Verification and Validation
+### 4 - Data Verification and Validation
 
 Data verification and validation should be coordinated with all relevant governement authorities and regulatory bodies. For the e-tax system, in certain countries, the registration data that is submitted for tax purposes, is checked against other government databases (eg. chamber of commerce business registry, etc.) in order to fill in any missing gaps, verify and validate collected information, including authentication of all records. \*Data checking approaches also vary: sometimes batch-sharing via _CD, sometimes full interoperability._
 
@@ -82,12 +101,18 @@ Data verification and validation should be coordinated with all relevant governe
 
 #### Building Blocks&#x20;
 
-* [Consent](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
-* [Identity](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)&#x20;
-* [Information Mediator](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
-* [Registration](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/34nLw76x9QyukJXQ4A27)
+* [**Consent**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
+* [**Identity**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)&#x20;
+* [**Information Mediator**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
+* [**Digital Registries**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/JMaO4Mpz4NPyGolHgYNS)
 
-### &#x20;4 - E-file/Tax Submission
+### &#x20;5 - Registration Fee
+
+To complete the registration, a fee can be charged to cover administration cost of registering a company in the Business Tax Register for the first time, a one time non-reccuring fee. This can be done in person at the Tax Adminstration office as part of the final step of registration or online. This fee can directly be paid via debit or credit card.
+
+
+
+### E-file/Tax Submission
 
 Use of standardized electronic form for filing tax returns required or optional; other income data (e.g., payroll and financial) filed electronically and matched annually. Submit accounting or other source data to support filings (e.g., invoices and trial balances) in a defined electronic format to a defined timetable; frequent additions and changes at this level.
 
