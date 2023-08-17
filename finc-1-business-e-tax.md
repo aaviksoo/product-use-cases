@@ -41,7 +41,7 @@ Moreover, digitalizaing the tax collection process is now seen as a way to comba
 
 ### 1 - Coordination&#x20;
 
-Success in digitalizing the tax administration process requires a high level of commitment on the part of policymakers via a communication strategy that focuses on stakeholder management, and a fully articulated implementation plan (road map). In this step, the government body in charge of tax administration (i.e., Tax and Customs Administration) collaborates closely with the Chamber of Commerce and trains/educates tax officials and Chamber of Commerce staff about the new and improved business tax reporting system. \*\*In certain countries, once they formally register their business with the Chamber of Commerce, their information is automatically forwarded to the Tax Administration.
+Success in digitalizing the tax administration process requires a high level of commitment on the part of policymakers via a communication strategy that focuses on stakeholder management, a fully articulated implementation plan (road map) as well as internal changement and buy-in by officials at all levels. In this step, the government body in charge of tax administration (i.e., Tax and Customs Administration) educates all about the core benefits of standardising tax procedures. They also collaborate closely with the Chamber of Commerce and trains/educates tax officials and Chamber of Commerce staff about the new and improved business tax reporting system/processes. \*\*In certain countries, once a business formally registers with the Chamber of Commerce, their information is automatically forwarded to the Tax Administration.&#x20;
 
 **Workflows**
 
@@ -73,12 +73,12 @@ For communication with the target business entity taxpayers - the tax administra
 
 ### 3 - Registration&#x20;
 
-Registration is the process of collecting information of all eligible tax paying busineses that have formally registered their business entity in a country. Registration on the tax administration platform can take place via computer, mobile device etc. Information required could include business name, address, legal structure, identification details of the company representative, bank account details, business identification number or certificate received from the Chamber of Commerce etc. Personalized log in credentials can then be provided for each entity to be able to login to tax administration platform. Depending on specific country context/processes, registration credentials used to log into the platform may be the same credentials provided when the business entity first registered their business via the Chamber of Commerce. \*\*In certain countries, the Tax Adminstration allocates a registeration number and/or value added tax number (VAT) to each business that registers for the tax scheme.
+Registration is the process of collecting information of all eligible tax paying busineses that have formally registered their business entity in a country. Registration on the tax administration platform can take place via computer, mobile device etc. Information required could include business name, contact information (phone, email etc) address, legal structure/type of business,date of establishment, taxpayer segment and corporate relationships., bank account details, business identification number or certificate received from the Chamber of Commerce etc. \*\*In certain countries, the Tax Adminstration allocates a unique taxpayer identification number and/or value added tax number (VAT) to each business, once they have fully completed the registration process. Personalized log in credentials can also be provided for each entity to be able to login to file taxes.
 
 **Workflows**
 
 * **Data Collection and Reporting** for capturing data of business entities.&#x20;
-* **Identification and Registration** for each registered business to have personalized login details to the tax administration platform to submit all required forms and tax related documents.&#x20;
+* **Identification and Registration** for each registered business to be provided with uniqie identification number and/or personalized login details to the tax administration platform in order to submit all required forms and tax related documents.&#x20;
 * **Client Case Management** for creating business entity user records.
 
 #### Building Blocks&#x20;
@@ -108,11 +108,24 @@ Data verification and validation should be coordinated with all relevant governe
 
 ### &#x20;5 - Registration Fee
 
-To complete the registration, a fee can be charged to cover administration cost of registering a company in the Business Tax Register for the first time, a one time non-reccuring fee. This can be done in person at the Tax Adminstration office as part of the final step of registration or online. This fee can directly be paid via debit or credit card.
+To complete the registration, a fee can be charged to cover administration cost of registering a company in the Business Tax Register for the first time, a one time non-reccuring fee. This can be done in person at the Tax Adminstration office as part of the final step of registration or online. This fee can directly be paid via debit or credit card. A confirmation receipt of fee payment can be provided as an outcome, and notification that registration has been completed.
 
+**Workflows**
 
+* **Financial Services** for processing registration fee.
+* **Client Case Management** for identifying, authenticating and monitoring/verifying that the registration fee has been fully processed and received.
 
-### E-file/Tax Submission
+**Building Blocks**
+
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
+
+[**Messaging**](http://127.0.0.1:5000/s/mNnAAqNpNoSI6WELhO9t/1-description)
+
+[**Payments**](https://govstack.gitbook.io/bb-payments/)
+
+[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+
+### 6 - E-file/Tax Submission
 
 Use of standardized electronic form for filing tax returns required or optional; other income data (e.g., payroll and financial) filed electronically and matched annually. Submit accounting or other source data to support filings (e.g., invoices and trial balances) in a defined electronic format to a defined timetable; frequent additions and changes at this level.
 
