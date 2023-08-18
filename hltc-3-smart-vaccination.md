@@ -186,7 +186,23 @@ Some vaccination campaigns may be partially or fully subsidized by the governmen
 
 [**Payments**](https://govstack.gitbook.io/bb-payments/)
 
-### 9 - Ongoing M\&E
+### 9 - Certification
+
+Once vaccination is completed the patient's immunization record can be updated and a digital certificate/vaccine passport issued that indicates the administered dose, date, and other important information.&#x20;
+
+#### Workflows
+
+**Identification and registration** to link patient account with certificate/vaccine passport
+
+#### Building blocks&#x20;
+
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
+
+[**Identity** ](https://govstack.gitbook.io/bb-identity/)
+
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+
+### 10 - Ongoing M\&E
 
 &#x20;Healthcare providers and recipients can use the system to report any adverse events or side effects following vaccination. The system continues to monitor vaccinated individuals for adverse effects and tracks immunization coverage rates. It generates automated reports for health authorities to assess the effectiveness of vaccination campaigns.
 
