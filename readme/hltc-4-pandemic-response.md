@@ -33,7 +33,6 @@ Digitalizing pandemic response can facilitate rapid information sharing of accur
 * [**Identification and Verification**](https://govstack.gitbook.io/bb-identity/)
 * [**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)
 * [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
-* [**Payments**](https://govstack.gitbook.io/bb-payments)
 * [**Registration**](https://govstack.gitbook.io/bb-registration)
 * [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
 * [**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
@@ -47,18 +46,25 @@ Digitalizing pandemic response can facilitate rapid information sharing of accur
 
 ### 1 - Coordination and Operation
 
-The government body in charge of Public Health and emergency operation response efforts, should agree on streamlined decision making and coordination processes pertaining to pandemic preparedness and response. Governments should assess and evaluate gaps in the health system, ensure they have up to date map of regions and districts - for mapping locations of clusters in a country to guide emergency response efforts, and decide where to prioritize monitoring and other systems that are essential during a disease outbreak. As a next step, they can identify the most strategic opportunities to adapt digital tools at different phases of a pandemic to monitor, detect and manage spread of disease as well as screen and track suspected infected persons.&#x20;
+The government body in charge of Public Health and emergency operation response efforts, should agree on streamlined decision making and coordination processes pertaining to pandemic preparedness and response. Governments should assess and evaluate gaps in the health system, ensure they have up to date map of regions and districts - for mapping locations of clusters in a country to guide emergency response efforts, and decide where to prioritize monitoring and other systems that are essential during a disease outbreak. As a next step, they can identify the most strategic opportunities to adapt digital tools at different phases of a pandemic to monitor, detect and manage spread of disease as well as screen and track suspected infected persons. The output can be manuals and/or e-learning courses which give response staff guidance.
 
 Once a disease outbreak has been declared in a country, i.e., the emergency operation centers can then rapidly leverage the digital tools to acquire real time data on situation on the ground, put in place adequate disease control measures and share accurate information/messaging with the population.
 
 **Workflows**&#x20;
 
+* **Content management** for the development of manuals and/or e-learning courses which give response staff guidance.
 * **Data Collection and Reporting** for collecting data on epidemics and pandemics, and to report this data to all relevant stakeholders.&#x20;
 * **Data Analysis and Business Intelligence** for analyzing data to make informed decisions on how to respond to pandemic and aid population. Data from screening tools can also be assessed and used to inform national decisions that may restrict travel from certain countries or regions.
 
 **Building Blocks**
 
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
+
 [**GIS**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
+
+[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+
+[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
 
 ### 2 - Outreach Communications
 
@@ -80,9 +86,9 @@ Communication outreach should be facilitated often to improve public awareness o
 
 [**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)
 
-### 3 - Registration
+### 3 - Enrollment
 
-In this use case, registration is the process of collecting and documenting data of infected and exposed persons during a disease outbreak. Citizens can be provided with means to electronically self-report exposure to the disease. Data can then be collected to facilitate testing, track/map exposure location, designate treatment and to easily be able to follow-up and track infected/exposed persons in the health system. Exposed and infected pesons' can register by contacting their local emergency operation center or via representative frontline health workers that can register affected individuals and schedule testing. \*\*\* These individuals can also opt to receive automated contact notification and follow-ups.
+In this use case, enrollment is the process of collecting and documenting data of infected and exposed persons during a disease outbreak. Citizens can be provided with means to electronically self-report exposure to the disease. Data can then be collected to facilitate testing, track/map exposure location, designate treatment and to easily be able to follow-up and track infected/exposed persons in the health system. Exposed and infected pesons' can register by contacting their local emergency operation center or via representative frontline health workers that can register affected individuals and schedule testing. \*\*\* These individuals can also opt to receive automated contact notification and follow-ups.
 
 **Workflows**
 
@@ -145,9 +151,9 @@ In a pandemic situation, an effective supply chain and logistics management syst
 
 ### 6 - Ongoing Case Management
 
-Depending on the type of pandemic there will be a need to track infected individuals to manage and reduce spread of disease. Ongoing case management entails coordination of patient data throughout a country, allowing health providers to appropriately document health visits, follow-up needs, and treatment protocols.&#x20;
+Depending on the type of pandemic there will be a need to track infected individuals to manage and reduce spread of disease. Ongoing case management entails coordination of patient data throughout a country, allowing health providers to appropriately document health visits, follow-up needs, and treatment protocols. Contact tracing tools can also send alerts to exposed persons.&#x20;
 
-It is also essential to deploy some type of contact tracing tools to track the cases and anyone who has been exposed to the disease by that case. Digital contact tracing tools deployed at this stage can enable authorities to track and slow the spread of the disease by imposing isolation measures on infected and exposed persons and to understand geographically where clusters of cases are located. Contact tracing tools can also send alerts to exposed persons.&#x20;
+It is also essential to deploy some type of contact tracing tools to track the cases and anyone who has been exposed to the disease by that case. Digital contact tracing tools deployed at this stage can enable authorities to track and slow the spread of the disease by imposing isolation measures on infected and exposed persons and to understand geographically where clusters of cases are located. Data aggregation should also be prioritized to help public health professionals analyze, track and visualize the complex data used in infectious disease control.
 
 **Workflows**
 
