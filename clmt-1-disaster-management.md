@@ -1,10 +1,10 @@
-# CLMT-1 - National Disaster Management
+# CLMT-1 - Disaster Management
 
 ## Product Use Case Summary
 
-<table><thead><tr><th width="305.5">ID</th><th>CLMT-1</th></tr></thead><tbody><tr><td>Name</td><td>National Disaster Management</td></tr><tr><td>Sector</td><td>Climate</td></tr><tr><td>Version</td><td>1.0</td></tr><tr><td>Status</td><td>Draft</td></tr></tbody></table>
+<table><thead><tr><th width="305.5">ID</th><th>CLMT-1</th></tr></thead><tbody><tr><td>Name</td><td>Disaster Management</td></tr><tr><td>Sector</td><td>Climate</td></tr><tr><td>Version</td><td>1.0</td></tr><tr><td>Status</td><td>Draft</td></tr></tbody></table>
 
-This use case profiles the implementation process of a national disaster management system. With the increasing frequency and severity of disasters (both natural and human-made hazards), the international community and country-level national disaster management authorities are prioritizing ways to mitigate, prepare for, respond to, and recover from disasters. This process tends to involve a multiplicity of diverse stakeholders (public, private, non-profit organizations) - to respond to disasters and protect people, property, and places.
+This use case profiles the implementation process of a disaster management system. With the increasing frequency and severity of disasters (both natural and human-made hazards), the international community and country-level disaster management authorities are prioritizing ways to mitigate, prepare for, respond to, and recover from disasters. This process tends to involve a multiplicity of diverse stakeholders (public, private, non-profit organizations) - to respond to disasters and protect people, property, and places.
 
 Thus, implementing a harmonized approach to disaster management requires systematic and clear coordination mechanisms on disaster preparedness within government authorities across sectors, at all levels, between levels, as well as with disaster relief organizations. This process entails how to coordinate once a disaster occurs, to setting up a rapid response disaster relief, delivering information on disaster management activities to the public, and implementing rehabilitation and reconstruction support. Certain countries and organizations are increasingly incorporating the use of digital tools in their disaster management systems to enhance their capabilities for preparedness, detection, mitigation, and response to various types of disasters.
 
