@@ -1,174 +1,250 @@
-# AGR-1- Market Linkage
+# HLTC-2 - Telemedicine
 
-### Product Use Case Summary
+## Product Use Case Summary
 
-| ID      | AGR-1          |
-| ------- | -------------- |
-| Name    | Market Linkage |
-| Sector  | Agriculture    |
-| Version | 1.0            |
-| Status  | Draft          |
+| ID      | HLTC-2       |
+| ------- | ------------ |
+| Name    | Telemedicine |
+| Sector  | Health       |
+| Version | 1.0          |
+| Status  | Draft        |
 
-This use case profiles the information service delivery and provision of market linkage in the agriculture sector. In this context, market linkage pertains to connecting rural farmers to market information, products, and related services in order to boost productivity, and improve rural incomes and livelihoods. Due to the constraints of their remote location, farmers in remote areas - especially in developing countries, tend to have unequal market power, and poorer access to agricultural production inputs (seeds, fertilizer, and other goods) and services needed to grow their crops and business.
+Telemedicine (also referred to as telehealth) lets patients visit with a health care provider without an in-person office visit. Instead, patient-provider interaction is conducted over the phone or online through a computer, tablet, or smartphone.
 
-Governments in low- and middle-income countries are increasingly driven to identify sustainable strategies to reduce poverty, stimulate agricultural productivity and increase income of rural famers. One pathway is the implementation of a digital Marketplace platform to: connects buyers and sellers to effectively and efficiently trade goods and services, and support rural farmers with automated notification of harvest schedule, market prices for subscribed products, and weather/natural disaster updates.
+The goal for modern telemedicine is to provide an alternative to in-person visits which helps improve access to health care for distant or rural populations, provides a safe experience without the risk of exposure to communicable diseases, and/or helps patients receive routine, specialty, or emergency care without the need to visit a health center. For s healthcare providers telemedicine can save time in under-resourced areas, can extend the geographical reach of individual practitioners, and can meet gaps in a practitioner’s schedule.
 
-### SDG Targets
+Telemedicine is not a substitute for in-person care, but can extend the reach of traditional health systems and can help meet ambitious national health targets.
 
-* [2.1](https://solutions.dial.community/sdgs/zero\_hunger): By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, including infants, to safe, nutritious and sufficient food all year round.
-* [2.2](https://solutions.dial.community/sdgs/zero\_hunger): By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons
-* [2.3](https://solutions.dial.community/sdgs/zero\_hunger): By 2030, double the agricultural productivity and incomes of small-scale food producers, in particular women, indigenous peoples, family farmers, pastoralists and fishers, including through secure and equal access to land, other productive resources and inputs, knowledge, financial services, markets and opportunities for value addition and non-farm employment.
+Local connectivity levels must be considered when designing a telemedicine project since there may be remote communication disadvantages in rural regions to ensure efficient remote consultations. For instance, if the internet connection is poor, software should be able to switch to audio communication using VoIP (Voice over Internet Protocol) or cellular network. If the audiovisual communication is still poor, healthcare practitioners can consult via text messages.
 
-### Building Blocks
+## Stakeholders
 
-* [Consent](https://govstack.gitbook.io/bb-consent)
-* [Identification and Verification](https://govstack.gitbook.io/bb-identity)
-* [Messaging](https://govstack.gitbook.io/bb-messaging/)
-* [Payments](https://govstack.gitbook.io/bb-payments)
-* [Registration](https://govstack.gitbook.io/bb-registration)
-* [Scheduling](https://govstack.gitbook.io/bb-scheduler/)
-* [Workflow and Algorithm](https://govstack.gitbook.io/bb-workflow)
+* Patients that want to receive accessible health services and care from anywhere, including those in hard-to-reach areas not serviced by hospitals.
+* Healthcare providers (doctors, nurses, etc.) that want to provide care to patients remotely.
+* Ministry of health or central government body in charge of national health outcomes that needs to track aggregate indicators of health care access.
+* Administrators that need to manage payments and/or labs of patients.
 
-Future building block inclusion
+## SDG Targets
 
-* Client Case Management
-* eMarketplace
-* Geographic Information Services (GIS)
-* Mobility Management
+* [3.1](https://exchange.dial.global/sdgs/good\_health\_and\_wellbeing): By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births
+* [3.2](https://exchange.dial.global/sdgs/good\_health\_and\_wellbeing): By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under‑5 mortality to at least as low as 25 per 1,000 live births
+* [3.3](https://exchange.dial.global/sdgs/good\_health\_and\_wellbeing): By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases
+* [3.4](https://exchange.dial.global/sdgs/good\_health\_and\_wellbeing): By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and well-being
+* [3.5](https://exchange.dial.global/sdgs/good\_health\_and\_wellbeing): Strengthen the prevention and treatment of substance abuse, including narcotic drug abuse and harmful use of alcohol
+* [3.7](https://exchange.dial.global/sdgs/good\_health\_and\_wellbeing): By 2030, ensure universal access to sexual and reproductive health-care services, including for family planning, information and education, and the integration of reproductive health into national strategies and programmes
+* [3.8](https://exchange.dial.global/sdgs/good\_health\_and\_wellbeing): Achieve universal health coverage, including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all
 
-### Steps
+## Building Blocks
 
-#### 1 - Outreach Communications
+* [**Consent**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
+* [**Digital Registries**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/JMaO4Mpz4NPyGolHgYNS)
+* [**E-Signature**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/EiApewuu4GrhgGCBTps0)
+* [**GIS**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
+* [**Identity**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
+* [**Information Mediator**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
+* [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+* [**Payments**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/6Cj5POQHYPnh5QnRgPDm)
+* [**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)
+* [**Workflow**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
+* [**UX**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/mZjQFipOkdLHeoXnKg9n)
 
-Staff from the Ministry of Agriculture and/or relevant government run agriculture extension institution, organizes an awareness campaign about a Farmers’ Digital Marketplace platform. A platform that connects the core actors in the agricultural value chains (farmers, input suppliers, processors, wholesalers etc.,) - both buyers and sellers - to be able to digitally buy and sell goods, products or services (e.g. transportation service for goods sale).&#x20;
+Future building block inclusion:
 
-The campaign is spread using digital promotion services, mobile messaging and/or aired on national radio/television to inform the benefits of the Farmers’ Digital Marketplace platform and process to register and creation an account for free of cost. The government extension institution staff will prioritize reach to rural farmers through in-person targeted outreach to rural farms, markets and agribusinesses, to encourage farmers to register on the platform. To address literacy issues and reach more scope, farmers can also learn about the Marketplace by calling a toll-free number to receive more information in their local language and ask any questions they may have.&#x20;
+## Source Documents
+
+* [Framework for the Implementation of a Telemedicine Service](https://iris.paho.org/bitstream/handle/10665.2/28414/9789275119037\_eng.pdf)
+* [Telehealth Technology: Adoption, Architecture, and Applications of Telemedicine](https://www.scnsoft.com/healthcare/telemedicine)
+* [The Rise of Telemedicine](https://www.healthitoutcomes.com/doc/the-rise-of-telemedicine-0001)
+
+## Steps
+
+### 1 - Scoping
+
+In cases where telemedicine is being pursued as a centralized activity to meet national health objectives, the Ministry of Health can work with Mobile Network Operators (MNOs) to map regions and districts which have broadband connectivity. Communications Satellite Networks can also be engaged to provide the required broadband bandwidth for effective delivery of telemedicine services in areas with little or no terrestrial mobile networks. In some cases, agreements between governments and MNOs need to be established in order to enable an accessible system, such as health helplines.
 
 **Workflows**
 
-* **Client communication** to facilitate the spreading of Marketplace awareness to target users and encourage account creation/enrollment via mobile / app/ media channel(s)
-* **Client education** for educating potential target beneficiaries about the digital Marketplace platform's approach, objective(s), benefit(s), constraint(s), guideline on platform app usage etc
-* **Content management** for the government staff working on the Marketplace platform, to develop and manage training content for farmers on how to use the app and access the free market linkage services
-* **Identification and Registration** (with aid of geographic information services tool \*\*\*\* for potential use) in mapping and locating the target users&#x20;
-* **Marketplace** as an application workflow (mobile or web) to connect buyer and sellers together and to enable them to transact digitally supported by various other application for authentication, verification and supplementary service provision (e.g. transportation service for goods sale)
-
-**Example Implementation**
-
-To do
+* **Data Collection and Reporting** to facilitate the mapping and scoping of connected/under connected areas.
 
 **Building Blocks**
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+* [**GIS**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
 
-[**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)
+### Step 2 - Outreach Communications
 
-**Mobility Management**
+Staff from the Ministry of Health, private telehealth companies, or other intermediary organizes outreach communications to physicians, nurses, and other healthcare providers to sign up as a telehealth practitioner. Similarly, staff from the Ministry of Health, CSOs, or other intermediary organizations launch an information campaign to inform about a telehealth program aimed at potential target population/ beneficiary group and implemented via telehealth company. The campaign is conveyed via mobile messaging and/or aired on national radio/television, while a more capillary village to village campaign is performed by district / local social welfare officers. Outreach communication is intensive during the kick-off phase of the new program, but also requires ongoing touch points and additional information sharing.
 
-#### 2 - Registration
+#### Workflows
 
-Registration is the process of collecting information of the intended target group (Marketplace platform users) so they can acquire the services being offered. For this use case, a farmer, agriculture input supplier etc, calls a toll-free number to register in the Farmers’ Digital Marketplace. An interactive voice response system (IVRS) operated possibly by a private company, collects basic information of the caller (eg. citizen ID, age, gender) and authenticates the data identity information provided. Once the caller's identity data has been verified, then the caller receives an SMS confirming their registration with a link to download the digital Marketplace mobile application and a first-time user ID and password to create a profile on the platform.
+* **Client communication** to facilitate the spreading of program awareness for target audience and encouraging enrolment via mobile / media channel(s)
+* **Client education** for educating potential target beneficiaries around the approach and objective(s), benefit(s), constraint(s), partner(s), etc. of the program
+* **Content management** for the backend Social Welfare staff to populate relevant educational and promotional content that local officers can use during on-the-ground outreach campaigns
+* **Identification and Registration** (along with GIS) in mapping and locating households and individuals for outreach target
 
-**Workflows**
+#### Building Blocks
 
-* **Data Collection and Reporting** for capturing responses provided during the registration process
-* **Identification and Registration** allows users to register themselves in the Marketplace in order to access the platform and its services. A built-in GPS in the users' main device i.e. mobile phone, automatically captures the user's location data so as to provide location based services
-* **Client communication** sends users automated notification of harvest schedule, market prices for subscribed products, and weather/natural disaster updates, transaction-based and promotional information from the Marketplace through digital messaging (e.g. SMS, notification, etc.)&#x20;
+* [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+* [**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)
 
-**Example Implementation**
+### Step 3 - Health Provider Registration
 
-To do
+Registration for healthcare workers can occur differently based on whether the telemedicine system is rolled out in a centralized or decentralized manner. In country contexts where a centralized authority (such as the Ministry of Health) is rolling out a telemedicine program (such as a health helpline), healthcare workers can sign up on a central roster.
 
-**Building Blocks**
+In decentralized contexts, healthcare workers an sign up through participating hospitals/health care provider networks or directly through a telehealth company.
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)
+In this step, all healthcare workers will also provide information on qualifications, certifications and licenses.
 
-[**Registration**](https://govstack.gitbook.io/bb-registration/)
+#### Workflows
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+* **Data Collecting and Reporting** to capture provider’s demographic data, information on specialties, and information on qualifications. In return patients can provide demographic, geographic, and health history data.
+* **Identification and Verification** for enrolled identified healthcare providers and patients and enabling permissions.
+* **Client Case Management** for creating patient user records.
 
-#### 3 - Data Verification and Validation
+#### Building Blocks
 
-Data is stored with the private company operating the interactive voice response system (IVRS). This private company has a public private partnership with the Ministry of Agriculture and/or relevant government run agriculture extension institution to collect the relevant data and facilitate the registration and procurement process of the Marketplace platform. The target user's data that is collected, is automatically checked against other government databases (eg. ID, tax, land cadastre, etc.) in order to fill in any missing gaps, verify and validate collected information, including authentication of all records. Users will only receive a user name and password to create their profile on the Marketplace mobile application once the system verifies and authenticates the registration information they are required to provide. \*Data checking approaches also vary: sometimes batch-sharing via CD, sometimes full interoperability
+* [**Consent**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
+* [**Digital Registries**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/JMaO4Mpz4NPyGolHgYNS)
+* [**Identity**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
+* [**Information Mediator**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
+* [**E-Signature**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/EiApewuu4GrhgGCBTps0)
 
-**Workflows**
+### Step 4 - Patient Registration
 
-* **Client Case Management** for storing and reviewing identification records and tracking of market transactions
-* **Data Analysis and Business Intelligence** for cross-referencing and verifying records across multiple registry sources, and reconciling gaps / overlaps
+Registration for patients can vary depending on specific country/district-level contexts. Patients can sign up directly, through their hospital systems, or via representative health workers that can register participating individuals. In the latter case, the healthcare worker can assist individuals to provide demographic, geographic, and health history data into the system.
 
-**Example Implementation**
+#### Workflows
 
-To do
+* **Data Collecting and Reporting** to capture provider’s demographic data, information on specialties, and information on qualifications. In return patients can provide demographic, geographic, and health history data.
+* **Identification and Verification** for enrolled identified healthcare providers and patients and enabling permissions.
+* **Client Case Management** for creating patient user records.
 
-**Building Block Workflows**
+#### Building Blocks
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)
+* [**Consent**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
+* [**Identity**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
+* [**Information Mediator**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
+* [**E-Signature**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/EiApewuu4GrhgGCBTps0)
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+### Step 5 - Data Verification and Validation
 
-**Client Case Management**
+In this step, registration data needs to be verified and validated. Healthcare provider qualifications can be checked via the licensure organization in the country and patient data can be verified with local digital identification or census database.
 
-* Future workflow
+#### Workflows
 
-**Analytics and Business Intelligence**
+* **Client case management** - used for verifying and validating enrollment of patients and healthcare workers.
+* **Data analysis and Business Intelligence / Data Collection and Reporting** - for administrators and national workers to monitor and track use and uptake of the system.
 
-* Future workflow
+#### Building Blocks
 
-#### 4 - Enrollment
+* [**Consent**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
+* [**Identity**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
+* [**Information Mediator**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
 
-Once the user completes the registration information and the data is authenticated, they receive a link to download a digital Marketplace mobile application as well as their own user ID and password to fully enroll on the platform. After the user installs the mobile app on their smartphone, the user is guided to create their own personalized profile in the digital Marketplace with information on the goods or services they can provide/sell. The purpose of the profile is to facilitate business transactions (e.g. whether a user is a farmer or a agribusiness). In the Marketplace application there is information about prevailing market prices of agricutlural products, goods, and services across different markets.
+### Step 6 - System Access
 
-After users complete their profile in the mobile app, they will receive a list of recommendations of products and services that may be of most interest to them based on their profile, location and other factors. Users will also have the ability to use the word and image search function in the Marketplace, to look for a product and see a listing of different sellers who are selling the product, goods etc, in different markets. Sellers and buyers should be able to communicate and message each other on the platform. This Marketplace platform application should be in practice, a tailored software application that supports users management functions (e.g. enrollment, profile creation, search engine, pricing, procurement, payments, messaging etc.).
+Patients, healthcare providers, and administrators need access to telehmedicine system using an application protocol while adhering to stringent privacy protection measures. As the front end to most telemedicine applications, it is critical to maintain available, high-performance web front end systems. When monitoring and troubleshooting issues with telemedicine systems, IT teams need to have visibility across web connections and through firewalls and load balancers.
 
-**Workflows**
+#### Workflows
 
-* **Data Collection and Reporting** for capturing the personalized profile information of all registerd users on the platform
-* **Financial Services** for staging users' account details for payment transfer processing
-* **Identification and Registration** for identifying users and confirming enrollment/completed creation of a profile
-* **Client Case Management** for tracking all business transactions
+* **Client Communication** - to facilitate individual communication between the system and all users (healthcare workers, patients, and administrators)
 
-**Example Implementation**
+#### Building Blocks
 
-To do
+* [**Cloud Infrastructure**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/7JY4z52IqkGnrVeNUnnn)
+* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+* [**UX**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/mZjQFipOkdLHeoXnKg9n)
 
-**Building Blocks**
+### Step 7 - Schedule Appointments
 
-[**Payments**](https://govstack.gitbook.io/bb-payments/)
+Appointments can be triggered by patients (such as for a first-time visit) or by health care providers (such as for a follow-up). In either case, health care providers set a schedule of availability for patients selection. Patients can book appointments with health care providers directly or through intermediaries, based on preferences and condition (such as general, emergency, specialty, or nursing care, etc.). The system can also generate auto-notifications for receiving confirmations and/or reminders, and for approving appointments.
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+#### Workflows
 
-[**Registration**](https://govstack.gitbook.io/bb-registration/)
+* **Client case management** – can be either automated or through an intermediary health care worker on the ground that is responsible for coordinating appointments on a centralized system.
+* **Work Planning and Coordination** – health care providers and administrative staff can coordinate the timing/schedules of multiple patients they may be serving.
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+#### Building Blocks
 
-**Client Case Management**
+* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+* [**Messaging**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/izJ8qoBNDEfETK9xzjLp)
+* [**Scheduler**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/bRT3Mh4gvorgs9yuilzH)
+* [**Workflow**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
 
-#### 5 - Payment
+### Step 8 - Consultation
 
-To facilitate transactions/payments between buyers and sellers, the Farmers' Marketplace platform can have an in-built payment function in the application. Sellers pricing for each products and/or services are listed on the Marketplace. As a payment service option, users can enter their Universal Payment Interface ID (UPI-ID) of their bank account to make or receive payments. For instance, if a buyer is interested in buying a specific product, they can search for the product in the Marketplace and find different sellers who are selling the product in different markets, the pricing they are offering and the quality assurance report on the sellers goods or products. Once the buyer finds a seller that meets their pricing and need, they can directly contact the seller, negotiate pricing and share the product delivery location with the seller. If the seller agrees to deliver the product at the buyer's location and the pricing is agreed by both parties, then the payment process can be facilitated.&#x20;
+Depending on connectivity and device parameters, there are two main ways that a health care practitioner and patient can conduct the consultation. 1) The consultation can be done through a live phone or video chat using a personal device. In some cases, the consultation can be done using a shared device provided by a health care officer or other intermediary. 2) The consultation can also be done by sending and receiving messages using secure messaging, email, and secure file exchange.
 
-The first step of the payment process is that the buyer enters their Universal Payment Interface ID (UPI-ID) of their bank account to make the payment, and once the payment has gone through, the buyer receives a SMS informing them of the transaction with an authentication code, which has to be shared with the delivery person when the product/good is delivered. Another SMS is sent to the seller informing the remittance. The money is deposited in to an Escrow Account managed by a financial service provider, which holds the final remittance to the seller until the physical deliver happens successfully. Once the delivery process has succeeded, the seller then receives the payment.
+As part of the consultation, the healthcare provider can update the patient record, diagnose the patient, recommend a treatment plan, prescribe medications, request lab work, generate a referral with a specialist, and/or recommend a follow-up.
 
-**Workflows**
+#### Workflows
 
-* **Financial Services** to facilitate financial transactions between buyers and sellers in order to conclude the buy-sale process
-* **Client Case Management** for identifying and authenticating individual that is making a withdrawal, or to recall / verify deposit account information prior to payment transaction
-* **Procurement:** buyers and sellers in the Marketplace procure via a Procurement workflow the goods and services from each other by negotiating transactional terms and conditions (e.g. price, delivery time etc.)
-* **Supply-chain Management**: Ensuring the physical delivery of the goods and services being transacted in digital Marketplace and monitoring when the actual supply of goods or service happens physically&#x20;
+* **Client Case Management** - for identifying and recording patient interaction with healthcare workers and for determining follow-ups and storing patient history.
+* **Client Communication** for sharing relevant updates, diagnoses, treatment plans, and follow-up with client.
+* **Data Collection and Reporting** for capturing changes in beneficiary information
+* **Work Planning and Coordination** for referrals to specialists or connections with other hospitals, clinics, or lab and pharmacy services.
 
-**Example Implementation**
+#### Building Blocks
 
-To do
+* [**Consent**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
+* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+* [**Scheduler**](http://127.0.0.1:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description)
 
-**Building Blocks**
+### Step 9 - Payment Management
 
-[**Payments**](https://govstack.gitbook.io/bb-payments/)
+Payments can be collected either pre- or post-consultation. In the context where a digital financial service system is not employed, each beneficiary would be requested to pay via mobile money or to travel to the nearest designated pay-point and pay the fees by program-specific authentication. Money is transferred to the selected payment mechanism and is subsequently verified against the provider.
 
-**Client Case Management**
+#### Workflows
 
+* **Financial Services** - for processing consultation fees and other fees related to tests, labs, and prescriptions.
+* **Client Case Management** - for identifying and authenticating individual that is making a payment
 
+#### Building Blocks
 
-####
+* [**Identity**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
+* [**Information Mediator**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
+* [**Payments**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/6Cj5POQHYPnh5QnRgPDm)
 
-####
+### Step 10 - Ongoing Case Management
 
-###
+Depending on the program and on the country’s broader health policies, this step involves ongoing interaction with beneficiaries via healthcare officers to help:
+
+* Provide ongoing care and management – In some cases, this can also be done through remote sensors that can send information to healthcare providers on the patient’s health status
+* Ensure information on patients and health care providers stays up to date
+* Address complaints, grievances, and appeals
+
+#### Workflows
+
+* **Data Collection and Reporting** - for capturing changes in patient or health care provider information
+* **Client Case Management** - for identifying and recording patient interaction with health care providers/worker and capturing reported cases on grievances.
+* **Work Planning and Coordination** - to potentially suggest and connect with departments / agencies offering other social benefits and services to eligible patients
+
+#### Building Blocks
+
+* [**Consent**](https://govstack.gitbook.io/bb-consent/)
+* [**Identity**](https://govstack.gitbook.io/bb-identity/)
+* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+* [**Messaging**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/izJ8qoBNDEfETK9xzjLp)
+* [**Workflow**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
+
+### Step 11 - Ongoing Monitoring and Evaluation
+
+Administrators of the telehealth company and/or Ministry of Health analysts conduct ongoing M\&E of the programs to understand uptake and benefit of telemedicine services. In addition, they can use analysis to make decisions and management choices, such as general health outcomes of enrolled areas/patients vs. non-enrolled areas/patients, where to conduct trainings, where to prioritize budget, etc.
+
+#### Workflows
+
+* **Client Case Management** - for ongoing monitoring and tracking of patients and health care workers usage and experience
+* **Data Analysis and Business Intelligence/ Decision Support / Data Collection and Reporting** - to analyize, update, and report program output/performance information
+
+#### Building Blocks
+
+* [**Consent**](https://govstack.gitbook.io/bb-consent/)
+* [**Identity**](https://govstack.gitbook.io/bb-identity/)
+* [**GIS**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
+* [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+* [**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+
+## Contributors
+
+* Dr. Sanjay Sood, eSanjeevani, spsood@cpac.int&#x20;
+* Jai Ganesh Udayasankaran, AeHIN, au.jaiganesh@gmail.com
+* Sarah Farooqi, DIAL, sfarooqi@dial.global

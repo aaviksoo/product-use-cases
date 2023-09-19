@@ -1,7 +1,6 @@
 # Table of contents
 
-* [AGR-1- Market Linkage](README.md)
-* [HLTC-2 - Telemedicine](hltc-2-telemedicine.md)
+* [HLTC-2 - Telemedicine](README.md)
 * [INST-2 - Anticipatory Cash Transfers](inst-2-anticipatory-cash-transfers.md)
 * [HLTC-3 - Smart Vaccination](hltc-3-smart-vaccination.md)
 * [EDU-1 - Remote Learning](edu-1-remote-learning.md)
