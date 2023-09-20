@@ -166,7 +166,7 @@ The tax platform used can automate the tax calculation process by taking into ac
 
 ### _8 - Tax Payer Account_
 
-This step is where the tax paying business entity can reconcile tax liability with payments via a method to keep track of all filed tax returns and turnover payments completed. This step is also where outstanding tax liability/owed taxes not paid or underpaid can be tracked and used to calculate the interest of delayed or underpaid tax payments. Depending on a country's tax debt management and enforcement system, this step can faciliate payments enforcement
+This step is where the tax paying business entity can keep track of all filed tax returns and turnover payments done. This step is also where outstanding tax liability/owed taxes not paid or underpaid can be tracked and used to calculate the interest of delayed or underpaid tax payments. Depending on a country's tax debt management and enforcement system, this step can faciliate payments enforcement.
 
 **Workflows**
 
