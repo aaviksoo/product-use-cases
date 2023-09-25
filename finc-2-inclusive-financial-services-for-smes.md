@@ -1,21 +1,17 @@
-# FINC- 2 - Inclusive Financial Services for SMEs
+# FINC-2 - Inclusive Financial Services for SMEs
 
 ## Product Use Case Summary
 
 <table><thead><tr><th width="305.5">ID</th><th>FINC-2</th></tr></thead><tbody><tr><td>Name</td><td>Inclusive Financial Services for SMEs</td></tr><tr><td>Sector</td><td>Finance</td></tr><tr><td>Version</td><td>2.0</td></tr><tr><td>Status</td><td>Draft</td></tr></tbody></table>
 
-This use case profiles the use of digital technologies to offer affordable and convenient access to financing for those traditionally financially excluded. More countries are prioritizing ways to support financially underserved individuals and businesses. Globally, small and medium-sized enterprises (SMEs) have long faced difficulty raising finance in conventional financial markets and through traditional financial intermediaries.
-
-More countries are prioritizing this use case due to the belief that the diffusion of ICT (information and communication technologies) could significantly improve the operating efficiency of financial institutions through reducing processing costs and information costs.
+Small and medium enterprises (SMEs) represent the economic backbone of most developed and emerging countries. This use case profiles how digital financial services can help close the financing gap for SMEs, by providing access to alternative sources of funding and improving access to traditional players by enabling new digital products and process automation. Digitization and automation make the financing process more efficient, thereby lowering costs. The use of alternative data sources and big-data analytics provide additional information sources to the credit risk-assessment process, allowing SMEs that were once unable to obtain finances to gain access.
 
 ## Stakeholders
 
 * Ministry responsible for Finance and SMEs
 * Banks, investors and financial intermediaries
 * Chamber of Commerce facilitating all business registration and/or certification in a country
-* Revenue Authority and/or taxation authorities/ agency in charge of the collection and receipt of all business-related tax revenue in a country.&#x20;
-* Corporate/business entities in the country - public and private companies
-* Tax agents, auditors, and compliance officers reviewing submitted tax related files
+* Small and medium enterprises (SMEs) and startups
 
 ## SDG Targets
 
@@ -41,6 +37,8 @@ More countries are prioritizing this use case due to the belief that the diffusi
 ## Steps
 
 ### 1 - Coordination&#x20;
+
+The Ministry of Finance, the national SME agency and/or Central Bank leads the efforts on tools to strengthen SME access to traditional bank financing.
 
 Success in digitalizing the tax administration process requires a high level of commitment and buy-in from all levels of government authorities involved – from policy makers to tax officers and auditors. Thus, developing a fully articulated implementation plan (road map) with a communication strategy that prioritizes internal change management of all staff is key. In this step, the government body in charge of tax administration (i.e., Tax and Customs Administration, Revenue Authority) trains all staff about the core benefits of standardizing/automating the business tax filing and payment process via a digital platform. Close collaboration with the Chamber of Commerce and their staff may be required. In certain countries, once a business formally registers with the Chamber of Commerce, their information is automatically forwarded to the Tax Administration Authority.
 
