@@ -165,7 +165,7 @@ In certain countries, banks have an obligation to provide SMEs with a standardis
 
 ### 8 - Ongoing M\&E&#x20;
 
-The primary agent should conduct M\&E exercises to acquire feedback from all relevant stakeholders on ways to improve the platform and ensure tax submissions are as streamlined, effective and efficient as possible.&#x20;
+The primary agent should conduct M\&E exercises to acquire feedback from all relevant stakeholders on ways to improve SME funding schemes. Figure out best ways to ensure reach that is effective and efficient.&#x20;
 
 **Workflows**
 
