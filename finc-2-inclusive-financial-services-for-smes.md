@@ -4,13 +4,16 @@
 
 <table><thead><tr><th width="305.5">ID</th><th>FINC-2</th></tr></thead><tbody><tr><td>Name</td><td>Inclusive Financial Services for SMEs</td></tr><tr><td>Sector</td><td>Finance</td></tr><tr><td>Version</td><td>2.0</td></tr><tr><td>Status</td><td>Draft</td></tr></tbody></table>
 
-Small and medium enterprises (SMEs) represent the economic backbone of most developed and emerging countries. This use case profiles how digital financial services can help close the financing gap for SMEs, by providing access to alternative sources of funding and improving access to traditional players by enabling new digital products and process automation. Digitization and automation make the financing process more efficient, thereby lowering costs. The use of alternative data sources and big-data analytics provide additional information sources to the credit risk-assessment process, allowing SMEs that were once unable to obtain finances to gain access.
+Small and medium enterprises (SMEs) represent the economic backbone of most developed and emerging countries. Yet they face a number of hurdles in acquiring loans/credits and financing from traditional financial institutions. Thus, access to finance is a critical barrier for SMEs to start, sustain and grow their businesses. Information asymmetry due to the lack of available financial and credit data is also a major obstacle for SME to access financing. Many SMEs do not have reliable financial statements and/or are unregistered and have no official documentation when compared to large enterprises, making it difficult for financiers to appropriately evaluate and monitor credit risk.
+
+This use case profiles how digital technologies can help address the barriers to financing for SMEs, and address information asymmetry issues lenders face. Digitization in this use case can range from the use of alternative data sources and big-data analytics to facilitate credit risk-assessment process for SMEs. To the use of fintech solutions SMEs to obtain financing i.e., digital credit and equity products such as loans, supply chain finance, secured revolving lines of credit, merchant receivables finance, marketplace lending, as well as equity crowdfunding.&#x20;
 
 ## Stakeholders
 
 * Ministry responsible for Finance and SMEs
-* Banks, investors and financial intermediaries
-* Chamber of Commerce facilitating all business registration and/or certification in a country
+* Cental/public Banks and financial intermediaries
+* Investors, private equity, venture capital or angel capital business associations
+* Chamber of Commerce and/or institution in charge of business or credit registries
 * Small and medium enterprises (SMEs) and startups
 
 ## SDG Targets
@@ -32,15 +35,17 @@ Small and medium enterprises (SMEs) represent the economic backbone of most deve
 
 ## Source Documents
 
-* [OECD - Supporting the Digitalization of Developing Country Tax Administrations](https://www.oecd.org/tax/forum-on-tax-administration/publications-and-products/supporting-the-digitalisation-of-developing-country-tax-administrations.htm)
+*
 
 ## Steps
 
 ### 1 - Coordination&#x20;
 
-The Ministry of Finance, the national SME agency and/or Central Bank leads the efforts on tools to strengthen SME access to traditional bank financing.
+The Ministry of Finance, the national SME agency, the Central Bank/public financial institution coordinate on targeted efforts to strengthen SME access to traditional or mainstream financial services and products. These public authorities can liase with prvate sector players - banks etc, private equity, venture capital or angel capital business associations.&#x20;
 
-Success in digitalizing the tax administration process requires a high level of commitment and buy-in from all levels of government authorities involved – from policy makers to tax officers and auditors. Thus, developing a fully articulated implementation plan (road map) with a communication strategy that prioritizes internal change management of all staff is key. In this step, the government body in charge of tax administration (i.e., Tax and Customs Administration, Revenue Authority) trains all staff about the core benefits of standardizing/automating the business tax filing and payment process via a digital platform. Close collaboration with the Chamber of Commerce and their staff may be required. In certain countries, once a business formally registers with the Chamber of Commerce, their information is automatically forwarded to the Tax Administration Authority.
+Guarantees to SME loans appear to be the most widespread instrument, with guarantee funds mentioned by almost all countries, and as the main pillar of support for SME lending
+
+raising SME awareness of programmes for which they may be eligible, and do so through dedicated websites or awareness campaigns.
 
 **Workflows**
 
@@ -54,6 +59,8 @@ Success in digitalizing the tax administration process requires a high level of 
 * [**Workflow** ](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
 
 ### 2 - Outreach Communications
+
+Encouraging SMEs - the digitization of internal business processes and business-to-business (B2B) processes such as electronic invoicing (e-invoicing), and tokenized assets using blockchain/distributed ledger technology (DLT), can also help address the major barriers to SME access to finance.
 
 For communication with the target business entity taxpayers - the tax administration implements a robust awareness raising campaign via telephone, email (i.e., Chambers of Commerce registered business entities contact database), SMS, newspapers, and social media. The purpose is to inform this target group about the new and mandatory digitized tax reporting process with clear guidelines and initial support on how to file taxes electronically using the platform in place. All information on the tax reporting platform should already be easily accessible and disseminated on all government run websites including in the Chambers of Commerce website, - timeframe to register, tax submission steps and requirements, deadlines, pre-filled standard form to declare revenue, expenses etc. Certain countries have a grace period of 1-3 years by which all businesses are required to transition to electronic invoicing (instead of cash-based transactions) to streamline and automate tax filing and reporting process.
 
@@ -109,7 +116,9 @@ Data verification and validation should be coordinated with all relevant governm
 
 ### &#x20;5 - Registration Fee
 
-To complete the registration, a fee can be charged to cover administration cost of registering a company in the Business Tax Register for the first time. This can be a one-time non-reoccurring fee. The payment can be done online or in person at the Tax Administration office as part of the final step of registration - this will depend on the country's tax regulations. This fee can directly be paid via debit or with credit card. Once the registration information and payment have been processed, a payment confirmation receipt and notification can be sent to the user information registration completion and approval.
+make the credit approval process more transparent to SMEs. In one country, banks have an obligation to provide SMEs with a standardised credit report and with their credit rating, based on a common methodology. Another country has put in place a credit review office, providing a credit appeals process for SMEs. The credit review office is meant to help SMEs who have had an application for credit of up to three million euros declined or reduced by participating banks, but feel that they have a viable business proposition. It also looks at cases where borrowers feel that the terms and conditions of their existing loan, or a new loan offer, are unfairly onerous or have been unreasonably changed to their detriment
+
+
 
 **Workflows**
 
