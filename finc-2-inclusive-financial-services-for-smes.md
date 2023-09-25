@@ -41,17 +41,13 @@ This use case profiles how digital technologies can help address the barriers to
 
 ### 1 - Coordination&#x20;
 
-The Ministry of Finance, the national SME agency, the Central Bank/public financial institution coordinate on targeted efforts to strengthen SME access to traditional or mainstream financial services and products. These public authorities can liase with prvate sector players - banks etc, private equity, venture capital or angel capital business associations.&#x20;
-
-Guarantees to SME loans appear to be the most widespread instrument, with guarantee funds mentioned by almost all countries, and as the main pillar of support for SME lending
-
-raising SME awareness of programmes for which they may be eligible, and do so through dedicated websites or awareness campaigns.
+The Ministry of Finance, the national SME agency, the Central Bank/public financial institution coordinate on targeted efforts to strengthen SME access to traditional or mainstream financial services and products. These public authorities can liase with private sector players - banks etc, private equity, venture capital or angel capital business associations, on best approach - methods and tools to faciliate SME financing. A number of countries have implemented SME credit guarantee schemes, where a government body/ministry  stands as gurantor for eligible SMEs applying for loans. This credit scheme increases the SME’s collateral and thus their financing options.
 
 **Workflows**
 
-* **Coordination** to have an agreed form of coordination, communication and collaboration between the Chambers of Commerce and Tax Administration - facilitating information sharing on businesses operating in the country.
-* **Education** for educating and training all relevant government staff on new process and platform/solution being utilized. Emphasis on objective, process, guidelines, and benefits - time saving and easy usability.
-* **Content management** for the staff to acquire technical and nontechnical guidelines on how to use platform.
+* **Coordination** to have an agreed form of coordination, communication and collaboration between public and commercial financial institutions.
+* **Education** for educating and training all relevant staff on use of digital solutions and any guarantee scheme programs to faciliate credit lending to SMEs.
+* **Content management** for content development of technical and nontechnical guidelines.
 
 **Building Blocks**
 
@@ -60,15 +56,15 @@ raising SME awareness of programmes for which they may be eligible, and do so th
 
 ### 2 - Outreach Communications
 
-Encouraging SMEs - the digitization of internal business processes and business-to-business (B2B) processes such as electronic invoicing (e-invoicing), and tokenized assets using blockchain/distributed ledger technology (DLT), can also help address the major barriers to SME access to finance.
+This step entails raising SME awareness of programmes and funding schemes for which they may be eligible and do so through dedicated websites or awareness campaigns. Using both targeted and widespread awareness campaigns to launch a proactive information dissemination through SMS, email, and social media.&#x20;
 
-For communication with the target business entity taxpayers - the tax administration implements a robust awareness raising campaign via telephone, email (i.e., Chambers of Commerce registered business entities contact database), SMS, newspapers, and social media. The purpose is to inform this target group about the new and mandatory digitized tax reporting process with clear guidelines and initial support on how to file taxes electronically using the platform in place. All information on the tax reporting platform should already be easily accessible and disseminated on all government run websites including in the Chambers of Commerce website, - timeframe to register, tax submission steps and requirements, deadlines, pre-filled standard form to declare revenue, expenses etc. Certain countries have a grace period of 1-3 years by which all businesses are required to transition to electronic invoicing (instead of cash-based transactions) to streamline and automate tax filing and reporting process.
+Targated outreach can also be done via exisiting data base and registries of operating SMEs in the country. These SMEs can also be encouraged to make sure they are digitizing their internal business processes and business-to-business (B2B) processes via electronic invoicing (e-invoicing), and tokenized assets using blockchain/distributed ledger technology (DLT).
 
 &#x20;**Workflows**
 
-* **Client communication** to facilitate awareness of the tax platform for target audience and mandatory registration and enrollment process.&#x20;
+* **Client communication** to facilitate clear information and communication on processes to apply for credit and loans targeting SMEs.&#x20;
 * **Client education** for educating target users/audience on the objective(s), benefit(s), process, guideline etc.
-* **Content management** for the staff  to generate relevant educational and promotional content.
+* **Content management** to disseminate relevant educational and promotional content that local loan officers can use at banks, financing institutions etc. &#x20;
 
 **Building Blocks**
 
@@ -79,12 +75,12 @@ For communication with the target business entity taxpayers - the tax administra
 
 ### 3 - Registration&#x20;
 
-Registration is the process of collecting information of all eligible tax paying businesses that have formally registered their business entity in a country. Registration on the tax administration platform can take place via computer, mobile device etc. Information required could include business name, contact information (phone, email etc.) address, legal structure/type of business, date of establishment, taxpayer segment and corporate relationships., bank account details, business identification number or certificate received from the Chamber of Commerce etc. In certain countries, the Tax Administration allocates a unique taxpayer identification number and/or value added tax number (VAT) to each business, once they have fully completed the registration process. Personalized log in credentials can also be provided for each entity to be able to login to file taxes.
+Registration is the process of collecting information on potential SMEs seeking to apply for financing and go through a credit approval process. This is in order to gather all the necessary information needed for assessment of their needs and conditions. Depending on specific country context, registration may occur by leveraging an existing business registry database or through on-demand registration, which would require the lending financial institution to collect registration data of SMEs.  During this process, the business entity's information is collected ( type of enterprise, business model, financial documents, collateral etc.) as a prerequisite in assessing their eligibility for a particular loan/ financing scheme. &#x20;
 
 **Workflows**
 
-* **Data Collection and Reporting** for capturing data of business entities.&#x20;
-* **Identification and Registration** for each registered business to be provided with unique identification number and/or personalized login details to the tax administration platform in order to submit all required forms and tax related documents.&#x20;
+* **Data Collection and Reporting** for capturing data of SME business entities.&#x20;
+* **Identification and Registration** to be able to identify the SMEs.&#x20;
 * **Client Case Management** for creating business entity user records.
 
 #### Building Blocks&#x20;
@@ -98,11 +94,11 @@ Registration is the process of collecting information of all eligible tax paying
 
 ### 4 - Data Verification and Validation
 
-Data verification and validation should be coordinated with all relevant government authorities and regulatory bodies. For the e-tax system, in certain countries, the registration data that is submitted for tax purposes, is checked against other government databases (e.g. chamber of commerce business registry, etc.) to fill in any missing gaps, verify and validate collected information, including authentication of all records.&#x20;
+Data verification and validation should be coordinated with all relevant authorities and regulatory bodies. The registration data that is submitted can be checked against other credit institutions and government databases (e.g. chamber of commerce business registry, etc.) to fill in any missing gaps, verify and validate collected information, including authentication of all records.&#x20;
 
 **Workflows**
 
-* **Client Case Management** for storing and reviewing identification, registration, and business registration records for tax purposes.
+* **Client Case Management** for storing and reviewing identification, registration, and SMEs credit scores and financial information.&#x20;
 * **Data Analysis and Business Intelligence** for cross-referencing and verifying records across multiple registry sources, and reconciling gaps / overlaps.
 
 #### Building Blocks&#x20;
@@ -114,16 +110,17 @@ Data verification and validation should be coordinated with all relevant governm
 * [**Information Mediator**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
 * [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
 
-### &#x20;5 - Registration Fee
+### &#x20;5 - Eligibility Determination&#x20;
 
-make the credit approval process more transparent to SMEs. In one country, banks have an obligation to provide SMEs with a standardised credit report and with their credit rating, based on a common methodology. Another country has put in place a credit review office, providing a credit appeals process for SMEs. The credit review office is meant to help SMEs who have had an application for credit of up to three million euros declined or reduced by participating banks, but feel that they have a viable business proposition. It also looks at cases where borrowers feel that the terms and conditions of their existing loan, or a new loan offer, are unfairly onerous or have been unreasonably changed to their detriment
+To be eligible for the SME credit guarantee scheme or any public funding scheme, SMEs generally have to fulfil various conditions. Eligibility conditions are very clear and information on criteria easily accessible. These conditions could include requirements on where the business is established, number of employees, years the business has been in operation, annual revenue and balance sheet thresholds, etc. Moreover a list of the banks and other possible funders that are covered by the government’s credit guarantee funding scheme are readily make available on a website, and disseminated on television and social media platforms.&#x20;
 
-
+A special web portal can be made available for SMEs as well as funders with all relevant information.
 
 **Workflows**
 
-* **Client Case Management** for identifying, authenticating and monitoring/verifying that the registration information and fee have been fully processed and received.
-* **Financial Services** for processing registration fee.
+* **Content management** to disseminate information of eligibility criteria. &#x20;
+* **Identification and Registration** for identifying eligible beneficiaries
+* **Client Case Management** for storing specific data for tracking.
 
 **Building Blocks**
 
@@ -131,11 +128,10 @@ make the credit approval process more transparent to SMEs. In one country, banks
 * [**Identity**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)&#x20;
 * [**Information Mediator**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
 * [**Messaging**](http://127.0.0.1:5000/s/mNnAAqNpNoSI6WELhO9t/1-description)
-* [**Payments**](https://govstack.gitbook.io/bb-payments/)
 
-### 6 - Tax Submission
+### 6 - Application
 
-To file and submit all requirements for tax submission purposes, users (business owners) can log in to the designated platform. They can then complete standardized electronic form(s) and submit other income data (e.g., payroll and financial). They can also submit accounting or other source data to support filings (e.g., invoices and trial balances) in a defined electronic format. In certain countries, there is an annual deadline of when to file taxes whereby all taxable income will be calculated according to the tax year. All income received or accrued during a single year would need to be submitted in the filling process, along with expenses paid or accrued.
+SMEs do not apply for the SME Credit Guarantee themselves. They simply apply for a loan from one of the participating banks or other funders collaborating on this scheme. which in turn submits an application for the SME credit guarantee from the national body acting as gurantor.
 
 &#x20;**Workflows**
 
@@ -150,54 +146,13 @@ To file and submit all requirements for tax submission purposes, users (business
 * [**Messaging**](http://127.0.0.1:5000/s/mNnAAqNpNoSI6WELhO9t/1-description)
 * [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
 
-### 7 - Tax Payment&#x20;
+### 7 - Credit Case Management
 
-The amount of taxes a business pays can depend on the type of business, the nature of the business activity, and the volume of transactions carried out within the tax assessment period. In some countries, businesses must adhere to several domestic and business taxes including corporate income tax, value-added taxes, withholding taxes, and capital gains taxes. Thus, business taxes are calculated per the specific norms of a country.&#x20;
-
-The tax platform used can automate the tax calculation process by taking into account the tax regime and rate in the country, and the business's profit, revenue, expenses, and other relevant tax filing information submitted. The business is then allocated a timeframe in which to make this tax payment. The tax payment can be paid in one lump sum or installments.&#x20;
-
-&#x20;**Workflows**
-
-* **Client Case Management** to track, manage and calculate tax payment per business. Also, to respond to any inquiries or support needs.
-* **Data Analysis and Business Intelligence** to analyze all submitted data and ensure tax payment requirements are met.
-* **Financial Services** for processing tax payments.
-
-**Building Blocks**
-
-* [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
-* [**Identity**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
-* [**Information mediator**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
-* [**Messaging**](http://127.0.0.1:5000/s/mNnAAqNpNoSI6WELhO9t/1-description)
-* [**Payments**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/6Cj5POQHYPnh5QnRgPDm)
-* [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
-
-### 8 - Audit&#x20;
-
-Tax audit is the processing of reviewing/examining a business' accounts and financial information to ensure all information is reported correctly according to the tax laws and to verify the reported amount of tax is correct. This can be done via random selection and computer screening, where submitted tax returns are selected based solely on a statistical formula. Selection can also be made when it involves issues or transactions with other taxpayers, such as business partners or investors, whose returns were selected for audit.&#x20;
-
-An experienced auditor will then manually review the submitted tax information. If the auditor notes something questionable, they will identify the items noted and forward the return for assignment to an examination group. Should a business be selected for audit, they will be notified via mail and/or on the tax platform. Following completion of the audit, the business entity should be notified of the outcome - whether changes are required and/or if additional money is owed.
-
-**Workflows**
-
-* **Client Case Management** for communicating with businesses selected for audit: providing them with updates, requesting additional information and/or meetings. Also responding to inquiries, capturing reported cases on grievances / appeals etc., and for determining risks / conditionality by reviewing individual audit cases in-depth.
-* **Data Analysis and Business Intelligence** to analyze and review all cases selected for audit.
-
-**Building Blocks**
-
-* [**Consent**](https://govstack.gitbook.io/bb-consent/)
-* [**Identity** ](https://govstack.gitbook.io/bb-identity/)
-* [**Messaging**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/izJ8qoBNDEfETK9xzjLp)
-* [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
-* [**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
-
-### 9 - Ongoing Case Management
-
-This step involves ensuring information of businesses are kept up to date - specifically relating to timely tax payments. Also ensuring that there is a process in place to address any complaints, grievances and appeals raised. This process should be led by the Tax Administration's compliance officers/team.
+In certain countries, banks have an obligation to provide SMEs with a standardised credit report and with their credit rating, based on a common methodology. Some countries have put in place credit review offices, providing a credit appeals process for SMEs. The credit review office is meant to help SMEs who have had an application for credit of up to a certain amount, declined or reduced by participating banks, but feel that they have a viable business proposition. It also looks at cases where borrowers feel that the terms and conditions of their existing loan, or a new loan offer, are unfairly onerous or have been unreasonably changed to their detriment.
 
 **Workflows**
 
 * **Client Case Management** for identifying and recording business entity interactions with local officers and capturing reported cases on grievances / appeals etc., and for determining risks / conditionality by reviewing individual client case.
-* **Data Collection and Reporting** for capturing changes in business entity information.
 * **Work Planning and Coordination** to potentially suggest and connect with Chambers of Commerce in data validation/vetting.
 
 **Building Blocks**
@@ -208,7 +163,7 @@ This step involves ensuring information of businesses are kept up to date - spec
 * [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
 * [**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
 
-### 10 - Ongoing M\&E&#x20;
+### 8 - Ongoing M\&E&#x20;
 
 The primary agent should conduct M\&E exercises to acquire feedback from all relevant stakeholders on ways to improve the platform and ensure tax submissions are as streamlined, effective and efficient as possible.&#x20;
 
