@@ -18,7 +18,8 @@ This use case profiles how digital technologies can help address the barriers to
 
 ## SDG Targets
 
-* [17.1](https://exchange.dial.global/sdgs/partnerships\_for\_the\_goals): Strengthen domestic resource mobilization, including through international support to developing countries, to improve domestic capacity for tax and other revenue collection.
+* [8.3](https://exchange.dial.global/sdgs/decent\_work\_and\_economic\_growth): Promote development-oriented policies that support productive activities, decent job creation, entrepreneurship, creativity and innovation, and encourage the formalization and growth of micro-, small- and medium-sized enterprises, including through access to financial services.
+* [8.10](https://exchange.dial.global/sdgs/decent\_work\_and\_economic\_growth): Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance and financial services for all
 
 ## Building Blocks
 
