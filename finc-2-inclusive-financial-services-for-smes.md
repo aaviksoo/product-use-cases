@@ -36,7 +36,8 @@ This use case profiles how  streamlined loan programs targeting SMEs and digital
 
 ## Source Documents
 
-*
+* [World Bank - Fintech and SME Finance: Expanding Responsible Access](https://openknowledge.worldbank.org/server/api/core/bitstreams/d157af2e-ad06-558f-8e1b-5bf52841d34a/content)
+* [Digitalization, financial inclusion, and small and medium-sized enterprise financing](https://www.sciencedirect.com/science/article/abs/pii/S0264999323002225)
 
 ## Steps
 
@@ -44,7 +45,7 @@ This use case profiles how  streamlined loan programs targeting SMEs and digital
 
 The Ministry of Finance and/or the Central Bank/public financial institution coordinate on targeted efforts to strengthen SMEs access to traditional or mainstream financial services and products. These public authorities can liaise with private sector players - commercial banks etc., private equity, venture capital or angel capital business associations, on best approach - methods and tools to facilitate SME financing.&#x20;
 
-Certain countries have implemented SME credit guarantee schemes, where a government body/ministry stands as guarantor for eligible SMEs applying for loans. This credit scheme increases the SME’s collateral and thus their financing options. Another example is lending to SMEs through a factoring platform. Factoring is a financing product that allows a financial institution to provide financing to an SME supplier through the purchase of its accounts receivable or invoices (“receivables”). In factoring transactions, the SME supplier is the client of the financial institution.
+Certain countries have implemented SME credit guarantee schemes, where a government body/ministry stands as guarantor for eligible SMEs applying for loans. As banks will be more willing to provide a loan to SMEs if that loan is partially guaranteed by the government. This credit scheme increases the SME’s collateral and thus their financing options. Another example is lending to SMEs through a factoring platform. Factoring is a financing product that allows a financial institution to provide financing to an SME supplier through the purchase of its accounts receivable or invoices (“receivables”). In factoring transactions, the SME supplier is the client of the financial institution.
 
 **Workflows**
 
