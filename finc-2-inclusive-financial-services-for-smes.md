@@ -115,15 +115,17 @@ Data verification and validation should be coordinated with all relevant authori
 
 ### &#x20;5 - Eligibility Determination&#x20;
 
-To be eligible for the SME credit guarantee scheme or any public funding scheme, SMEs generally have to fulfil various conditions. Eligibility conditions are very clear and information on criteria is made easily accessible. These conditions could include requirements on where the business is established, number of employees, years the business has been in operation, annual revenue and balance sheets, revenue thresholds, etc.&#x20;
+To be eligible for the SME credit guarantee scheme or any public funding scheme, SMEs have to fulfil specific conditions. Eligibility conditions must be very clear and accessible. Certain countries even include questionnaires that interested parties refer to/ have to complete in order to find out if they are eligible for a loan credit support scheme. These conditions could include requirements on where the business is established, number of employees, years the business has been in operation, annual revenue and balance sheets, revenue thresholds, etc.&#x20;
 
-For example in the case of a government credit guarantee funding scheme, a list of the banks and other possible funders that are participating in this funding scheme with the governement body, are readily make available on a website, and disseminated on television and social media platforms. A special web portal can be made available for SMEs as well as funders with all relevant information.
+&#x20;
+
+For example, in the case of a government credit guarantee funding scheme - where a government body acts as guarantor for eligible SMEs, a list of the banks and funders that have agreed to this funding scheme with the government body, is available on websites and relevant social media platforms. A special dedicated web portal can be made available for SMEs with all relevant information on the eligibility conditions and application processes for each participating funder.
 
 **Workflows**
 
-* **Content management** to disseminate information of eligibility criteria. &#x20;
-* **Identification and Registration** for identifying eligible beneficiaries
-* **Client Case Management** for storing specific data for tracking.
+* **Content management** to disseminate information of eligibility criteria.
+* **Identification and Registration** to identify eligible SMEs that meet the criteria.
+* **Client Case Management** for storing specific data and tracking SMEs interested in applying for loans as well as those eligible.
 
 **Building Blocks**
 
@@ -134,12 +136,14 @@ For example in the case of a government credit guarantee funding scheme, a list 
 
 ### 6 - Application
 
-SMEs do not apply for the SME Credit Guarantee themselves. They simply apply for a loan from one of the participating banks or other funders collaborating on this scheme. which in turn submits an application for the SME credit guarantee from the national body acting as gurantor.
+This step entails the application process for SMES to apply for a loan. SMEs can be required to complete a form online and submit all required documents pertaining to the financial situation of their business (turnover, assets, business activity, collateral information, credit information, outstanding loans etc). In most cases, the representative from the SME will have to schedule a consultation and interview with a loan officer at the financial institution to discuss their loan application. In certain countries, banks have an obligation to provide SMEs with a standardised credit report and with their credit rating, based on a common methodology.
+
+For example, with countries implementing the SME Credit Guarantee scheme for SMEs, the eligible SMEs does not apply directly for the SME Credit Guarantee scheme via the government body guarantor. Instead, the SMEs directly applies for a loan from one of the participating banks or other funders collaborating on this scheme. It is the bank that reviews the SMEs application and then coordinates with the national body acting as the guarantor.
 
 &#x20;**Workflows**
 
-* **Client Case Management** to track, review and process all submitted tax related documents. Also, to respond to any inquiries or support needs from business owners/accounting team.
-* **Data Analysis and Business Intelligence** to analyze all submitted data and ensure they meet tax compliance obligations.
+* **Client Case Management** to track, review and process all submitted loan documents. Also, to respond to any inquiries and  provide updates on the loan application decision.&#x20;
+* **Data Analysis and Business Intelligence** to analyze all submitted data and ensure they meet the eligibility criteria.
 
 **Building Blocks**
 
@@ -149,36 +153,43 @@ SMEs do not apply for the SME Credit Guarantee themselves. They simply apply for
 * [**Messaging**](http://127.0.0.1:5000/s/mNnAAqNpNoSI6WELhO9t/1-description)
 * [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
 
-### 7 - Credit Case Management
+### 7 - Loan Issuance
 
-In certain countries, banks have an obligation to provide SMEs with a standardised credit report and with their credit rating, based on a common methodology. Some countries have put in place credit review offices, providing a credit appeals process for SMEs. The credit review office is meant to help SMEs who have had an application for credit of up to a certain amount, declined or reduced by participating banks, but feel that they have a viable business proposition. It also looks at cases where borrowers feel that the terms and conditions of their existing loan, or a new loan offer, are unfairly onerous or have been unreasonably changed to their detriment.
+Loan issuance takes place once the submitted loan application has been reviewed and approved. If the application is approved, both parties sign a contract that outlines the details of the agreement. First, a notification is sent to the applicant informing them that their loan has been granted with the contract that provides information on loan agreeement, collateral details, date when amount is available in the SME borrower's account, loan interest rate, and the length of time before repayment is required. The terms of the loan has to  be agreed by each party before any money or is disbursed.&#x20;
 
 **Workflows**
 
-* **Client Case Management** for identifying and recording business entity interactions with local officers and capturing reported cases on grievances / appeals etc., and for determining risks / conditionality by reviewing individual client case.
-* **Work Planning and Coordination** to potentially suggest and connect with Chambers of Commerce in data validation/vetting.
+* **Data Collection and Reporting** for capturing and tracking all approved loans and informing all relevant authorities of approval decision.
+* **Client Case Management**  to communicate approval decision to the applicant and coordinate loan allocation as well as payment plan and processes.
+
+**Building Blocks**
+
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
+
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
+
+**e-Signature**
+
+[**Messaging**](http://127.0.0.1:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description)
+
+[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+
+[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+
+### 8 - Credit Case Management
+
+&#x20;Should an SMEs loan application be rejected, it is crucial to have an effective case management system in place. Some countries have put in place credit review offices, providing a credit appeals process for SMEs. The credit review office is meant to help SMEs who have had an application for credit of up to a certain amount, declined or reduced by participating banks, but feel that they have a viable business proposition. It also looks at cases where borrowers feel that the terms and conditions of their existing loan, or a new loan offer, are unfair  or have been unreasonably changed and causing harm to their business.
+
+**Workflows**
+
+* **Client Case Management** for identifying and recording SMEs appeal request for a loan decision - capturing reported cases on grievances / appeals etc., and for determining risks / conditionality by reviewing individual client case.
+* **Work Planning and Coordination** to communicate with the relevant banks about their loan decisions and ways to address grievances together. &#x20;
 
 **Building Blocks**
 
 * [**Consent**](https://govstack.gitbook.io/bb-consent/)
 * [**Identity** ](https://govstack.gitbook.io/bb-identity/)
 * [**Messaging**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/izJ8qoBNDEfETK9xzjLp)
-* [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
-* [**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
-
-### 8 - Ongoing M\&E&#x20;
-
-The primary agent should conduct M\&E exercises to acquire feedback from all relevant stakeholders on ways to improve SME funding schemes. Figure out best ways to ensure reach that is effective and efficient.&#x20;
-
-**Workflows**
-
-* **Client Case Management** for ongoing monitoring and tracking of platform performance, and integration to other registries for holistic view and reporting.
-* **Data Analysis and Business Intelligence** / **Decision Support** / **Data Collection and Reporting** to analyze, update, and report output / performance information.
-
-**Building Blocks**
-
-* [**Consent**](https://govstack.gitbook.io/bb-consent/)
-* [**Identity** ](https://govstack.gitbook.io/bb-identity/)
 * [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
 * [**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
 
