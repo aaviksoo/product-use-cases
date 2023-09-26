@@ -4,9 +4,9 @@
 
 <table><thead><tr><th width="305.5">ID</th><th>FINC-2</th></tr></thead><tbody><tr><td>Name</td><td>Inclusive Financial Services for SMEs</td></tr><tr><td>Sector</td><td>Finance</td></tr><tr><td>Version</td><td>2.0</td></tr><tr><td>Status</td><td>Draft</td></tr></tbody></table>
 
-Small and medium enterprises (SMEs) represent the economic backbone of most developed and emerging countries. Yet they face a number of hurdles in acquiring loans/credits and financing from traditional financial institutions. Thus, access to finance is a critical barrier for SMEs to start, sustain and grow their businesses. Information asymmetry due to the lack of available financial and credit data is also a major obstacle for SME to access financing. Many SMEs do not have reliable financial statements and/or are unregistered and have no official documentation when compared to large enterprises, making it difficult for financiers to appropriately evaluate and monitor credit risk.
+Small and medium enterprises (SMEs) represent the economic backbone of most developed and emerging countries. Yet they face a number of hurdles in acquiring loans/credits and financing from traditional financial institutions. Thus, access to finance is a critical barrier for SMEs to start, sustain and grow their businesses. For lenders, information asymmetry on the financial and credit data of SMEs, leads to their high lending interest rates and higher rejection rates of loan applications by SMEs. Many SMEs do not have reliable financial statements and/or are unregistered and have no official documentation when compared to large enterprises, making it difficult for financiers to appropriately evaluate and monitor credit risk.
 
-This use case profiles how digital technologies can help address the barriers to financing for SMEs, and address information asymmetry issues lenders face. Digitization in this use case can range from the use of alternative data sources and big-data analytics to facilitate credit risk-assessment process for SMEs. To the use of fintech solutions SMEs to obtain financing i.e., digital credit and equity products such as loans, supply chain finance, secured revolving lines of credit, merchant receivables finance, marketplace lending, as well as equity crowdfunding.&#x20;
+This use case profiles how  streamlined loan programs targeting SMEs and digital technologies can supporting access to financing for SMEs, and address information asymmetry and collateral requirements in lending markets. Digitization in this use case can range from the use of alternative data sources and big-data analytics to facilitate credit risk-assessment processes for SMEs. It can also mean the use of fintech solutions to facilitate SMEs access to financing i.e., digital credit and equity products such as loans, marketplace lending, and/or equity crowdfunding.&#x20;
 
 ## Stakeholders
 
@@ -14,7 +14,7 @@ This use case profiles how digital technologies can help address the barriers to
 * Cental/public Banks and financial intermediaries
 * Investors, private equity, venture capital or angel capital business associations
 * Chamber of Commerce and/or institution in charge of business or credit registries
-* Small and medium enterprises (SMEs) and startups
+* Small and medium enterprises (SMEs)&#x20;
 
 ## SDG Targets
 
@@ -42,12 +42,14 @@ This use case profiles how digital technologies can help address the barriers to
 
 ### 1 - Coordination&#x20;
 
-The Ministry of Finance, the national SME agency, the Central Bank/public financial institution coordinate on targeted efforts to strengthen SME access to traditional or mainstream financial services and products. These public authorities can liase with private sector players - banks etc, private equity, venture capital or angel capital business associations, on best approach - methods and tools to faciliate SME financing. A number of countries have implemented SME credit guarantee schemes, where a government body/ministry  stands as gurantor for eligible SMEs applying for loans. This credit scheme increases the SME’s collateral and thus their financing options.
+The Ministry of Finance and/or the Central Bank/public financial institution coordinate on targeted efforts to strengthen SMEs access to traditional or mainstream financial services and products. These public authorities can liaise with private sector players - commercial banks etc., private equity, venture capital or angel capital business associations, on best approach - methods and tools to facilitate SME financing.&#x20;
+
+Certain countries have implemented SME credit guarantee schemes, where a government body/ministry stands as guarantor for eligible SMEs applying for loans. This credit scheme increases the SME’s collateral and thus their financing options. Another example is lending to SMEs through a factoring platform. Factoring is a financing product that allows a financial institution to provide financing to an SME supplier through the purchase of its accounts receivable or invoices (“receivables”). In factoring transactions, the SME supplier is the client of the financial institution.
 
 **Workflows**
 
 * **Coordination** to have an agreed form of coordination, communication and collaboration between public and commercial financial institutions.
-* **Education** for educating and training all relevant staff on use of digital solutions and any guarantee scheme programs to faciliate credit lending to SMEs.
+* **Education** for educating and training all relevant staff on use of digital solutions and any guarantee scheme programs to facilitate credit lending to SMEs.
 * **Content management** for content development of technical and nontechnical guidelines.
 
 **Building Blocks**
@@ -57,9 +59,9 @@ The Ministry of Finance, the national SME agency, the Central Bank/public financ
 
 ### 2 - Outreach Communications
 
-This step entails raising SME awareness of programmes and funding schemes for which they may be eligible and do so through dedicated websites or awareness campaigns. Using both targeted and widespread awareness campaigns to launch a proactive information dissemination through SMS, email, and social media.&#x20;
+This step entails launching an awareness campaign about a new loan program initiative targeting SMEs. Information on the program, which SMEs are eligible and processes to obtain the credit loan are disseminated through all sources of media - television, radio, SMS, email, and social media platforms.&#x20;
 
-Targated outreach can also be done via exisiting data base and registries of operating SMEs in the country. These SMEs can also be encouraged to make sure they are digitizing their internal business processes and business-to-business (B2B) processes via electronic invoicing (e-invoicing), and tokenized assets using blockchain/distributed ledger technology (DLT).
+Targeted outreach can also be done via existing databases and registries of operating SMEs in the country. These SMEs should be encouraged to digitize all their internal and business-to-business (B2B) processes on their business activities and cash flows - this will facilitate the automation of credit-risk measurement and monitoring that lenders value.
 
 &#x20;**Workflows**
 
@@ -76,7 +78,7 @@ Targated outreach can also be done via exisiting data base and registries of ope
 
 ### 3 - Registration&#x20;
 
-Registration is the process of collecting information on potential SMEs seeking to apply for financing and go through a credit approval process. This is in order to gather all the necessary information needed for assessment of their needs and conditions. Depending on specific country context, registration may occur by leveraging an existing business registry database or through on-demand registration, which would require the lending financial institution to collect registration data of SMEs.  During this process, the business entity's information is collected ( type of enterprise, business model, financial documents, collateral etc.) as a prerequisite in assessing their eligibility for a particular loan/ financing scheme. &#x20;
+Registration is the process of collecting information on potential SMEs seeking to apply for financing and go through a credit approval process. This is in order to gather all the necessary information needed for assessment of their needs and conditions. Depending on the specific country context, registration may occur by leveraging an existing business registry database - national SME business registry to acquire all information the lending financial institution requires to assess a loan application. During this process, the business entity's information is collected (type of enterprise, business model, financial documents, collateral etc.) as a prerequisite in assessing their eligibility for a particular loan/ financing scheme. &#x20;
 
 **Workflows**
 
@@ -95,7 +97,7 @@ Registration is the process of collecting information on potential SMEs seeking 
 
 ### 4 - Data Verification and Validation
 
-Data verification and validation should be coordinated with all relevant authorities and regulatory bodies. The registration data that is submitted can be checked against other credit institutions and government databases (e.g. chamber of commerce business registry, etc.) to fill in any missing gaps, verify and validate collected information, including authentication of all records.&#x20;
+Data verification and validation should be coordinated with all relevant authorities and participating lending financial institutions. The SME registration data that is submitted can be checked against other credit institutions and government databases (e.g. chamber of commerce business registry, etc.) to fill in any missing gaps, verify and validate collected information, including authentication of all records.&#x20;
 
 **Workflows**
 
@@ -113,9 +115,9 @@ Data verification and validation should be coordinated with all relevant authori
 
 ### &#x20;5 - Eligibility Determination&#x20;
 
-To be eligible for the SME credit guarantee scheme or any public funding scheme, SMEs generally have to fulfil various conditions. Eligibility conditions are very clear and information on criteria easily accessible. These conditions could include requirements on where the business is established, number of employees, years the business has been in operation, annual revenue and balance sheet thresholds, etc. Moreover a list of the banks and other possible funders that are covered by the government’s credit guarantee funding scheme are readily make available on a website, and disseminated on television and social media platforms.&#x20;
+To be eligible for the SME credit guarantee scheme or any public funding scheme, SMEs generally have to fulfil various conditions. Eligibility conditions are very clear and information on criteria is made easily accessible. These conditions could include requirements on where the business is established, number of employees, years the business has been in operation, annual revenue and balance sheets, revenue thresholds, etc.&#x20;
 
-A special web portal can be made available for SMEs as well as funders with all relevant information.
+For example in the case of a government credit guarantee funding scheme, a list of the banks and other possible funders that are participating in this funding scheme with the governement body, are readily make available on a website, and disseminated on television and social media platforms. A special web portal can be made available for SMEs as well as funders with all relevant information.
 
 **Workflows**
 
