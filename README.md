@@ -1,4 +1,4 @@
-# Reference Use Cases
+# GovStack Reference Use Cases
 
 Within the core GovStack Initiative, "reference use cases" are used to provide context and limit scope of the various GovStack Building Blocks. These use cases are considered to be part of GovStack and are versioned and released alongside the Building Block Specifications when a given GovStack release occurs.
 
