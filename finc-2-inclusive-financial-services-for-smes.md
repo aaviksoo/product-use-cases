@@ -6,12 +6,12 @@
 
 Small and medium enterprises (SMEs) represent the economic backbone of most developed and emerging countries. Yet they face a number of hurdles in acquiring loans/credits and financing from traditional financial institutions. Thus, access to finance is a critical barrier for SMEs to start, sustain and grow their businesses. For lenders, information asymmetry on the financial and credit data of SMEs, leads to their high lending interest rates and higher rejection rates of loan applications by SMEs. Many SMEs do not have reliable financial statements and/or are unregistered and have no official documentation when compared to large enterprises, making it difficult for financiers to appropriately evaluate and monitor credit risk.
 
-This use case profiles how  streamlined loan programs targeting SMEs and digital technologies can supporting access to financing for SMEs, and address information asymmetry and collateral requirements in lending markets. Digitization in this use case can range from the use of alternative data sources and big-data analytics to facilitate credit risk-assessment processes for SMEs. It can also mean the use of fintech solutions to facilitate SMEs access to financing i.e., digital credit and equity products such as loans, marketplace lending, and/or equity crowdfunding.&#x20;
+This use case profiles how streamlined loan programs targeting SMEs and digital technologies can supporting access to financing for SMEs, and address information asymmetry and collateral requirements in lending markets. Digitization in this use case can range from the use of alternative data sources and big-data analytics to facilitate credit risk-assessment processes for SMEs. It can also mean the use of fintech solutions to facilitate SMEs access to financing i.e., digital credit and equity products such as loans, marketplace lending, and/or equity crowdfunding.&#x20;
 
 ## Stakeholders
 
 * Ministry responsible for Finance and SMEs
-* Cental/public Banks and financial intermediaries
+* Public central banks and financial intermediaries
 * Investors, private equity, venture capital or angel capital business associations
 * Chamber of Commerce and/or institution in charge of business or credit registries
 * Small and medium enterprises (SMEs)&#x20;
