@@ -6,7 +6,7 @@
 
 Small and medium enterprises (SMEs) represent the economic backbone of most developed and emerging countries. Yet they face a number of hurdles in acquiring loans/credits and financing from traditional financial institutions. Thus, access to finance is a critical barrier for SMEs to start, sustain and grow their businesses. For lenders, information asymmetry on the financial and credit data of SMEs, leads to their high lending interest rates and higher rejection rates of loan applications by SMEs. Many SMEs do not have reliable financial statements and/or are unregistered and have no official documentation when compared to large enterprises, making it difficult for financiers to appropriately evaluate and monitor credit risk.
 
-This use case profiles how streamlined loan programs targeting SMEs and digital technologies can supporting access to financing for SMEs, and address information asymmetry and collateral requirements in lending markets. Digitization in this use case can range from the use of alternative data sources and big-data analytics to facilitate credit risk-assessment processes for SMEs. It can also mean the use of fintech solutions to facilitate SMEs access to financing i.e., digital credit and equity products such as loans, marketplace lending, and/or equity crowdfunding.&#x20;
+This use case profiles how streamlined loan programs targeting SMEs can support access to financing for SMEs, and address information asymmetry and collateral requirements in lending markets. Digitization in this use case can range from the use of alternative data sources and big-data analytics to facilitate credit risk-assessment processes for SMEs. It can also mean the use of fintech solutions to facilitate SMEs access to financing i.e., digital credit and equity products such as loans, marketplace lending, and/or equity crowdfunding.&#x20;
 
 ## Stakeholders
 
@@ -117,8 +117,6 @@ Data verification and validation should be coordinated with all relevant authori
 ### &#x20;5 - Eligibility Determination&#x20;
 
 To be eligible for the SME credit guarantee scheme or any public funding scheme, SMEs have to fulfil specific conditions. Eligibility conditions must be very clear and accessible. Certain countries even include questionnaires that interested parties refer to/ have to complete in order to find out if they are eligible for a loan credit support scheme. These conditions could include requirements on where the business is established, number of employees, years the business has been in operation, annual revenue and balance sheets, revenue thresholds, etc.&#x20;
-
-&#x20;
 
 For example, in the case of a government credit guarantee funding scheme - where a government body acts as guarantor for eligible SMEs, a list of the banks and funders that have agreed to this funding scheme with the government body, is available on websites and relevant social media platforms. A special dedicated web portal can be made available for SMEs with all relevant information on the eligibility conditions and application processes for each participating funder.
 
