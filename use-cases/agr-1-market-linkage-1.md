@@ -1,0 +1,264 @@
+# AGR-2 - Rural Advisory Service for Farmers
+
+## Product Use Case Summary
+
+| ID      | AGR-2                              |
+| ------- | ---------------------------------- |
+| Name    | Rural Advisory Service for Farmers |
+| Sector  | Agriculture                        |
+| Version | 1.0                                |
+| Status  | Draft                              |
+
+This use case profiles rural advisory services for farmers. The objective is to improve smallholders’ livelihoods and reduce rural poverty by equipping farmers with the information, knowledge and skills needed to increase their productivity and profitability, to manage risks, and to engage effectively with markets.&#x20;
+
+Governments in low- and middle-income countries are increasingly driven to identify sustainable strategies to ensure farmers have the information they need to stimulate agricultural productivity. Also to overcome various production, management and marketing constraints that affect their productivity, profitability and livelihood. Stakeholders are also prioritizing providing famers with information on technologies, markets, inputs, and finance required to help upgrade their farming and managerial skills.&#x20;
+
+## Stakeholders
+
+* Ministry of Agriculture and/or relevant governement run agriculture extension institution
+* Non-governmental organizations (NGOs), the private sector, and producer organizations (POs) and cooperatives
+* Agricultural extension agents with expertise on addressing agricultural barriers and issues farmers face
+* Farmers seeking to improve agricultural yield and outputs&#x20;
+
+## SDG Targets
+
+* [2.1](https://solutions.dial.community/sdgs/zero\_hunger): By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, including infants, to safe, nutritious and sufficient food all year round
+* [2.2](https://solutions.dial.community/sdgs/zero\_hunger): By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons
+* [2.3](https://solutions.dial.community/sdgs/zero\_hunger): By 2030, double the agricultural productivity and incomes of small-scale food producers, in particular women, indigenous peoples, family farmers, pastoralists and fishers, including through secure and equal access to land, other productive resources and inputs, knowledge, financial services, markets and opportunities for value addition and non-farm employment
+
+## Building Blocks
+
+* [**Consent**](https://govstack.gitbook.io/bb-consent)
+* [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
+* [**eMarketplace**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/PUIGDILlDRSOB6K47k6e/)
+* [**Identification and Verification**](https://govstack.gitbook.io/bb-identity)
+* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+* [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+* [**Payments**](https://govstack.gitbook.io/bb-payments)
+* [**Registration**](https://govstack.gitbook.io/bb-registration)
+* [**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)
+* [**Workflow**](https://govstack.gitbook.io/bb-workflow)
+
+## Source Documents
+
+* [Digital Impact Exchange - Market Linkage](https://exchange.dial.global/use\_cases/market\_linkage)
+
+## Steps
+
+### 1 - Outreach Communication
+
+Staff from the Ministry of Agriculture/ Agriculture extension institution, organizes an awareness campaign program around supporting farmers to address issues pertaining to pesticides and curbing agricultural outputs. In some countries, rural advisory services are also provided by non-governmental organizations (NGOs), civil society, the private sector, or even by producer organizations (POs) and cooperatives.
+
+The campaign is spread using promotional services - mobile messaging and/or aired on national radio/television to inform farmers about the new program. Posters can also be Moreover, government extension institution staff will coordinate in-person community outreach to rural farming communities. Awareness drives will be implemented to educate and explain to farmers on the benefits and methods to access the program and the services it has to offer.
+
+Rural advisory could focus on - capacity development programmes for value chain approaches, market-oriented advice, group and organizational development, agribusiness, and digital solutions to share and access information at scale.
+
+**Workflows**
+
+* **Client communication** to raise awareness to target users about the program via mobile messaging / media channel(s)/ in-person
+* **Client education** for educating potential target users about the program's objective(s), benefit(s), constraint(s), guideline on access etc
+* **Content management** for the government staff and/ extension agents working on the program, to develop and manage training content for farmers on how to use the rural advisory services&#x20;
+* **Identification and Registration** (with aid of geographic information services tool for potential use) in mapping and locating the target users&#x20;
+
+**Building Blocks**
+
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+
+[**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)
+
+[**Workflow**](https://govstack.gitbook.io/bb-workflow)
+
+### 2 - Registration
+
+Registration is the process of collecting standard information of a target group. For this use case, farmers seeking to access rural advisory services (via app download and/or web browser).&#x20;
+
+**Workflows**
+
+* **Data Collection and Reporting** for capturing responses provided during the registration process
+* **Identification and Registration** allows users to register themselves in the Marketplace in order to access the platform and its services. A built-in GPS in the users' main device i.e. mobile phone, automatically captures the user's location data so as to provide location based services
+
+**Building Blocks**
+
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
+
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
+
+[**eMarketplace**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/PUIGDILlDRSOB6K47k6e/)
+
+[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+
+[**Registration**](https://govstack.gitbook.io/bb-registration/)
+
+### 3 - Data Verification and Validation
+
+As the purpose of the Marketplace is to easily facilitate the buying and selling of products and services in the agriculture value chain, a process is needed to verify and validate the submitted identity registration data. The data is automatically checked against other government databases (eg. ID, tax, land cadastre, business registration, etc.) in order to fill in any missing gaps, verify and validate collected information, including authentication of all records. Data checking approaches also vary: sometimes it has full interoperability.
+
+**Workflows**
+
+* **Client Case Management** for storing and reviewing identification records&#x20;
+* **Data Analysis and Business Intelligence** for cross-referencing and verifying records across multiple registry sources, and reconciling gaps / overlaps
+
+**Building Blocks**
+
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
+
+[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+
+### 4 - User Profile Account&#x20;
+
+Every user on the Marketplace that registers will be provided with a personalized username and password to create their own detailed account on the platform. However if a country has a national identity scheme/nation ID registry in place, then this information can used for users to log in/access their personalized account on the Marketplace.\
+Once a user has an account, they must be able to log in, change their details, and  create profile with their name or business name, upload images, and other relevant information. Users should be able to select what kind of services they are seeking to access on the Marketplace platform - i.e., the type of products or services they wish to buy and/or sell on the platform and whether they wish to receive agriculture advisory notifications via audio and text messages (on weather forecasts, crop calendars, pest and disease prevention/control, new seeds, inputs and technology, and market pricing alerts). For any users wishing to supply any products or services, they should be able to personalize their profile page to make their business stand out, and input information on products or services for sale, and their set preferred delivery method (pick up and/or delivery). All of this needs to be done in a way that both keeps user data secure and is compliant with a country's legal requirements.
+
+**Workflows**
+
+* **Data Collection and Reporting** for capturing the personalized profile information of all registerd users on the platform
+* **Financial Services** for staging users' account details for payment transfer processing
+* **Identification and Registration** for identifying users and linking them to a personalized profile on the Marketplace&#x20;
+* **Client communication** sends users automated notification of harvest schedule, market prices for subscribed products, and weather/natural disaster updates, transaction-based and promotional information from the Marketplace through digital messaging (e.g. SMS, notification, etc.)&#x20;
+
+**Building Blocks**
+
+[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+
+[**Registration**](https://govstack.gitbook.io/bb-registration/)
+
+### 5 - Listing Pages
+
+The Marketplace needs listing pages - pages on the platform where sellers can display their products for sale and buyers to browse the different options available. Listing information can be sourced from sellers profiles where they can list attributes of goods and services they have for sale - with pictures, descriptions, prices, delivery options etc. Search and discovery tools should be incorporated features on the listing pages to help buyers find what they’re looking for on the Marketplace - buyers should have the ability to search and filter through based on the attributes above as well as use key words, audio function, image search etc, to filter through the Marketplace. A government run Marketplace admin system could be put in place to monitor, change, approve, close, and delete listings if necessary.&#x20;
+
+**Workflows**
+
+* **Data Analysis and Business Intelligence** / **Decision Support** / **Data Collection and Reporting** to capture, analyze and update all products and services listed on the platform, and ensuring the listing pages are automatically kept up-to-date with any new changes
+* **Client Case Management** for tracking products and services listed by Marketplace users on the platform and addressing any customer/ Marketplace users' related issues
+* **Client Case Management** for tracking all business transactions
+
+**Building Blocks**
+
+[**eMarketplace**](http://127.0.0.1:5000/s/zdXe8NbIMZIv5sydPBf6/)
+
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+
+### 6 - On-platform Communication
+
+On-platform communication is typically achieved through a messaging tool; a common marketplace feature that allows buyers and sellers to communicate quickly and easily. Buyers might have questions about items before placing an order. Sellers need a way to share updates with buyers after their purchase. Further, once a buyer is interested in buying a specific product, they can search for the product in the Marketplace and find different sellers who are selling the product in different markets, the pricing they are offering and delivery options. Once the buyer finds a seller that meets their pricing and need, they can directly contact the seller, negotiate pricing and share the delivery location with the seller. If the seller agrees to deliver the product at the buyer's location and the pricing is agreed by both parties, then the payment process can be facilitated.&#x20;
+
+**Workflows**
+
+* **Communication** to facilitate communication between buyers and sellers via app, web browser, mobile etc
+* **Client case management** to address any communication needs between users and schedueling support to coordinate on product or service delivery&#x20;
+
+**Building Blocks**
+
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+
+[**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)
+
+### 7 - Seller Transaction&#x20;
+
+A digital Marketplace should incorporate a process to facilitate the payment of goods and services to the seller. To facilitate transactions/payments between buyers and sellers, the platform can have an in-built payment function in the application. Step 7 above tracks the farm products and/or related services listed on the Marketplace and the preferred delivery method by location (pick up and/or delivery). Once the seller agrees to sell to a buyer, and the buyer makes the payment, an SMS or anther direct messaging system is sent to the seller informing them of the remittance being processed. The money could be deposited in to an Escrow Account possibly managed by a financial service provider, which only releases the final remittance to the seller once the physical deliver of a good or service is received b the buyer successfully. Once the physical delivery process has succeeded, the seller then receives the payment in their account.
+
+When filing out their profile with their necessary information and phone number, a process should be put in place for all users to verify their preferred method to receive payment (i.e.via  bank account or mobile money), mobil, which will be used to facilitate payment transactions on the platform. Should mobile banking be an agreed transation method, a verification process will be put in place to ensure the mobile number is associated with the user's banking details, and payment transfer can be facilitated via a financial service broker or intermediary embedded as part of the Marketplace platform.
+
+**Workflows**
+
+* **Identification and Registration** to identify, register and verify a registered seller's bank and/or mobile banking details is associated to their account
+* **Financial Services** to facilitate financial transactions between buyers and sellers in order to conclude the buy-sale process
+* **Client Case Management** for tracking transactions - identifying and authenticating payment transaction between buyers and sellers
+* **Procurement:** buyers and sellers in the Marketplace procure via a Procurement workflow of goods and services by negotiating transactional terms and conditions (e.g. price, delivery time etc.)
+
+**Building Blocks**
+
+[**eMarketplace**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/PUIGDILlDRSOB6K47k6e/)
+
+[**Identification and Verification**](https://govstack.gitbook.io/bb-identity)
+
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+
+[**Payments**](https://govstack.gitbook.io/bb-payments/)
+
+[**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)
+
+### 8 - Buyer Transaction
+
+A digital Marketplace should also provide some kind of process to facilitate payment of the listed goods and services by thee registered buyer. After a user wishing to buy agricultural products or services completes their detailed profile on Marketplace, then based on this data, products and services can be suggested for the user. Once a buyer finds a product or service they wish to proceed with, they can get in touch with the seller to discuss pricing and delivery options. Once an agreement is reached, the buyer selects the payment service - it could be the in-built payment function in the Marketplace application connected to the seller's bank or mobile banking. After the payment successfully processed, the buyer receives an SMS or any direct digital messaging system - transaction confirmation authentication code, which has to be shared with the delivery service provider once they receive the goods.
+
+When filing out their profile with their necessary information and phone number, a process should be put in place for all users to verify their preferred method to receive payment (i.e.via  bank account or mobile money), mobil, which will be used to facilitate payment transactions on the platform. Should mobile banking be an agreed transation method, a verification process will be put in place to ensure the mobile number is associated with the user's banking details, and payment transfer can be facilitated via a financial service broker or intermediary embedded as part of the Marketplace platform.
+
+**Workflows**
+
+* **Identification and Registration** to identify, register and verify a registered buyer's bank and/or mobile banking details is associated to their account
+* **Financial Services** to facilitate financial transactions between buyers and sellers in order to conclude the buy-sale process
+* **Client Case Management** for tracking transactions - identifying and authenticating payment transaction between buyers and sellers
+* **Procurement:** buyers and sellers in the Marketplace procure via a Procurement workflow of goods and services by negotiating transactional terms and conditions (e.g. price, delivery time etc.)
+
+**Building Blocks**
+
+[**eMarketplace**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/PUIGDILlDRSOB6K47k6e/)
+
+[**Identification and Verification**](https://govstack.gitbook.io/bb-identity)
+
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+
+[**Payments**](https://govstack.gitbook.io/bb-payments/)
+
+[**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)
+
+### 9 - Physcial Delivery of Goods
+
+Physical delivery is the act of sending out and the receiving of goods or services at an arranged place. In this use case, once the seller receives confirmation of payment for their good or service, an invoice is generated with the buyer's name and address. The next step is to coordinate the delivery process of the physical good(s) to the agree location/address of the buyer. The delivery could be done independently by the seller themself or through a logistics service provider (courier company, transporter) etc. I.e. the seller pays the courier company for on-site pick up and the courier company picks up the good and delivers to the buyer. On receipt of purchased good, the buyer provides the authentication code (see step 8) to the delivery service. The code gets authenticated and the seller receives payment in their bank account.
+
+**Workflows**
+
+* **Financial Services** to deposit payment into the seller's account once buyer confirms receipt of purchased goods or services&#x20;
+* **Client Case Management** for identifying and authenticating the buyer's authentication code&#x20;
+* **Supply-chain Management**: ensuring the physical delivery of the goods and services being transacted in digital Marketplace and monitoring when the actual supply of goods or service happens physically&#x20;
+
+**Building Blocks**
+
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+
+[**Payments**](https://govstack.gitbook.io/bb-payments/)
+
+[**Workflow**](https://govstack.gitbook.io/bb-workflow)
+
+### 10 - Ongoing Case Management
+
+The government entity running the Marketplace platform has a team of case mangers and administers in place to operate the platform and ensure quality assurance. The case managers can address any queries and support needs of of users. This body also supports in monitoring and addressing complaints and grievances submitted by registered users.
+
+**Workflows**
+
+* **Data Collection and Reporting** for capturing the personalized profile information of all registered users on the platform
+* **Client Case Management** for tracking all business transactions, and addressing complaints/grievances raised by Marketplace users
+
+**Building Blocks**
+
+[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+
+## Contributors
+
+* Wesley Brown, GovStack Product Owner, Digital Impact Alliance
+* Steve Conrad, Associate Director of Technology, Digital Impact Alliance
+* Taylor Downs, CEO of OpenFunction
+* Sarah Farooqi, The Exchange Product Owner, Digital Impact Alliance
+* Sainabou Jallow, Business Analyst, Digital Impact Alliance
+* Dr. P. S. Ramkumar, GovStack, International Telecommunication Union (ITU)
+* Margus Mägi, GovStack Project Lead for Estonia
+* Farina Owusu, Junior Advisor, Global Programme Digital Transformation at GIZ
+* Meelis Zujev, GovStack, Estonia
+
