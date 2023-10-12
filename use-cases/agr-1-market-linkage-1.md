@@ -121,11 +121,11 @@ This step is to verify and validate the submitted registration data. The data ca
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
-### 5 - Subscription or User Profile Account?&#x20;
+### 5 - Enrollment&#x20;
 
-Subscription is defined as the process of signing up to receive a specific service or product regularly. In this use case, subscription happens when users enact a digital action (e.g., dial an USSD code or download a mobile app) to receive regular rural advisory services - based on the information they provided in the registration step. Subscription can be open (without any pre-authorization or ID) or closed loop (only those having pre-authorization, such as a registration token).
+Following registration, eligible farmers are asked to enroll in this advisory service program by subscribing to receive agri tips on crop and livestock, market prices and weather updates. In this use case, subscription can happen when users enact a digital action (e.g., dial an USSD code or complete a personalized profile on a mobile app) to receive personalized rural advisory services. Subscription can be open (without any pre-authorization or ID) or closed loop (only those having pre-authorization, such as a registration token).
 
-In some countries, following registration to participate in the rural advisory service, the users must subscribe to receive tailored rural advisory services. This is to personalize the service experience. Their subscription selection(s) can be done via downloading the advisory service app or activated by dialing a USSD code. The user will then be prompted to complete their personalized profile by selecting the crops and agricultural products they would like to regularly receive advisory services on - optimal time to harvest specific crops, addressing crop specific pesticide issues, market price updates etc. A helpline number can also be made available during working hours, where the user can discuss about their farming problems with the agricultural experts rolling out this program.
+In some countries, following registration to participate in the rural advisory service, the users must the enroll to receive tailored rural advisory services. This is to personalize their service experience. The user is prompted to complete their personalized profile by selecting the crops and agricultural products they would like to regularly receive advisory services on - optimal time to harvest specific crops, addressing crop specific pesticide issues, market price updates etc.&#x20;
 
 **Workflows**
 
@@ -149,7 +149,7 @@ In some countries, following registration to participate in the rural advisory s
 
 ### 6 - Personalized Advisory Service
 
-Users that subscribe to the rural advisory service, receive a specific number of notifications (via SMS or App) per week regarding the crops of their choice. Users should also have the ability to contact a helpline via app or telephone. The objective of the helpline is to connect users to the experts from university and government agriculture department, who can address their queries and follow-up questions on specific advisory notifications they receive.
+Users that subscribe to the rural advisory service, receive a specific number of agri tips notifications (via SMS or App) per week regarding the crop(s) and/or livestocks of their choice. Users should also have the ability to contact a helpline via app or telephone. The objective of the helpline is to connect users to agricultural experts, who can address their queries and follow-up questions on specific advisory notifications they receive. Users can then be given the ability to SMS in their questions or call in to speak to an expert for instant help.
 
 **Workflows**
 
