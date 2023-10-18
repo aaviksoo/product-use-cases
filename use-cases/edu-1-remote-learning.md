@@ -18,6 +18,7 @@ Remote learning systems can be used to enhance traditional schooling, for vocati
 * **Administrator** that manages the remote learning system and can be available for technical difficulties.
 * **Educator** that is in charge of course creation, course delivery, and student evaluation.
 * **Learner** that is accessing platform for educational content.
+* **Administrator** that manages the remote learning system and can be available for technical difficulties.
 
 ## Sustainable Development Goals (SDGs)
 
