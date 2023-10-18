@@ -1,4 +1,4 @@
-# AGR-1- Market Linkage
+# AGR-1 - Market Linkage
 
 ## Product Use Case Summary
 
@@ -15,16 +15,15 @@ Governments in low- and middle-income countries are increasingly driven to ident
 
 ## Stakeholders
 
-* Ministry of Agriculture and/or relevant governement run agriculture extension institution
-* Agricultural extension agents serving as experts and trainers of a Marketplace platform dedicated to supporting market linkage in the agriculture sector
-* Farmers seeking to buy affordable agricultural inputs and services, and sell their agricultural products
-* Agro suppliers/dealers/middlemen that provide agricultural inputs (fertilizers, pesticides), equipments, processing and/or wholesale services to farmers &#x20;
+* Ministry of Agriculture and/or relevant governement run agriculture extension institution.
+* Agricultural extension agents serving as experts and trainers of a Marketplace platform dedicated to supporting market linkage in the agriculture sector.
+* Farmers seeking to buy affordable agricultural inputs and services, and sell their agricultural products.
+* Agro suppliers/dealers/middlemen that provide agricultural inputs (fertilizers, pesticides), equipments, processing and/or wholesale services to farmers. &#x20;
 
-## SDG Targets
+## Sustainable Development Goals (SDGs)
 
-* [2.1](https://solutions.dial.community/sdgs/zero\_hunger): By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, including infants, to safe, nutritious and sufficient food all year round
-* [2.2](https://solutions.dial.community/sdgs/zero\_hunger): By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons
-* [2.3](https://solutions.dial.community/sdgs/zero\_hunger): By 2030, double the agricultural productivity and incomes of small-scale food producers, in particular women, indigenous peoples, family farmers, pastoralists and fishers, including through secure and equal access to land, other productive resources and inputs, knowledge, financial services, markets and opportunities for value addition and non-farm employment
+* **SDG 2**: Zero Hunger
+* **SDG 8**: Decent Work and Economic Growth
 
 ## Building Blocks
 
@@ -110,7 +109,9 @@ As the purpose of the Marketplace is to easily facilitate the buying and selling
 ### 4 - User Profile Account&#x20;
 
 Every user on the Marketplace that registers will be provided with a personalized username and password to create their own detailed account on the platform. However if a country has a national identity scheme/nation ID registry in place, then this information can used for users to log in/access their personalized account on the Marketplace.\
-Once a user has an account, they must be able to log in, change their details, and  create profile with their name or business name, upload images, and other relevant information. Users should be able to select what kind of services they are seeking to access on the Marketplace platform - i.e., the type of products or services they wish to buy and/or sell on the platform and whether they wish to receive agriculture advisory notifications via audio and text messages (on weather forecasts, crop calendars, pest and disease prevention/control, new seeds, inputs and technology, and market pricing alerts). For any users wishing to supply any products or services, they should be able to personalize their profile page to make their business stand out, and input information on products or services for sale, and their set preferred delivery method (pick up and/or delivery). All of this needs to be done in a way that both keeps user data secure and is compliant with a country's legal requirements.
+Once a user has an account, they must be able to log in, change their details, and  create profile with their name or business name, upload images, and other relevant information.&#x20;
+
+Users should be able to select what kind of services they are seeking to access on the Marketplace platform - i.e., the type of products or services they wish to buy and/or sell on the platform and whether they wish to receive agriculture advisory notifications via audio and text messages (on weather forecasts, crop calendars, pest and disease prevention/control, new seeds, inputs and technology, and market pricing alerts). For any users wishing to supply any products or services, they should be able to personalize their profile page to make their business stand out, and input information on products or services for sale, and their set preferred delivery method (pick up and/or delivery). All of this needs to be done in a way that both keeps user data secure and is compliant with a country's legal requirements.
 
 **Workflows**
 
@@ -170,9 +171,9 @@ When filing out their profile with their necessary information and phone number,
 
 **Workflows**
 
-* **Identification and Registration** to identify, register and verify a registered seller's bank and/or mobile banking details is associated to their account
-* **Financial Services** to facilitate financial transactions between buyers and sellers in order to conclude the buy-sale process
 * **Client Case Management** for tracking transactions - identifying and authenticating payment transaction between buyers and sellers
+* **Financial Services** to facilitate financial transactions between buyers and sellers in order to conclude the buy-sale process
+* **Identification and Registration** to identify, register and verify a registered seller's bank and/or mobile banking details is associated to their account
 * **Procurement:** buyers and sellers in the Marketplace procure via a Procurement workflow of goods and services by negotiating transactional terms and conditions (e.g. price, delivery time etc.)
 
 **Building Blocks**
@@ -197,9 +198,9 @@ When filing out their profile with their necessary information and phone number,
 
 **Workflows**
 
-* **Identification and Registration** to identify, register and verify a registered buyer's bank and/or mobile banking details is associated to their account
-* **Financial Services** to facilitate financial transactions between buyers and sellers in order to conclude the buy-sale process
 * **Client Case Management** for tracking transactions - identifying and authenticating payment transaction between buyers and sellers
+* **Financial Services** to facilitate financial transactions between buyers and sellers in order to conclude the buy-sale process
+* **Identification and Registration** to identify, register and verify a registered buyer's bank and/or mobile banking details is associated to their account
 * **Procurement:** buyers and sellers in the Marketplace procure via a Procurement workflow of goods and services by negotiating transactional terms and conditions (e.g. price, delivery time etc.)
 
 **Building Blocks**
@@ -222,8 +223,8 @@ Physical delivery is the act of sending out and the receiving of goods or servic
 
 **Workflows**
 
-* **Financial Services** to deposit payment into the seller's account once buyer confirms receipt of purchased goods or services&#x20;
 * **Client Case Management** for identifying and authenticating the buyer's authentication code&#x20;
+* **Financial Services** to deposit payment into the seller's account once buyer confirms receipt of purchased goods or services&#x20;
 * **Supply-chain Management**: ensuring the physical delivery of the goods and services being transacted in digital Marketplace and monitoring when the actual supply of goods or service happens physically&#x20;
 
 **Building Blocks**
@@ -240,8 +241,8 @@ The government entity running the Marketplace platform has a team of case manger
 
 **Workflows**
 
-* **Data Collection and Reporting** for capturing the personalized profile information of all registered users on the platform
 * **Client Case Management** for tracking all business transactions, and addressing complaints/grievances raised by Marketplace users
+* **Data Collection and Reporting** for capturing the personalized profile information of all registered users on the platform
 
 **Building Blocks**
 
