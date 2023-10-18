@@ -15,16 +15,15 @@ Governments in low- and middle-income countries are increasingly driven to ident
 
 ## Stakeholders
 
-* Ministry of Agriculture and/or relevant government run agriculture extension/advisory institution
-* Non-governmental organizations (NGOs), the private sector, and producer organizations (POs) and cooperatives
-* Agricultural extension agents with expertise on addressing agricultural barriers and issues farmers face
-* Farmers seeking to improve agricultural yield and outputs
+* Ministry of Agriculture and/or relevant government run agriculture extension/advisory institution.
+* Non-governmental organizations (NGOs), the private sector, and producer organizations (POs) and cooperatives.
+* Agricultural extension agents with expertise in farming systems and supporting rural agricultural productivity.
+* Farmers seeking to improve agricultural yield and outputs.
 
-## SDG Targets
+## Sustainable Development Goals (SDGs)
 
-* [2.1](https://solutions.dial.community/sdgs/zero\_hunger): By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, including infants, to safe, nutritious and sufficient food all year round
-* [2.2](https://solutions.dial.community/sdgs/zero\_hunger): By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons
-* [2.3](https://solutions.dial.community/sdgs/zero\_hunger): By 2030, double the agricultural productivity and incomes of small-scale food producers, in particular women, indigenous peoples, family farmers, pastoralists and fishers, including through secure and equal access to land, other productive resources and inputs, knowledge, financial services, markets and opportunities for value addition and non-farm employment
+* **SDG 2**: Zero Hunger
+* **SDG 8**: Decent Work and Economic Growth
 
 ## Building Blocks
 
@@ -108,8 +107,8 @@ This step is to verify and validate the submitted registration data. The data ca
 
 **Workflows**
 
-* Client Case Management for storing and reviewing identification records&#x20;
-* Data Analysis and Business Intelligence for cross-referencing and verifying records across multiple registry sources, and reconciling gaps / overlaps
+* **Client Case Management** for storing and reviewing identification records&#x20;
+* **Data Analysis and Business Intelligence** for cross-referencing and verifying records across multiple registry sources, and reconciling gaps / overlaps
 
 **Building Blocks**
 
@@ -153,8 +152,8 @@ Users that subscribe to the rural advisory service, receive a specific number of
 
 **Workflows**
 
-* **Communication** to facilitate communication between farmers and agricultural experts and extension agents (advisory content providers) supporting the implementation of this service
 * **Client Case Management** to address any communication needs and queries of the target users via mobile helpline, personal messengers, app messaging platform etc
+* **Communication** to facilitate communication between farmers and agricultural experts and extension agents (advisory content providers) supporting the implementation of this service
 
 **Building Blocks**
 
@@ -172,8 +171,8 @@ A marketplace is a platform where customers can find information of vendors sell
 
 **Workflows**&#x20;
 
-* **Communication** to facilitate communication between farmers and vendors via app
 * **Client Case Management** to address any communication needs between users and scheduling support to coordinate on product or service delivery&#x20;
+* **Communication** to facilitate communication between farmers and vendors via app
 * **Marketplace** to provide users with a list of products and vendors that can address their products and agricultural service needs&#x20;
 
 **Building Blocks**
@@ -192,9 +191,9 @@ Monitoring insights are essential to facilitate learning and continuous improvem
 
 **Workflows**
 
-* **Data Collection and Reporting** for capturing feedback received, and data collected.
 * **Client Case Management** for ongoing monitoring and tracking of advisory support services provided to farmers
 * **Data Analysis and Business Intelligence / Decision Support / Data Collection and Reporting** to analyze, update, and evaluate farmers' crop yields and outputs performances
+* **Data Collection and Reporting** for capturing feedback received, and data collected
 
 **Building Blocks**
 
