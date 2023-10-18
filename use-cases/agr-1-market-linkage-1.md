@@ -9,7 +9,7 @@
 | Version | 1.0                                |
 | Status  | Draft                              |
 
-This use case profiles rural advisory services for farmers. The objective is to improve smallholders’ livelihoods and reduce rural poverty by equipping farmers with the information, knowledge and skills needed to improve their farms and get better yields.
+This use case profiles rural advisory services for farmers. The objective is to equip farmers with the information, knowledge and skills needed to improve their farms and get better yields.
 
 Governments in low- and middle-income countries are increasingly driven to identify sustainable strategies to ensure farmers have the information they need to stimulate agricultural productivity. Also, to overcome various production, management and marketing constraints that affect their productivity, profitability, and livelihood. Providing rural advisory services that are personalized and subscription based to the needs of famers is seen as a solution to equip farmers with the knowledge required to help upgrade their farming and managerial skills. &#x20;
 
