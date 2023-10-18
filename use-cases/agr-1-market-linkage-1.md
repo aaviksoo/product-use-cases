@@ -19,6 +19,7 @@ Governments in low- and middle-income countries are increasingly driven to ident
 * Non-governmental organizations (NGOs), the private sector, and producer organizations (POs) and cooperatives.
 * Agricultural extension agents with expertise in farming systems and supporting rural agricultural productivity.
 * Farmers seeking to improve agricultural yield and outputs.
+* Crop insurance providers that provide rural advisory service to ensure insured farmers have the right information.
 
 ## Sustainable Development Goals (SDGs)
 
@@ -167,7 +168,9 @@ Users that subscribe to the rural advisory service, receive a specific number of
 
 ### 7 - Marketplace
 
-A marketplace is a platform where customers can find information of vendors selling products or services they need. This marketplace function can include searching and filtering feature as well as scheduling appointments feature. In certain countries that are implementing this rural advisory service via a mobile app, a procurement function is also incorporated into the app. This supports users to be able to search for a specific agricultural product on the app and then be provided a link or even redirected to the respective digital marketplace, where they can purchase this product. In other instances, this marketplace function can support farmers in identifying and booking a meeting for a specific agricultural expert i.e., an agronomist to visit their farm and address soil management and crop production issues they are facing.
+A marketplace is a platform where customers can find information of vendors selling products or services they need. This marketplace function can include searching and filtering feature as well as scheduling appointments feature. In certain countries that are implementing this rural advisory service via a mobile app, a procurement function is also incorporated into the app. This supports users to be able to search for a specific agricultural product on the app and then be provided a link or even redirected to the respective digital marketplace, where they can purchase this product. An example of such a marketplace platform can be seen outlined in this [market linkage use case](agr-1-market-linkage.md).&#x20;
+
+In other instances, this marketplace function can support farmers in identifying and booking a meeting and/or inspection with a specific agricultural expert i.e., an agronomist to visit their farm and address soil management and crop production issues they are facing. Furthermore, also coordinate supply chain management support for farmers around crop storage and waste recycling as well as helping farmer identify contracting services on tilling, harvesting, transport, irrigation,etc.
 
 **Workflows**&#x20;
 
