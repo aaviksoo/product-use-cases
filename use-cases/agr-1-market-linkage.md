@@ -22,8 +22,8 @@ Governments in low- and middle-income countries are increasingly driven to ident
 
 ## Sustainable Development Goals (SDGs)
 
-* **SDG 2**: Zero Hunger
-* **SDG 8**: Decent Work and Economic Growth
+* [**SDG 2**](https://exchange.dial.global/sdgs/zero\_hunger): Zero Hunger
+* [**SDG 8**](https://exchange.dial.global/sdgs/decent\_work\_and\_economic\_growth): Decent Work and Economic Growth
 
 ## Building Blocks
 

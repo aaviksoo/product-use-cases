@@ -22,7 +22,7 @@ Remote learning systems can be used to enhance traditional schooling, for vocati
 
 ## Sustainable Development Goals (SDGs)
 
-* **SDG 4**: Quality Education
+* [**SDG 4**](https://exchange.dial.global/sdgs/quality\_education): Quality Education
 
 ## Building Blocks
 

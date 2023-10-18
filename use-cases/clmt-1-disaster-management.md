@@ -24,7 +24,7 @@ Thus, implementing a harmonized approach to disaster management requires systema
 
 ## Sustainable Development Goals (SDGs)
 
-* **SDG 13**: Climate Action
+* [**SDG 13**](https://exchange.dial.global/sdgs/climate\_action): Climate Action
 
 ## Building Blocks
 
