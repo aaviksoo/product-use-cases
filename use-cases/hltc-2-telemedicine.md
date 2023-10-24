@@ -24,15 +24,9 @@ Local connectivity levels must be considered when designing a telemedicine proje
 * Ministry of health or central government body in charge of national health outcomes that needs to track aggregate indicators of health care access.
 * Administrators that need to manage payments and/or labs of patients.
 
-## SDG Targets
+## Sustainable Development Goals (SDGs)
 
-* [3.1](https://exchange.dial.global/sdgs/good\_health\_and\_wellbeing): By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births
-* [3.2](https://exchange.dial.global/sdgs/good\_health\_and\_wellbeing): By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under‑5 mortality to at least as low as 25 per 1,000 live births
-* [3.3](https://exchange.dial.global/sdgs/good\_health\_and\_wellbeing): By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases
-* [3.4](https://exchange.dial.global/sdgs/good\_health\_and\_wellbeing): By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and well-being
-* [3.5](https://exchange.dial.global/sdgs/good\_health\_and\_wellbeing): Strengthen the prevention and treatment of substance abuse, including narcotic drug abuse and harmful use of alcohol
-* [3.7](https://exchange.dial.global/sdgs/good\_health\_and\_wellbeing): By 2030, ensure universal access to sexual and reproductive health-care services, including for family planning, information and education, and the integration of reproductive health into national strategies and programmes
-* [3.8](https://exchange.dial.global/sdgs/good\_health\_and\_wellbeing): Achieve universal health coverage, including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all
+* [**SDG 3**](https://exchange.dial.global/sdgs/good\_health\_and\_wellbeing): Good Health and Well-Being
 
 ## Building Blocks
 
@@ -48,8 +42,6 @@ Local connectivity levels must be considered when designing a telemedicine proje
 * [**Workflow**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
 * [**UX**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/mZjQFipOkdLHeoXnKg9n)
 
-Future building block inclusion:
-
 ## Source Documents
 
 * [Framework for the Implementation of a Telemedicine Service](https://iris.paho.org/bitstream/handle/10665.2/28414/9789275119037\_eng.pdf)
@@ -64,7 +56,7 @@ In cases where telemedicine is being pursued as a centralized activity to meet n
 
 **Workflows**
 
-* **Data Collection and Reporting** to facilitate the mapping and scoping of connected/under connected areas.
+* **Data Collection and Reporting** to facilitate the mapping and scoping of connected/under connected areas
 
 **Building Blocks**
 
@@ -76,9 +68,9 @@ Staff from the Ministry of Health, private telehealth companies, or other interm
 
 #### Workflows
 
-* **Client communication** to facilitate the spreading of program awareness for target audience and encouraging enrolment via mobile / media channel(s)
-* **Client education** for educating potential target beneficiaries around the approach and objective(s), benefit(s), constraint(s), partner(s), etc. of the program
-* **Content management** for the backend Social Welfare staff to populate relevant educational and promotional content that local officers can use during on-the-ground outreach campaigns
+* **Client Education** for educating potential target beneficiaries around the approach and objective(s), benefit(s), constraint(s), partner(s), etc. of the program
+* **Client Communication** to facilitate the spreading of program awareness for target audience and encouraging enrolment via mobile / media channel(s)
+* **Content Management** for the backend Social Welfare staff to populate relevant educational and promotional content that local officers can use during on-the-ground outreach campaigns
 * **Identification and Registration** (along with GIS) in mapping and locating households and individuals for outreach target
 
 #### Building Blocks
@@ -96,17 +88,17 @@ In this step, all healthcare workers will also provide information on qualificat
 
 #### Workflows
 
-* **Data Collecting and Reporting** to capture provider’s demographic data, information on specialties, and information on qualifications. In return patients can provide demographic, geographic, and health history data.
-* **Identification and Verification** for enrolled identified healthcare providers and patients and enabling permissions.
-* **Client Case Management** for creating patient user records.
+* **Data Collecting and Reporting** to capture provider’s demographic data, information on specialties, and information on qualifications. In return patients can provide demographic, geographic, and health history data
+* **Identification and Verification** for enrolled identified healthcare providers and patients and enabling permissions
+* **Client Case Management** for creating patient user records
 
 #### Building Blocks
 
 * [**Consent**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
 * [**Digital Registries**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/JMaO4Mpz4NPyGolHgYNS)
+* [**E-Signature**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/EiApewuu4GrhgGCBTps0)
 * [**Identity**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
 * [**Information Mediator**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
-* [**E-Signature**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/EiApewuu4GrhgGCBTps0)
 
 ### Step 4 - Patient Registration
 
@@ -114,16 +106,16 @@ Registration for patients can vary depending on specific country/district-level 
 
 #### Workflows
 
-* **Data Collecting and Reporting** to capture provider’s demographic data, information on specialties, and information on qualifications. In return patients can provide demographic, geographic, and health history data.
-* **Identification and Verification** for enrolled identified healthcare providers and patients and enabling permissions.
-* **Client Case Management** for creating patient user records.
+* **Data Collecting and Reporting** to capture provider’s demographic data, information on specialties, and information on qualifications. In return patients can provide demographic, geographic, and health history data
+* **Client Case Management** for creating patient user records
+* **Identification and Verification** for enrolled identified healthcare providers and patients and enabling permissions
 
 #### Building Blocks
 
 * [**Consent**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
+* [**E-Signature**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/EiApewuu4GrhgGCBTps0)
 * [**Identity**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
 * [**Information Mediator**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
-* [**E-Signature**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/EiApewuu4GrhgGCBTps0)
 
 ### Step 5 - Data Verification and Validation
 
@@ -131,8 +123,8 @@ In this step, registration data needs to be verified and validated. Healthcare p
 
 #### Workflows
 
-* **Client case management** - used for verifying and validating enrollment of patients and healthcare workers.
-* **Data analysis and Business Intelligence / Data Collection and Reporting** - for administrators and national workers to monitor and track use and uptake of the system.
+* **Client case Management** used for verifying and validating enrollment of patients and healthcare workers
+* **Data Analysis and Business Intelligence / Data Collection and Reporting** for administrators and national workers to monitor and track use and uptake of the system.
 
 #### Building Blocks
 
@@ -146,7 +138,7 @@ Patients, healthcare providers, and administrators need access to telehmedicine 
 
 #### Workflows
 
-* **Client Communication** - to facilitate individual communication between the system and all users (healthcare workers, patients, and administrators)
+* **Client Communication** to facilitate individual communication between the system and all users (healthcare workers, patients, and administrators)
 
 #### Building Blocks
 
@@ -160,8 +152,8 @@ Appointments can be triggered by patients (such as for a first-time visit) or by
 
 #### Workflows
 
-* **Client case management** – can be either automated or through an intermediary health care worker on the ground that is responsible for coordinating appointments on a centralized system.
-* **Work Planning and Coordination** – health care providers and administrative staff can coordinate the timing/schedules of multiple patients they may be serving.
+* **Client case Management** can be either automated or through an intermediary health care worker on the ground that is responsible for coordinating appointments on a centralized system
+* **Work Planning and Coordination** so healthcare providers and administrative staff can coordinate the timing/schedules of multiple patients they may be serving
 
 #### Building Blocks
 
@@ -178,10 +170,10 @@ As part of the consultation, the healthcare provider can update the patient reco
 
 #### Workflows
 
-* **Client Case Management** - for identifying and recording patient interaction with healthcare workers and for determining follow-ups and storing patient history.
-* **Client Communication** for sharing relevant updates, diagnoses, treatment plans, and follow-up with client.
+* **Client Communication** for sharing relevant updates, diagnoses, treatment plans, and follow-up with client
+* **Client Case Management** for identifying and recording patient interaction with healthcare workers and for determining follow-ups and storing patient history
 * **Data Collection and Reporting** for capturing changes in beneficiary information
-* **Work Planning and Coordination** for referrals to specialists or connections with other hospitals, clinics, or lab and pharmacy services.
+* **Work Planning and Coordination** for referrals to specialists or connections with other hospitals, clinics, or lab and pharmacy services
 
 #### Building Blocks
 
@@ -195,8 +187,8 @@ Payments can be collected either pre- or post-consultation. In the context where
 
 #### Workflows
 
-* **Financial Services** - for processing consultation fees and other fees related to tests, labs, and prescriptions.
-* **Client Case Management** - for identifying and authenticating individual that is making a payment
+* **Client Case Management** for identifying and authenticating individual that is making a payment
+* **Financial Services** for processing consultation fees and other fees related to tests, labs, and prescriptions
 
 #### Building Blocks
 
@@ -214,9 +206,9 @@ Depending on the program and on the country’s broader health policies, this st
 
 #### Workflows
 
-* **Data Collection and Reporting** - for capturing changes in patient or health care provider information
-* **Client Case Management** - for identifying and recording patient interaction with health care providers/worker and capturing reported cases on grievances.
-* **Work Planning and Coordination** - to potentially suggest and connect with departments / agencies offering other social benefits and services to eligible patients
+* **Client Case Management** for identifying and recording patient interaction with health care providers/worker and capturing reported cases on grievances
+* **Data Collection and Reporting** for capturing changes in patient or health care provider information
+* **Work Planning and Coordination** to potentially suggest and connect with departments / agencies offering other social benefits and services to eligible patients
 
 #### Building Blocks
 
@@ -232,7 +224,7 @@ Administrators of the telehealth company and/or Ministry of Health analysts cond
 
 #### Workflows
 
-* **Client Case Management** - for ongoing monitoring and tracking of patients and health care workers usage and experience
+* **Client Case Management** for ongoing monitoring and tracking of patients and health care workers usage and experience
 * **Data Analysis and Business Intelligence/ Decision Support / Data Collection and Reporting** - to analyize, update, and report program output/performance information
 
 #### Building Blocks
@@ -245,6 +237,6 @@ Administrators of the telehealth company and/or Ministry of Health analysts cond
 
 ## Contributors
 
-* Dr. Sanjay Sood, eSanjeevani, spsood@cpac.int&#x20;
-* Jai Ganesh Udayasankaran, AeHIN, au.jaiganesh@gmail.com
-* Sarah Farooqi, DIAL, sfarooqi@dial.global
+* Sarah Farooqi, The Exchange Product Owner, Digital Impact Alliance
+* Dr. Sanjay Sood, Project and Associate Director, eSanjeevani (National Telemedicine Service)&#x20;
+* Jai Ganesh Udayasankaran, Senior Manager, Healthcare Information Technology and Telehealth Sri Sathya Sai Central Trust, INDIA AeHIN

@@ -23,11 +23,6 @@ Postpartum maternal and infant mortality is still high across multiple low and m
 
 * **SDG 3**: [Good Health and Well-Being](https://exchange.dial.global/sdgs/good\_health\_and\_wellbeing)
 
-## SDG Targets
-
-* [3.1](https://solutions.dial.community/sdgs/good\_health\_and\_wellbeing): By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births.
-* [3.2](https://solutions.dial.community/sdgs/good\_health\_and\_wellbeing): By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under‑5 mortality to at least as low as 25 per 1,000 live births.
-
 ## Building Blocks
 
 * [**Consent**](https://govstack.gitbook.io/bb-consent)
