@@ -1,4 +1,4 @@
-# HLTC-1- Postpartum and Infant Care
+# HLTC-1 - Postpartum and Infant Care
 
 ## Product Use Case Summary
 
@@ -6,7 +6,7 @@
 | ------- | -------------------------- |
 | Name    | Postpartum and Infant Care |
 | Sector  | Health                     |
-| Version | 1.0                        |
+| Version | 2.0                        |
 | Status  | Published                  |
 
 This use case profiles the digital integration steps to provide high-quality and integrated Postpartum and Infant Care services for a mother and child spanning the mother's prenatal and postnatal periods - during the pregnancy, childbirth and after birth. Governments in low- and middle-income countries are increasingly implementing mother and child care programmes to provide primary healthcare services, prenatal care and educate new mothers about post-delivery care (e.g. breastfeeding, nutrition, immunization, personal hygiene).
@@ -18,6 +18,10 @@ Postpartum maternal and infant mortality is still high across multiple low and m
 * Ministry of Health and Welfare or national government body in charge of providing nationwide healthcare services and/or postpartum services and care.
 * Community healthcare workers trained in essential newborn care, and providing postpartum care for both mother and their newborns.
 * Expectant mothers and their new born babies as the key beneficiaries of this service.
+
+## Sustainable Development Goals (SDGs)
+
+* **SDG 3**: [Good Health and Well-Being](https://exchange.dial.global/sdgs/good\_health\_and\_wellbeing)
 
 ## SDG Targets
 

@@ -6,7 +6,7 @@
 | ------- | -------------------------------------- |
 | Name    | Extended Producer Responsibility (EPR) |
 | Sector  | Environment and Climate                |
-| Version | 1.0                                    |
+| Version | 2.0                                    |
 | Status  | Published                              |
 
 This use case provides step by step guidelines on how to implement the Extended Producer Responsibility (EPR) system of waste from electrical and electronic equipments (also known as e-waste). EPR is an environmental policy approach that regulates a producer’s responsibility for a product throughout the product’s life cycle. Improper disposal of e-waste poses numerous threats to the environment, economy, and health and well-being of citizens. Under the EPR approach, a producer takes the responsibility for financing collection, recycling and end-of-life disposal of e-waste equipment/product streams - batteries, small consumer electronics, accumulators, packaging and other EPR product categories - in order to mitigate the environmental impacts of their products throughout the entire product life cycle. It thereby aims to increase the separate collection of end-of-life products and to enable their more circular treatment.
