@@ -19,17 +19,16 @@ Digitalizing pandemic response can facilitate rapid information sharing of accur
 * Health professionals - general practitioners, public health responders, frontline health workers, health system managers, emergency operation officers, surveillance officers etc,.
 * Population at exposed to epidemics and pandemics.
 
-## SDG Targets
+## Sustainable Development Goals (SDGs)
 
-* [3.b](https://exchange.dial.global/sdgs/good\_health\_and\_wellbeing): Support the research and development of vaccines and medicines for the communicable and non‑communicable diseases that primarily affect developing countries, provide access to affordable essential medicines and vaccines, in accordance with the Doha Declaration on the TRIPS Agreement and Public Health, which affirms the right of developing countries to use to the full the provisions in the Agreement on Trade-Related Aspects of Intellectual Property Rights regarding flexibilities to protect public health, and, in particular, provide access to medicines for all.
-* [3.d](https://exchange.dial.global/sdgs/good\_health\_and\_wellbeing): Strengthen the capacity of all countries, in particular developing countries, for early warning, risk reduction and management of national and global health risks.
+* [**SDG 3**](https://exchange.dial.global/sdgs/good\_health\_and\_wellbeing): Good Health and Well-Being
 
 ## Building Blocks
 
 * [**Consent**](https://govstack.gitbook.io/bb-consent/)
 * [**Digital Registry**](https://govstack.gitbook.io/specification/v/version-0.9.0/building-blocks/digital-registries)&#x20;
-* [**GIS**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
 * [**E-Signature**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/EiApewuu4GrhgGCBTps0)
+* [**GIS**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
 * [**Identification and Verification**](https://govstack.gitbook.io/bb-identity/)
 * [**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)
 * [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
@@ -52,9 +51,9 @@ Once a disease outbreak has been declared in a country, i.e., the emergency oper
 
 **Workflows**&#x20;
 
-* **Content management** for the development of manuals and/or e-learning courses which give response staff guidance.
-* **Data Collection and Reporting** for collecting data on epidemics and pandemics, and to report this data to all relevant stakeholders.&#x20;
-* **Data Analysis and Business Intelligence** for analyzing data to make informed decisions on how to respond to pandemic and aid population. Data from screening tools can also be assessed and used to inform national decisions that may restrict travel from certain countries or regions.
+* **Content Management** for the development of manuals and/or e-learning courses which give response staff guidance
+* **Data Analysis and Business Intelligence** for analyzing data to make informed decisions on how to respond to pandemic and aid population. Data from screening tools can also be assessed and used to inform national decisions that may restrict travel from certain countries or regions
+* **Data Collection and Reporting** for collecting data on epidemics and pandemics, and to report this data to all relevant stakeholders
 
 **Building Blocks**
 
@@ -74,9 +73,9 @@ Communication outreach should be facilitated often to improve public awareness o
 
 **Workflows**
 
-* **Client communication** to facilitate real-time and accurate information on epidemic/pandemic, preventative measures, self-reporting mechanisms and treatments. SMS and other digital tools can be used to share information with the community about a potential outbreak of a new disease or renewed outbreak of a disease already well known to a community.
-* **Client education** for educating population about the epidemic/pandemic, safety measures and available support.
-* **Identification and Registration** (along with GIS) in mapping and locating households and individuals in affected region/area.
+* **Client Communication** to facilitate real-time and accurate information on epidemic/pandemic, preventative measures, self-reporting mechanisms and treatments. SMS and other digital tools can be used to share information with the community about a potential outbreak of a new disease or renewed outbreak of a disease already well known to a community
+* **Client Education** for educating population about the epidemic/pandemic, safety measures and available support
+* **Identification and Registration** (along with GIS) in mapping and locating households and individuals in affected region/area
 
 **Building Blocks**
 
@@ -92,9 +91,9 @@ In this use case, enrollment is the process of collecting and documenting data o
 
 **Workflows**
 
-* **Data Collecting and Reporting** for capturing infected persons health related data, collect information on others they could have passed the disease to, monitor all testing and clinical interactions across facilities.&#x20;
-* **Identification and Verification** for enrolled person and enabling permissions.
-* **Client Case Management** for creating user records - managing clients who are suspected and/or infected. Also, to appropriately document health visits, follow-up needs, and treatment protocols.
+* **Client Case Management** for creating user records - managing clients who are suspected and/or infected. Also, to appropriately document health visits, follow-up needs, and treatment protocols
+* **Data Collecting and Reporting** for capturing infected persons health related data, collect information on others they could have passed the disease to, monitor all testing and clinical interactions across facilities
+* **Identification and Verification** for enrolled person and enabling permissions
 
 **Building Blocks**
 
@@ -114,8 +113,8 @@ In this step, registration data needs to be verified and validated. The person's
 
 **Workflows**
 
-* **Client case management** - used for verifying and validating patient data.
-* **Data analysis and Business Intelligence / Data Collection and Reporting** - for administrators and front line healthcare workers to monitor and track infections and exposures.
+* **Client Case Management** used for verifying and validating patient data
+* **Data Analysis and Business Intelligence / Data Collection and Reporting** for administrators and front line healthcare workers to monitor and track infections and exposures.
 
 **Building Blocks**
 
@@ -131,9 +130,9 @@ In a pandemic situation, an effective supply chain and logistics management syst
 
 **Workflows**
 
-* **Identification** to easily be able to track pandemic aid supplies and testing.
-* **Client Case Management** to provide support and track supplies are being utilized effectively to aid infected/exposed persons.
-* **Supply Chain Management**: for capturing, managing and evaluating supplies during a pandemic.
+* **Client Case Management** to provide support and track supplies are being utilized effectively to aid infected/exposed persons
+* **Identification** to easily be able to track pandemic aid supplies and testing
+* **Supply Chain Management**: for capturing, managing and evaluating supplies during a pandemic
 
 **Building Blocks**
 
@@ -157,8 +156,8 @@ It is also essential to deploy some type of contact tracing tools to track the c
 
 **Workflows**
 
-* **Data Collection and Reporting** for capturing data on cases and contacts, testing outcomes and treatments received.&#x20;
-* **Client Case Management** - for identifying and recording cases with health care providers/worker and capturing reported cases on grievances.
+* **Data Collection and Reporting** for capturing data on cases and contacts, testing outcomes and treatments received
+* **Client Case Management** for identifying and recording cases with health care providers/worker and capturing reported cases on grievances
 
 **Building Blocks**
 
@@ -178,7 +177,7 @@ Administrators at the Ministry of Health and/or public health agency in charge o
 
 **Workflows**
 
-* **Client Case Management** - for ongoing monitoring and tracking of frontline healthcare workers feedback as well as population feedback.&#x20;
+* **Client Case Management** for ongoing monitoring and tracking of frontline healthcare workers feedback as well as population feedback
 * **Data Analysis and Business Intelligence/ Decision Support / Data Collection and Reporting** - to analyze, update, and report  output/ information
 
 **Building Blocks**
@@ -195,17 +194,8 @@ Administrators at the Ministry of Health and/or public health agency in charge o
 
 ## Contributors
 
-Wes Brown, Digital Impact Alliance
-
-Sarah Farooqi, Digital Impact Alliance&#x20;
-
-Pilar Hernandez, SORMAS (Surveillance Outbreak Response Management & Analysis System) Foundation
-
-Sainabou Jallow, Digital Impact Alliance
-
-Julia Niklewski, GIZ
-
-
-
-
-
+* Wesley Brown, GovStack Product Owner, Digital Impact Alliance
+* Sarah Farooqi, The Exchange Product Owner, Digital Impact Alliance
+* Pilar Hernandez, Director, SORMAS (Surveillance Outbreak Response Management & Analysis System) Foundation
+* Sainabou Jallow, Business Analyst, Digital Impact Alliance
+* Julia Niklewski, Advisor Digital Health, GIZ
