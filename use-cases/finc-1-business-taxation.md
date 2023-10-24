@@ -243,4 +243,11 @@ The primary agent should conduct M\&E exercises to acquire feedback from all rel
 
 ## Contributors
 
-*
+* Wesley Brown, GovStack Product Owner, Digital Impact Alliance
+* Sarah Farooqi, The Exchange Product Owner, Digital Impact Alliance
+* Sainabou Jallow, Business Analyst, Digital Impact Alliance
+* Aare Laponin, GovStack, Estonia
+* Dr. P. S. Ramkumar, GovStack, International Telecommunication Union (ITU)
+* Margus Mägi, GovStack Project Lead for Estonia
+* Farina Owusu, Junior Advisor, Global Programme Digital Transformation at GIZ
+* Meelis Zujev, GovStack, Estonia
