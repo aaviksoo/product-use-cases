@@ -21,12 +21,10 @@ Implementing EPR can create various environmental, economical and social benefit
 * Revenues Authority or any government revenue collection agency in charge with enforcing, assessing, collecting, and accounting for the various taxes imposed in a country.
 * Producers/business operators that manufacture, import, distribute, resell and/or assemble electrical and electronic equipments (e-waste products).
 
-## SDG Targets
+## Sustainable Development Goals (SDGs)
 
-* [11.6](https://solutions.dial.community/sdgs/sustainable\_cities\_and\_communiti): Reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management.
-* [12.4](https://solutions.dial.community/sdgs/responsible\_consumption\_and\_prod): Achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment.
-* [12.5](https://solutions.dial.community/sdgs/responsible\_consumption\_and\_prod): Substantially reduce waste generation through prevention, reduction, recycling and reuse.
-* [12.6](https://solutions.dial.community/sdgs/responsible\_consumption\_and\_prod): Encourage companies, especially large and transnational companies, to adopt sustainable practices and to integrate sustainability information into their reporting cycle.
+* [**SDG 11**](https://exchange.dial.global/sdgs/sustainable\_cities\_and\_communiti): Sustainable Cities and Communities
+* [**SDG 12**](https://exchange.dial.global/sdgs/responsible\_consumption\_and\_prod): Responsible Consumption and Production
 
 ## Building Blocks
 
@@ -140,7 +138,7 @@ Registration is the process of documenting and maintaining records of registered
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
-[**Payments**](broken-reference/)
+[**Payments**](../product-use-case/broken-reference/)
 
 [**Registration**](https://govstack.gitbook.io/bb-registration/)
 
@@ -193,7 +191,7 @@ The fee to be paid could be proportional to the amount of electrical and electro
 
 [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
 
-[**Messaging**](http://localhost:5000/s/mNnAAqNpNoSI6WELhO9t/1-description)
+[**Messaging**](http://127.0.0.1:5000/s/mNnAAqNpNoSI6WELhO9t/1-description)
 
 [**Payments**](https://govstack.gitbook.io/bb-payments/)
 
@@ -216,7 +214,7 @@ This step involves ensuring information of e-waste producers are kept up to date
 
 [**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-[**Messaging**](http://localhost:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description)
+[**Messaging**](http://127.0.0.1:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description)
 
 [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
 
@@ -237,7 +235,7 @@ The government authority leading the EPR implementation should also allocate a t
 
 [**Identification and Verification**](https://govstack.gitbook.io/bb-identity/)
 
-[**Messaging**](http://localhost:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description)
+[**Messaging**](http://127.0.0.1:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description)
 
 [**Payments**](https://govstack.gitbook.io/bb-payments/)
 
