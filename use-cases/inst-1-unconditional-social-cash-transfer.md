@@ -6,7 +6,7 @@
 | ------- | ---------------------------------- |
 | Name    | Unconditional Social Cash Transfer |
 | Sector  | Institution                        |
-| Version | 1.0                                |
+| Version | 2.0                                |
 | Status  | Published                          |
 
 This use case profiles specifically the digital integration steps within the delivery journey of a generalized unconditional social cash transfer service. Unconditional cash transfers are cash payments provided to financially disadvantaged or vulnerable people or households without requiring anything in return (i.e. without conditionality). This is different from a conditional payment where the benefit needs to be applied on the basis of achieving a certain result (e.g. higher school attendance, or prenatal care visit), or to be expended specifically on a type of resource (e.g. housing, or agricultural equipment). Governments in low- and middle-income countries increasingly use these benefit schemes in attempt to reduce poverty or other vulnerabilities, such as those related to health.
@@ -17,10 +17,10 @@ This use case profiles specifically the digital integration steps within the del
 * Local social welfare officers in charge of identifying potential beneficiaries that meet eligibility criteria, and facilitating allocation of cash transfers to eligible beneficiaries.
 * Vulnerable population/households - beneficiaries, that comply with pre-defined conditionalities and meet the eligibility criteria.
 
-## SDG Targets
+## Sustainable Development Goals (SDGs)
 
-* [1.3](https://solutions.dial.community/sdgs/no\_poverty): Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable
-* [16.6](https://solutions.dial.community/sdgs/peace\_justice\_and\_strong\_institu): Develop effective, accountable and transparent institutions at all levels
+* [**SDG 1**](https://exchange.dial.global/sdgs/no\_poverty): No Poverty
+* [**SDG 16**](https://exchange.dial.global/sdgs/peace\_justice\_and\_strong\_institu): Peace, Justice and Strong Institutions
 
 ## Building Blocks
 
@@ -48,7 +48,7 @@ Staff from the Ministry of Social Welfare or another leading agency / organizati
 * **Client communication** to facilitate the spreading of programme awareness for target audience and encouraging enrolment via mobile / media channel(s)
 * **Client education** for educating potential target beneficiaries around the approach and objective(s), benefit(s), constraint(s), partner(s), etc. of the programme
 * **Content management** for the backend Social Welfare staff to populate relevant educational and promotional content that local officers can use during on-the-ground outreach campaigns
-* **Identification and Registration** (with aid of geographic information services tool \*\*\*\* for potential use) in mapping and locating households and individuals for outreach target
+* **Identification and Registration** (with aid of geographic information services tool for potential use) in mapping and locating households and individuals for outreach target
 
 **Building Blocks**
 
@@ -66,9 +66,9 @@ Registration is the process of collecting information on potential beneficiaries
 
 **Workflows**
 
+* **Client Case Management** for creating beneficiary user records
 * **Data Collection and Reporting** for capturing interview responses or observation during registration process
 * **Identification and Registration** for enrolled identified beneficiaries in the system and enabling possible permissions for interaction with the SRIS, and (with aid of geographic information services tool) to potentially locate and track households during the interview process
-* **Client Case Management** for creating beneficiary user records
 
 **Building Blocks**
 
@@ -120,10 +120,10 @@ Eligible beneficiaries are re-contacted and asked to enroll onto the programme. 
 
 **Workflows**
 
+* **Client Case Management** for storing program specific data for tracking
 * **Data Collection and Reporting** for capturing additional programmatic information on the beneficiaries during enrolment
 * **Financial Services** for staging beneficiary account details for cash transfer processing
 * **Identification and Registration** for identifying beneficiaries and confirming enrolment
-* **Client Case Management** for storing program specific data for tracking
 
 **Building Blocks**
 
@@ -143,8 +143,8 @@ If a social cash transfer programme has enabled electronic payment processes (e.
 
 **Workflows**
 
-* **Financial Services** for processing beneficiary payment directly to their account, or for generating payroll to deposit payment amounts for withdrawal by beneficiary from designated banking institution(s) / pay-point(s) thereafter
 * **Client Case Management** for identifying and authenticating individual that is making a withdrawal, or to recall / verify deposit account information prior to payment transaction
+* **Financial Services** for processing beneficiary payment directly to their account, or for generating payroll to deposit payment amounts for withdrawal by beneficiary from designated banking institution(s) / pay-point(s) thereafter
 
 **Building Blocks**
 
@@ -156,8 +156,8 @@ Depending on the programme and on the country’s broader social protection poli
 
 **Workflows**
 
-* **Data Collection and Reporting** for capturing changes in beneficiary information
 * **Client Case Management** for identifying and recording beneficiary interaction with local officers and capturing reported cases on grievances / appeals etc., and for determining risks / conditionality by reviewing individual beneficiary client case
+* **Data Collection and Reporting** for capturing changes in beneficiary information
 * **Work Planning and Coordination** to potentially suggest and connect with departments / agencies offering other social benefits and services to eligible beneficiaries
 
 **Building Blocks**
@@ -196,15 +196,15 @@ Ensuring data is up to date to trigger: Programme exit for those who are no long
 
 **Workflows**
 
-* **Data Collection and Reporting** for routine update of information on the beneficiary client base, and integration of other databases and systems for automated data update on client cases overtime
 * **Client Case Management** for ongoing review of beneficiary case information
 * **Data Analysis and Business Intelligence** / **Decision Support** to support identification of individuals for exit or entry based on analyzing change in programme-specific / socioeconomic data
+* **Data Collection and Reporting** for routine update of information on the beneficiary client base, and integration of other databases and systems for automated data update on client cases overtime
 
 **Building Blocks**
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
-
 [**Consent**](https://govstack.gitbook.io/bb-consent/)
+
+[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
 [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
 

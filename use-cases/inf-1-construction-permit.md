@@ -6,7 +6,7 @@
 | ------- | -------------------------- |
 | Name    | Construction Permit        |
 | Sector  | Sustainable Infrastructure |
-| Version | 1.0                        |
+| Version | 2.0                        |
 | Status  | Published                  |
 
 This use case profiles the implementation process of a construction permit. A service that automates the entire construction permit approval process - from enabling online application submissions of building construction plans, to initiating verification and final approval by the local government authorities. This process is how local governments can decide whether to approve or decline construction permit applications by evaluating submitted building plans, and assessing their compliance with standard building codes and local regulations. A construction permit is an important requirement for countries to ensure buildings and structures are safe, with sound engineering, foundations and construction techniques.
@@ -20,10 +20,9 @@ Municipalities and counties/towns have traditionally managed construction permit
 * Technical team responsible for the rollout of the construction permit portal/platform initiative in the state - system integrator, building architect, software engineer, QA engineer, help desk staff, DevOps engineer etc.
 * Citizens and professionals (engineers, architects, construction supervisors) seeking permission to construct, renovate or alter a building.
 
-## SDG Targets
+## Sustainable Development Goals (SDGs)
 
-* [11.3](https://solutions.dial.community/sdgs/sustainable\_cities\_and\_communiti): By 2030, enhance inclusive and sustainable urbanization and capacity for participatory, integrated and sustainable human settlement planning and management in all countries.
-* [11.6](https://solutions.dial.community/sdgs/sustainable\_cities\_and\_communiti): Reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management.
+* [**SDG 11**](https://exchange.dial.global/sdgs/sustainable\_cities\_and\_communiti): Sustainable Cities and Communities
 
 ## Building Blocks
 
@@ -54,12 +53,12 @@ Awareness campaigns can be organized across municipalities informing citizens ab
 
 **Workflows**
 
-* **Client communication** to facilitate information dissemination on the new digitized construction permit via government and municipalities' building construction permit websites, social media, and national media channel(s).
-* **e-Marketplace** as a web-based application to promote and disseminate information of all government services offered to citizens, and guidance on how to access them.
-* **Content management** for the development of a user manual and training guide on the digitized service for building plan officials and/or users wishing to submit a construction permit application.
-* **Staff communication and education** for informing construction permit issuing staff authorities about the construction permit. Organize training sessions for staff on how to review applications, check fee payment status, and process and issue permits - all online.
-* **Identification and Registration** for providing an administration account for all qualified government building plan staff with authority to issue construction permits.
-* **Data Collection and Reporting** for capturing the new construction permit and regulation changes, and to report this data to all relevant stakeholders.
+* **Client Communication** to facilitate information dissemination on the new digitized construction permit via government and municipalities' building construction permit websites, social media, and national media channel(s)
+* **Content Management** for the development of a user manual and training guide on the digitized service for building plan officials and/or users wishing to submit a construction permit application
+* **Data Collection and Reporting** for capturing the new construction permit and regulation changes, and to report this data to all relevant stakeholders
+* **e-Marketplace** as a web-based application to promote and disseminate information of all government services offered to citizens, and guidance on how to access them
+* **Identification and Registration** for providing an administration account for all qualified government building plan staff with authority to issue construction permits
+* **Staff Communication and Education** for informing construction permit issuing staff authorities about the construction permit. Organize training sessions for staff on how to review applications, check fee payment status, and process and issue permits - all online
 
 **Building Blocks**
 
@@ -75,9 +74,9 @@ In certain countries, there is a statewide online construction permit platform i
 
 **Workflows**
 
-* **Data Collection and Reporting** for capturing, managing and evaluating registration application data submitted, and in some cases - allocating personalized login credentials per user.
-* **Identification** to easily be able to identify and track registered users.
-* **Client Case Management** to help automate and manage the registration process, and respond to any inquiries or issues around registering on the platform.
+* **Client Case Management** to help automate and manage the registration process, and respond to any inquiries or issues around registering on the platform
+* **Data Collection and Reporting** for capturing, managing and evaluating registration application data submitted, and in some cases - allocating personalized login credentials per user
+* **Identification** to easily be able to identify and track registered users
 
 **Building Blocks**
 
@@ -99,10 +98,10 @@ Depending on the country context, the application process can require applicants
 
 **Workflows**
 
-* **Client Case Management** to help automate and manage the permit application submission process. Support in vetting applications - ensuring the applicants meet the eligibility requirements and have submitted all required documentations. Also schedule any necessary follow-up site visits by the building plan inspection authority.
-* **Data Collection and Reporting** for capturing and evaluating permit application data submitted by the user applicant.
-* **Identification** to easily be able to identify and track registered applicant applying for a construction permit.
-* **Financial Services** for processing the permit application fee and generating payment confirmation receipt.
+* **Client Case Management** to help automate and manage the permit application submission process. Support in vetting applications - ensuring the applicants meet the eligibility requirements and have submitted all required documentations. Also schedule any necessary follow-up site visits by the building plan inspection authority
+* **Data Collection and Reporting** for capturing and evaluating permit application data submitted by the user applicant
+* **Financial Services** for processing the permit application fee and generating payment confirmation receipt
+* **Identification** to easily be able to identify and track registered applicant applying for a construction permit
 
 **Building Blocks**
 
@@ -118,7 +117,7 @@ Depending on the country context, the application process can require applicants
 
 ### 4 - Data Verification and Validation
 
-Data within the online construction permit is generally checked\* by the Central Level Ministry in charge of urban planning and the local permit issuing municipality departments, against other government databases (e.g., ID, tax, land titles, utilities, etc.) in order to fill in any missing gaps, verify and validate collected information, including authentication of all records. \*Data checking approaches also vary: sometimes batch-sharing via CD, sometimes full interoperability. This step may be done for both the registration (step 2), and application process (step 3) - whereby before any application is reviewed, each applicant's submitted data will be scrutinized and vetted. \*\*To address data privacy issues, in some countries, data sharing permission should have already been requested and granted from the applicant, to conduct the data checking process against other government databases.
+Data within the online construction permit is generally checked\* by the Central Level Ministry in charge of urban planning and the local permit issuing municipality departments, against other government databases (e.g., ID, tax, land titles, utilities, etc.) in order to fill in any missing gaps, verify and validate collected information, including authentication of all records. Data checking approaches also vary: sometimes batch-sharing via CD, sometimes full interoperability. This step may be done for both the registration (step 2), and application process (step 3) - whereby before any application is reviewed, each applicant's submitted data will be scrutinized and vetted. To address data privacy issues, in some countries, data sharing permission should have already been requested and granted from the applicant, to conduct the data checking process against other government databases.
 
 **Workflows**
 
@@ -147,8 +146,8 @@ In most countries that have implemented the construction permit, a building auth
 
 **Workflows**
 
-* **Client Case Management** for reviewing submitted applications and communicating any application status updates or additional information needed to the applicant.
-* **Data Analysis and Business Intelligence / Decision Support** for approving or rejecting applications - based on compliance with building regulations, submission of required documents, and existing criteria (e.g. via checklist, or category-based).
+* **Client Case Management** for reviewing submitted applications and communicating any application status updates or additional information needed to the applicant
+* **Data Analysis and Business Intelligence / Decision Support** for approving or rejecting applications - based on compliance with building regulations, submission of required documents, and existing criteria (e.g. via checklist, or category-based)
 
 **Building Blocks**
 
@@ -166,9 +165,9 @@ If an electronic payment process is enabled, then applicants can pay these fees 
 
 **Workflows**
 
-* **Financial Services** for processing all fees associated with the construction permit approval process and generating payment confirmation receipts.
-* **Client Case Management** for calculating fees, and monitoring/verifying that all required payment transactions, per applicant, has been fully processed and received. Also ensuring that applicants receive payment confirmation and receipt.
-* **Content Management** for the development of documentation summarizing construction permit fees and calculation method.
+* **Client Case Management** for calculating fees, and monitoring/verifying that all required payment transactions, per applicant, has been fully processed and received. Also ensuring that applicants receive payment confirmation and receipt
+* **Content Management** for the development of documentation summarizing construction permit fees and calculation method
+* **Financial Services** for processing all fees associated with the construction permit approval process and generating payment confirmation receipts
 
 **Building Blocks**
 
@@ -190,8 +189,8 @@ Once the building authority also ensures that all outstanding fees have been pai
 
 **Workflows**
 
-* **Data Collection and Reporting** for capturing and tracking all approved permit issuances and permit holders and informing all relevant authorities of approval decision.
-* **Client Case Management** to check that the applicant has paid all outstanding fees. To communicate approval decision to the applicant and coordinate permit pickup should allocation of a physical copy be a requirement.
+* **Client Case Management** to check that the applicant has paid all outstanding fees. To communicate approval decision to the applicant and coordinate permit pickup should allocation of a physical copy be a requirement
+* **Data Collection and Reporting** for capturing and tracking all approved permit issuances and permit holders and informing all relevant authorities of approval decision
 
 **Building Blocks**
 
@@ -211,8 +210,8 @@ This step involves ensuring that there is a virtual help desk and/or physical su
 
 **Workflows**
 
-* **Data Collection and Reporting** for capturing reoccurring complaints, queries and feedback received from the construction permit service users and permit holders. And integration of other databases and systems for automated data update on client cases overtime.
-* **Client Case Management** for identifying and capturing reported cases on grievances / appeals etc., and for determining decisions/actions to proceed with by reviewing individual applicant's client case.
+* **Client Case Management** for identifying and capturing reported cases on grievances / appeals etc., and for determining decisions/actions to proceed with by reviewing individual applicant's client case
+* **Data Collection and Reporting** for capturing reoccurring complaints, queries and feedback received from the construction permit service users and permit holders. And integration of other databases and systems for automated data update on client cases overtime
 
 **Building Blocks**
 
@@ -236,8 +235,8 @@ In certain countries, once the construction work has been completed, the buildin
 
 **Workflows**
 
-* **Financial Services** for processing fine payments of construction works not complying with the approved building design.
-* **Client Case Management** for monitoring building construction compliance by all permit holders. Also scheduling all site inspection visits, tracking site inspection reports, and communicating with permit holders.
+* **Client Case Management** for monitoring building construction compliance by all permit holders. Also scheduling all site inspection visits, tracking site inspection reports, and communicating with permit holders
+* **Financial Services** for processing fine payments of construction works not complying with the approved building design
 
 **Building Blocks**
 
