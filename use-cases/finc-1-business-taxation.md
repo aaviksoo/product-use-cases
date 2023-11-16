@@ -28,16 +28,16 @@ Moreover, digitalizing the tax collection process is now seen as a key mean to c
 
 ## Building Blocks
 
-* [**Consent**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
-* [**Digital Registries**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/JMaO4Mpz4NPyGolHgYNS)
-* [**E-Signature**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/EiApewuu4GrhgGCBTps0)
-* [**GIS**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
-* [**Identity**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
-* [**Information Mediator**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
+* [**Consent**](https://govstack.gitbook.io/bb-consent/)
+* [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/)
+* [**E-Signature**](https://govstack.gitbook.io/bb-esignature)
+* [**GIS**](https://govstack.gitbook.io/bb-gis)
+* [**Identity**](https://govstack.gitbook.io/bb-identity/)
+* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/)
 * [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
-* [**Payments**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/6Cj5POQHYPnh5QnRgPDm)
-* [**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)
-* [**Workflow**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
+* [**Payments**](https://govstack.gitbook.io/bb-payments/)
+* [**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+* [**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ## Source Documents
 
@@ -58,8 +58,9 @@ Success in digitalizing the tax administration process requires a high level of 
 
 **Building Blocks**
 
-* [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
-* [**Workflow**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ### 2 - Outreach Communications
 
@@ -73,10 +74,13 @@ For communication with the target business entity taxpayers - the tax administra
 
 **Building Blocks**
 
-* [**Consent**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
-* [**Digital Registries**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/JMaO4Mpz4NPyGolHgYNS)
-* [**Messaging**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/izJ8qoBNDEfETK9xzjLp)
-* [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
+
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
+
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
 ### 3 - Registration
 
@@ -90,12 +94,17 @@ Registration is the process of collecting information of all eligible tax paying
 
 #### Building Blocks
 
-* [**Consent**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
-* [**Digital Registries**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/JMaO4Mpz4NPyGolHgYNS)
-* [**E-Signature**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/EiApewuu4GrhgGCBTps0)
-* [**GIS**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
-* [**Identity**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
-* [**Information Mediator**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
+
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/)
+
+[**E-Signature**](https://govstack.gitbook.io/bb-esignature)
+
+[**GIS**](https://govstack.gitbook.io/bb-gis)
+
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
+
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/)
 
 ### 4 - Data Verification and Validation
 
@@ -108,12 +117,17 @@ Data verification and validation should be coordinated with all relevant governm
 
 #### Building Blocks
 
-* [**Consent**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
-* [**Digital Registries**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/JMaO4Mpz4NPyGolHgYNS)
-* [**E-Signature**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/EiApewuu4GrhgGCBTps0)
-* [**Identity**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
-* [**Information Mediator**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
-* [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
+
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/)
+
+[**E-Signature**](https://govstack.gitbook.io/bb-esignature)
+
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
+
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/)
+
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
 ### 5 - Registration Fee
 
@@ -126,11 +140,15 @@ To complete the registration, a fee can be charged to cover administration cost 
 
 **Building Blocks**
 
-* [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
-* [**Identity**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
-* [**Information Mediator**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
-* [**Messaging**](http://127.0.0.1:5000/s/mNnAAqNpNoSI6WELhO9t/1-description)
-* [**Payments**](https://govstack.gitbook.io/bb-payments/)
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/)
+
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
+
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/)
+
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+
+[**Payments**](https://govstack.gitbook.io/bb-payments/)
 
 ### 6 - Tax Submission
 
@@ -143,11 +161,15 @@ To file and submit all requirements for tax submission purposes, users (business
 
 **Building Blocks**
 
-* [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
-* [**Identity**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
-* [**Information mediator**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
-* [**Messaging**](http://127.0.0.1:5000/s/mNnAAqNpNoSI6WELhO9t/1-description)
-* [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/)
+
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
+
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/)
+
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
 ### 7 - Tax Payment
 
@@ -163,12 +185,17 @@ The tax platform used can automate the tax calculation process by taking into ac
 
 **Building Blocks**
 
-* [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
-* [**Identity**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
-* [**Information mediator**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
-* [**Messaging**](http://127.0.0.1:5000/s/mNnAAqNpNoSI6WELhO9t/1-description)
-* [**Payments**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/6Cj5POQHYPnh5QnRgPDm)
-* [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/)
+
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
+
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/)
+
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+
+[**Payments**](https://govstack.gitbook.io/bb-payments/)
+
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
 ### 8 - Tax Payer Account
 
@@ -182,11 +209,15 @@ This step is where the tax paying business entity can keep track of all filed ta
 
 **Building Blocks**
 
-* [**Consent**](https://govstack.gitbook.io/bb-consent/)
-* [**Identity**](https://govstack.gitbook.io/bb-identity/)
-* [**Messaging**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/izJ8qoBNDEfETK9xzjLp)
-* [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
-* [**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
+
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
+
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ### 9 - Audit
 
@@ -201,11 +232,15 @@ An experienced auditor will then manually review the submitted tax information. 
 
 **Building Blocks**
 
-* [**Consent**](https://govstack.gitbook.io/bb-consent/)
-* [**Identity**](https://govstack.gitbook.io/bb-identity/)
-* [**Messaging**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/izJ8qoBNDEfETK9xzjLp)
-* [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
-* [**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
+
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
+
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ### 10 - Ongoing Case Management
 
@@ -219,11 +254,15 @@ This step involves ensuring information of businesses are kept up to date - spec
 
 **Building Blocks**
 
-* [**Consent**](https://govstack.gitbook.io/bb-consent/)
-* [**Identity**](https://govstack.gitbook.io/bb-identity/)
-* [**Messaging**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/izJ8qoBNDEfETK9xzjLp)
-* [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
-* [**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
+
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
+
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ### 11 - Ongoing M\&E
 
@@ -236,10 +275,13 @@ The primary agent should conduct M\&E exercises to acquire feedback from all rel
 
 **Building Blocks**
 
-* [**Consent**](https://govstack.gitbook.io/bb-consent/)
-* [**Identity**](https://govstack.gitbook.io/bb-identity/)
-* [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
-* [**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
+
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
+
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ## Contributors
 

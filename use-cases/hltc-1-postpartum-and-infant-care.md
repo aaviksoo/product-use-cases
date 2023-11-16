@@ -26,13 +26,13 @@ Postpartum maternal and infant mortality is still high across multiple low and m
 ## Building Blocks
 
 * [**Consent**](https://govstack.gitbook.io/bb-consent)
-* [**Identification and Verification**](https://govstack.gitbook.io/bb-identity)
+* [**Identity**](https://govstack.gitbook.io/bb-identity/)
 * [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 * [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 * [**Payments**](https://govstack.gitbook.io/bb-payments)
 * [**Registration**](https://govstack.gitbook.io/bb-registration)
 * [**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)
-* [**Workflow and Algorithm**](https://govstack.gitbook.io/bb-workflow)
+* [**Workflow**](https://govstack.gitbook.io/bb-workflow)
 
 ## Source Documents
 
@@ -74,11 +74,11 @@ For example, some countries use a centralized information technology based appli
 
 [**Consent**](https://govstack.gitbook.io/bb-consent/)
 
-[**Registration**](https://govstack.gitbook.io/bb-registration/)
-
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+
+[**Registration**](https://govstack.gitbook.io/bb-registration/)
 
 ### 3 - Data Verification and Validation
 
@@ -93,7 +93,7 @@ Data within the Mother and Child Tracking System (MCTS) is generally checked by 
 
 [**Consent**](https://govstack.gitbook.io/bb-consent/)
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
@@ -111,7 +111,7 @@ Community Healthcare workers determine eligibility by reviewing all submitted re
 
 **Building Blocks**
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
@@ -130,7 +130,7 @@ Enrollment is the action of being enrolled and accepted as a beneficiary to rece
 
 **Building Blocks**
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
@@ -149,7 +149,7 @@ Certain mother and child community health programs have a financial incentive in
 
 **Building Blocks**
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
@@ -173,11 +173,13 @@ This step involves ongoing interaction with beneficiaries via Community Health W
 
 [**Consent**](https://govstack.gitbook.io/bb-consent/)
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
 [**Payments**](https://govstack.gitbook.io/bb-payments/)
+
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ### 8 - Ongoing M\&E
 
@@ -193,9 +195,11 @@ National healthcare managers and officers make decisions and management choices 
 
 [**Consent**](https://govstack.gitbook.io/bb-consent/)
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ### 9 - Updating
 
@@ -211,7 +215,7 @@ Ensuring data is up to date to trigger: Programme exit for those who are no long
 
 [**Consent**](https://govstack.gitbook.io/bb-consent/)
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 

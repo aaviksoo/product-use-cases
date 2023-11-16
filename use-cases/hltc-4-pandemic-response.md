@@ -26,15 +26,15 @@ Digitalizing pandemic response can facilitate rapid information sharing of accur
 ## Building Blocks
 
 * [**Consent**](https://govstack.gitbook.io/bb-consent/)
-* [**Digital Registry**](https://govstack.gitbook.io/specification/v/version-0.9.0/building-blocks/digital-registries)&#x20;
-* [**E-Signature**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/EiApewuu4GrhgGCBTps0)
-* [**GIS**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
-* [**Identification and Verification**](https://govstack.gitbook.io/bb-identity/)
+* [**Digital Registry** ](https://govstack.gitbook.io/bb-digital-registries)
+* [**E-Signature**](https://govstack.gitbook.io/bb-esignature)
+* [**GIS**](https://govstack.gitbook.io/bb-gis)
+* [**Identity**](https://govstack.gitbook.io/bb-identity/)
 * [**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)
 * [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 * [**Registration**](https://govstack.gitbook.io/bb-registration)
-* [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
-* [**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+* [**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+* [**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ## Source Documents
 
@@ -59,11 +59,11 @@ Once a disease outbreak has been declared in a country, i.e., the emergency oper
 
 [**Consent**](https://govstack.gitbook.io/bb-consent/)
 
-[**GIS**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
+[**GIS**](https://govstack.gitbook.io/bb-gis)
 
-[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
-[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ### 2 - Outreach Communications
 
@@ -79,11 +79,11 @@ Communication outreach should be facilitated often to improve public awareness o
 
 **Building Blocks**
 
-[**GIS**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
+[**GIS**](https://govstack.gitbook.io/bb-gis)
 
 [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 
-[**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
 ### 3 - Enrollment
 
@@ -99,9 +99,9 @@ In this use case, enrollment is the process of collecting and documenting data o
 
 [**Consent**](https://govstack.gitbook.io/bb-consent/)
 
-[**E-Signature**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/EiApewuu4GrhgGCBTps0)
+[**E-Signature**](https://govstack.gitbook.io/bb-esignature)
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
 [**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)
 
@@ -118,11 +118,11 @@ In this step, registration data needs to be verified and validated. The person's
 
 **Building Blocks**
 
-[**Consent**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
 
 [**Identity**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
 
-[**Information Mediator**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
 ### 5 - Supply Chain
 
@@ -138,15 +138,15 @@ In a pandemic situation, an effective supply chain and logistics management syst
 
 [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
 [**Information Mediator** ](https://govstack.gitbook.io/bb-information-mediation)
 
 [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 
-[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
-[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ### 6 - Ongoing Case Management
 
@@ -167,9 +167,9 @@ It is also essential to deploy some type of contact tracing tools to track the c
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
-[**Messaging**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/izJ8qoBNDEfETK9xzjLp)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 
-[**Workflow**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ### 7 - Ongoing Monitoring and Evaluation
 
@@ -184,13 +184,13 @@ Administrators at the Ministry of Health and/or public health agency in charge o
 
 [**Consent**](https://govstack.gitbook.io/bb-consent/)
 
-[**GIS**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
+[**GIS**](https://govstack.gitbook.io/bb-gis)
 
 [**Identity**](https://govstack.gitbook.io/bb-identity/)
 
-[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
-[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ## Contributors
 

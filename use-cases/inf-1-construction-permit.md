@@ -27,14 +27,14 @@ Municipalities and counties/towns have traditionally managed construction permit
 ## Building Blocks
 
 * [**Consent**](https://govstack.gitbook.io/bb-consent/)
-* [**Digital Registry**](https://govstack.gitbook.io/specification/v/version-0.9.0/building-blocks/digital-registries)
-* [**Identification and Verification**](https://govstack.gitbook.io/bb-identity/)
+* [**Digital Registry**](https://govstack.gitbook.io/bb-digital-registries)
+* [**Identity**](https://govstack.gitbook.io/bb-identity/)
 * [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 * [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 * [**Payments**](https://govstack.gitbook.io/bb-payments)
 * [**Registration**](https://govstack.gitbook.io/bb-registration)
-* [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
-* [**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+* [**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+* [**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ## Source Documents
 
@@ -64,7 +64,7 @@ Awareness campaigns can be organized across municipalities informing citizens ab
 
 [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 
-[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
 ### 2 - Registration
 
@@ -84,11 +84,13 @@ In certain countries, there is a statewide online construction permit platform i
 
 [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
 [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+
+[**Registration**](https://govstack.gitbook.io/bb-registration)
 
 ### 3 - Application Process
 
@@ -109,7 +111,7 @@ Depending on the country context, the application process can require applicants
 
 [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
 [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 
@@ -130,11 +132,11 @@ Data within the online construction permit is generally checked\* by the Central
 
 [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
-[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ### 5 - Eligibility Determination
 
@@ -151,11 +153,11 @@ In most countries that have implemented the construction permit, a building auth
 
 **Building Blocks**
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
-[**Messaging**](http://127.0.0.1:5000/s/mNnAAqNpNoSI6WELhO9t/1-description)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 
 ### 6 - Payment
 
@@ -173,11 +175,11 @@ If an electronic payment process is enabled, then applicants can pay these fees 
 
 [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
 
-[**Messaging**](http://127.0.0.1:5000/s/mNnAAqNpNoSI6WELhO9t/1-description)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 
 [**Payments**](https://govstack.gitbook.io/bb-payments/)
 
-[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ### **7 - Permit Issuing**
 
@@ -198,11 +200,11 @@ Once the building authority also ensures that all outstanding fees have been pai
 
 [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
 
-[**Messaging**](http://127.0.0.1:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 
-[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
-[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ### **8 - Ongoing Case Management**
 
@@ -219,13 +221,13 @@ This step involves ensuring that there is a virtual help desk and/or physical su
 
 [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
-[**Messaging**](http://127.0.0.1:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 
-[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
-[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ### **9 - Ongoing M\&E**
 
@@ -242,13 +244,13 @@ In certain countries, once the construction work has been completed, the buildin
 
 [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
 
-[**Identification and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
-[**Messaging**](http://127.0.0.1:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 
 [**Payments**](https://govstack.gitbook.io/bb-payments/)
 
-[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ## Contributors
 

@@ -29,15 +29,14 @@ Thus, implementing a harmonized approach to disaster management requires systema
 ## Building Blocks
 
 * [**Consent**](https://govstack.gitbook.io/bb-consent/)
-* [**Digital Registry**](https://govstack.gitbook.io/specification/v/version-0.9.0/building-blocks/digital-registries)
-* [**GIS**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
-* [**Identification and Verification**](https://govstack.gitbook.io/bb-identity/)
+* [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/)
+* [**GIS**](https://govstack.gitbook.io/bb-gis)
+* [**Identity**](https://govstack.gitbook.io/bb-identity/)
 * [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 * [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 * [**Payments**](https://govstack.gitbook.io/bb-payments)
-* [**Registration**](https://govstack.gitbook.io/bb-registration)
-* [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
-* [**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+* [**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+* [**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ## Source Documents
 
@@ -61,13 +60,13 @@ In certain countries, disaster management is a task which is shared between all 
 
 **Building Blocks**
 
-[**GIS**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
+[**GIS**](https://govstack.gitbook.io/bb-gis)
 
 [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 
-[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
-[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ### 2 - Risk Management & Planning
 
@@ -82,13 +81,13 @@ The purpose of this step is to map the identified disaster scenarios/risks and d
 
 **Building Blocks**
 
-[**GIS**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
+[**GIS**](https://govstack.gitbook.io/bb-gis)
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
-[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
-[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ### 3 - Early Warning Systems
 
@@ -109,9 +108,9 @@ As it is instrumental for people to know what to do during a crisis or disaster,
 
 [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
 
-[**GIS**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
+[**GIS**](https://govstack.gitbook.io/bb-gis)
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
@@ -135,17 +134,17 @@ Depending on the location(s) of the disaster, effective cooperation between emer
 
 [**Consent**](https://govstack.gitbook.io/bb-consent/)
 
-[**GIS**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
+[**GIS**](https://govstack.gitbook.io/bb-gis)
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
 [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 
-[**Payments**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/uJEXiAICNFsZ8S17X5KP/)
+[**Payments**](https://govstack.gitbook.io/bb-payments)
 
-[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
-[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ### **5 - Community Engagement**
 
@@ -158,9 +157,11 @@ Community engagement is a critical component of emergency management and disaste
 
 **Building Blocks**
 
-* [**Messaging**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/izJ8qoBNDEfETK9xzjLp)
-* [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
-* [**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ### **6 - International Cooperation**
 
@@ -172,9 +173,9 @@ Since most municipalities are too small to handle major hazards, and certain cou
 
 **Building Blocks**
 
-[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
-[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ### **7 - Ongoing Case Management**
 
@@ -188,11 +189,15 @@ Depending on the country context and the systems used in a country's disaster ma
 
 **Building Blocks**
 
-* [**Consent**](https://govstack.gitbook.io/bb-consent/)
-* [**Identity**](https://govstack.gitbook.io/bb-identity/)
-* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
-* [**Messaging**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/izJ8qoBNDEfETK9xzjLp)
-* [**Workflow**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
+
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
+
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ### **8 - Ongoing Monitoring and Evaluation**
 
@@ -206,11 +211,15 @@ Monitoring insights are essential to facilitate learning and continuous improvem
 
 **Building Blocks**
 
-* [**Consent**](https://govstack.gitbook.io/bb-consent/)
-* [**Identity**](https://govstack.gitbook.io/bb-identity/)
-* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
-* [**Messaging**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/izJ8qoBNDEfETK9xzjLp)
-* [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
+
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
+
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
 ## Contributors
 
