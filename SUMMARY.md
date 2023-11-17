@@ -3,7 +3,7 @@
 * [Reference Use Cases](README.md)
 * [Use Cases](use-cases.md)
   * [AGR-1 - Market Linkage](use-cases/agr-1-market-linkage.md)
-  * [AGR-2 - Rural Advisory Service for Farmers](use-cases/agr-1-market-linkage-1.md)
+  * [AGR-2 - Rural Advisory Service for Farmers](use-cases/agr-2-rural-advisory-service-for-farmers.md)
   * [CLMT-1 - Disaster Management](use-cases/clmt-1-disaster-management.md)
   * [EDU-1 - Remote Learning](use-cases/edu-1-remote-learning.md)
   * [ENV-1 - Extended Producer Responsibility (EPR)](use-cases/env-1-extended-producer-responsibility-epr.md)
