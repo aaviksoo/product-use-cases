@@ -29,13 +29,13 @@ Governments in low- and middle-income countries are increasingly driven to ident
 
 * [**Consent**](https://govstack.gitbook.io/bb-consent)
 * [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
-* [**eMarketplace**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/PUIGDILlDRSOB6K47k6e/)
-* [**Identification and Verification**](https://govstack.gitbook.io/bb-identity)
+* [**eMarketplace**](https://govstack.gitbook.io/bb-emarketplace)
+* [**Identity**](https://govstack.gitbook.io/bb-identity/)
 * [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 * [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 * [**Payments**](https://govstack.gitbook.io/bb-payments)
 * [**Registration**](https://govstack.gitbook.io/bb-registration)
-* [**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)
+* [**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 * [**Workflow**](https://govstack.gitbook.io/bb-workflow)
 
 ## Source Documents
@@ -62,7 +62,7 @@ The campaign is spread using promotional services - mobile messaging and/or aire
 
 [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 
-[**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
 [**Workflow**](https://govstack.gitbook.io/bb-workflow)
 
@@ -81,9 +81,9 @@ Registration is the process of collecting standard information of a target group
 
 [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
 
-[**eMarketplace**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/PUIGDILlDRSOB6K47k6e/)
+[**eMarketplace**](https://govstack.gitbook.io/bb-emarketplace)
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
@@ -102,7 +102,7 @@ As the purpose of the Marketplace is to easily facilitate the buying and selling
 
 [**Consent**](https://govstack.gitbook.io/bb-consent/)
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
@@ -122,7 +122,7 @@ Users should be able to select what kind of services they are seeking to access 
 
 **Building Blocks**
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
@@ -142,7 +142,7 @@ The Marketplace needs listing pages - pages on the platform where sellers can di
 
 **Building Blocks**
 
-[**eMarketplace**](http://127.0.0.1:5000/s/zdXe8NbIMZIv5sydPBf6/)
+[**eMarketplace**](https://govstack.gitbook.io/bb-emarketplace)
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
@@ -161,7 +161,7 @@ On-platform communication is typically achieved through a messaging tool; a comm
 
 [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 
-[**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
 ### 7 - Seller Transaction&#x20;
 
@@ -178,9 +178,9 @@ When filing out their profile with their necessary information and phone number,
 
 **Building Blocks**
 
-[**eMarketplace**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/PUIGDILlDRSOB6K47k6e/)
+[**eMarketplace**](https://govstack.gitbook.io/bb-emarketplace)
 
-[**Identification and Verification**](https://govstack.gitbook.io/bb-identity)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
@@ -188,7 +188,7 @@ When filing out their profile with their necessary information and phone number,
 
 [**Payments**](https://govstack.gitbook.io/bb-payments/)
 
-[**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
 ### 8 - Buyer Transaction
 
@@ -205,9 +205,9 @@ When filing out their profile with their necessary information and phone number,
 
 **Building Blocks**
 
-[**eMarketplace**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/PUIGDILlDRSOB6K47k6e/)
+[**eMarketplace**](https://govstack.gitbook.io/bb-emarketplace)
 
-[**Identification and Verification**](https://govstack.gitbook.io/bb-identity)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
@@ -215,7 +215,7 @@ When filing out their profile with their necessary information and phone number,
 
 [**Payments**](https://govstack.gitbook.io/bb-payments/)
 
-[**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
 ### 9 - Physcial Delivery of Goods
 
@@ -246,7 +246,7 @@ The government entity running the Marketplace platform has a team of case manger
 
 **Building Blocks**
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 

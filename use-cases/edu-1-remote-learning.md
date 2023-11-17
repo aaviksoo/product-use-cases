@@ -26,19 +26,13 @@ Remote learning systems can be used to enhance traditional schooling, for vocati
 
 ## Building Blocks
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)
-
-[**Identity**](https://govstack.gitbook.io/bb-identity/)
-
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
-
-[**Registration**](https://govstack.gitbook.io/bb-registration/)
-
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
-
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
-
-[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+* [**Consent**](https://govstack.gitbook.io/bb-consent/)
+* [**Identity**](https://govstack.gitbook.io/bb-identity/)
+* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+* [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+* [**Registration**](https://govstack.gitbook.io/bb-registration/)
+* [**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+* [**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ## Source Documents
 
@@ -110,7 +104,7 @@ Educators can create courses, upload course materials, including lecture notes, 
 
 [**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
-[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ### 5 - Student Functions
 
@@ -127,7 +121,7 @@ Learners can access course content when released by instructors, submit assignme
 
 [**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
-[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ### 6 - Provide Evidence of Learning
 
@@ -162,9 +156,9 @@ The platform tracks student performance, engagement, and progress throughout the
 
 [**Identity**](https://govstack.gitbook.io/bb-identity/)
 
-[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
-[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ### 7 - Archiving/Sunsetting
 
@@ -180,11 +174,11 @@ The system should cater to the archiving/sunsetting of student data, cohort data
 
 [**Identity**](https://govstack.gitbook.io/bb-identity/)
 
-[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
-
 [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 
-[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ## **Contributors**
 

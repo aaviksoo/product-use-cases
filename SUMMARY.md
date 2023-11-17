@@ -8,6 +8,7 @@
   * [EDU-1 - Remote Learning](use-cases/edu-1-remote-learning.md)
   * [ENV-1 - Extended Producer Responsibility (EPR)](use-cases/env-1-extended-producer-responsibility-epr.md)
   * [FINC-1 - Business Taxation](use-cases/finc-1-business-taxation.md)
+  * [FINC-2 - Inclusive Financial Services for SMEs](use-cases/finc-2-inclusive-financial-services-for-smes.md)
   * [HLTC-1 - Postpartum and Infant Care](use-cases/hltc-1-postpartum-and-infant-care.md)
   * [HLTC-2 - Telemedicine](use-cases/hltc-2-telemedicine.md)
   * [HLTC-3 - Smart Vaccination](use-cases/hltc-3-smart-vaccination.md)

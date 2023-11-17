@@ -25,13 +25,13 @@ This use case profiles specifically the digital integration steps within the del
 ## Building Blocks
 
 * [**Consent**](https://govstack.gitbook.io/bb-consent)
-* [**Identification and Verification**](https://govstack.gitbook.io/bb-identity)
+* [**Identity**](https://govstack.gitbook.io/bb-identity)
 * [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 * [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 * [**Payments**](https://govstack.gitbook.io/bb-payments)
 * [**Registration**](https://govstack.gitbook.io/bb-registration)
 * [**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)
-* [**Workflow and Algorithm**](https://govstack.gitbook.io/bb-workflow)
+* [**Workflow**](https://govstack.gitbook.io/bb-workflow)
 
 ## Source Documents
 
@@ -74,7 +74,7 @@ Registration is the process of collecting information on potential beneficiaries
 
 [**Consent**](https://govstack.gitbook.io/bb-consent/)
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
@@ -93,7 +93,7 @@ Data within the SRIS Social Registry Information System (SRIS) is generally chec
 
 [**Consent**](https://govstack.gitbook.io/bb-consent/)
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
@@ -108,7 +108,7 @@ NOTE: Depending on the country and programme, eligibility determination takes di
 
 **Building Blocks**
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
@@ -127,7 +127,7 @@ Eligible beneficiaries are re-contacted and asked to enroll onto the programme. 
 
 **Building Blocks**
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
@@ -164,11 +164,11 @@ Depending on the programme and on the country’s broader social protection poli
 
 [**Consent**](https://govstack.gitbook.io/bb-consent/)
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
-[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
-[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow)
 
 ### 8 - Ongoing M\&E
 
@@ -184,11 +184,11 @@ Central level managers and local social welfare officers base decisions and mana
 
 [**Consent**](https://govstack.gitbook.io/bb-consent/)
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
-[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
-[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow)
 
 ### 9 - Updating
 
@@ -204,11 +204,11 @@ Ensuring data is up to date to trigger: Programme exit for those who are no long
 
 [**Consent**](https://govstack.gitbook.io/bb-consent/)
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
-[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
-[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow)
 
 ## Contributors
 

@@ -30,17 +30,16 @@ Local connectivity levels must be considered when designing a telemedicine proje
 
 ## Building Blocks
 
-* [**Consent**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
-* [**Digital Registries**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/JMaO4Mpz4NPyGolHgYNS)
-* [**E-Signature**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/EiApewuu4GrhgGCBTps0)
-* [**GIS**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
-* [**Identity**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
-* [**Information Mediator**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
+* [**Consent**](https://govstack.gitbook.io/bb-consent/)
+* [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
+* [**E-Signature**](https://govstack.gitbook.io/bb-esignature)
+* [**GIS**](https://govstack.gitbook.io/bb-gis)
+* [**Identity**](https://govstack.gitbook.io/bb-identity/)
+* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/)
 * [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
-* [**Payments**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/6Cj5POQHYPnh5QnRgPDm)
-* [**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)
-* [**Workflow**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
-* [**UX**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/mZjQFipOkdLHeoXnKg9n)
+* [**Payments**](https://govstack.gitbook.io/bb-payments/)
+* [**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+* [**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ## Source Documents
 
@@ -60,7 +59,7 @@ In cases where telemedicine is being pursued as a centralized activity to meet n
 
 **Building Blocks**
 
-* [**GIS**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
+[**GIS**](https://govstack.gitbook.io/bb-gis)
 
 ### Step 2 - Outreach Communications
 
@@ -75,8 +74,9 @@ Staff from the Ministry of Health, private telehealth companies, or other interm
 
 #### Building Blocks
 
-* [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
-* [**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
 ### Step 3 - Health Provider Registration
 
@@ -94,11 +94,15 @@ In this step, all healthcare workers will also provide information on qualificat
 
 #### Building Blocks
 
-* [**Consent**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
-* [**Digital Registries**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/JMaO4Mpz4NPyGolHgYNS)
-* [**E-Signature**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/EiApewuu4GrhgGCBTps0)
-* [**Identity**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
-* [**Information Mediator**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
+
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
+
+[**E-Signature**](https://govstack.gitbook.io/bb-esignature)
+
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
+
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/)
 
 ### Step 4 - Patient Registration
 
@@ -112,10 +116,13 @@ Registration for patients can vary depending on specific country/district-level 
 
 #### Building Blocks
 
-* [**Consent**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
-* [**E-Signature**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/EiApewuu4GrhgGCBTps0)
-* [**Identity**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
-* [**Information Mediator**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
+
+[**E-Signature**](https://govstack.gitbook.io/bb-esignature)
+
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
+
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/)
 
 ### Step 5 - Data Verification and Validation
 
@@ -128,9 +135,11 @@ In this step, registration data needs to be verified and validated. Healthcare p
 
 #### Building Blocks
 
-* [**Consent**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
-* [**Identity**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
-* [**Information Mediator**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
+
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
+
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/)
 
 ### Step 6 - System Access
 
@@ -142,9 +151,7 @@ Patients, healthcare providers, and administrators need access to telehmedicine 
 
 #### Building Blocks
 
-* [**Cloud Infrastructure**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/7JY4z52IqkGnrVeNUnnn)
-* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
-* [**UX**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/mZjQFipOkdLHeoXnKg9n)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/)
 
 ### Step 7 - Schedule Appointments
 
@@ -157,10 +164,13 @@ Appointments can be triggered by patients (such as for a first-time visit) or by
 
 #### Building Blocks
 
-* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
-* [**Messaging**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/izJ8qoBNDEfETK9xzjLp)
-* [**Scheduler**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/bRT3Mh4gvorgs9yuilzH)
-* [**Workflow**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/)
+
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ### Step 8 - Consultation
 
@@ -177,9 +187,11 @@ As part of the consultation, the healthcare provider can update the patient reco
 
 #### Building Blocks
 
-* [**Consent**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
-* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
-* [**Scheduler**](http://127.0.0.1:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description)
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
+
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/)
+
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
 ### Step 9 - Payment Management
 
@@ -192,9 +204,11 @@ Payments can be collected either pre- or post-consultation. In the context where
 
 #### Building Blocks
 
-* [**Identity**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
-* [**Information Mediator**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
-* [**Payments**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/6Cj5POQHYPnh5QnRgPDm)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
+
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/)
+
+[**Payments**](https://govstack.gitbook.io/bb-payments/)
 
 ### Step 10 - Ongoing Case Management
 
@@ -212,11 +226,15 @@ Depending on the program and on the country’s broader health policies, this st
 
 #### Building Blocks
 
-* [**Consent**](https://govstack.gitbook.io/bb-consent/)
-* [**Identity**](https://govstack.gitbook.io/bb-identity/)
-* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
-* [**Messaging**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/izJ8qoBNDEfETK9xzjLp)
-* [**Workflow**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
+
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
+
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/)
+
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ### Step 11 - Ongoing Monitoring and Evaluation
 
@@ -229,11 +247,15 @@ Administrators of the telehealth company and/or Ministry of Health analysts cond
 
 #### Building Blocks
 
-* [**Consent**](https://govstack.gitbook.io/bb-consent/)
-* [**Identity**](https://govstack.gitbook.io/bb-identity/)
-* [**GIS**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
-* [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
-* [**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
+
+[**GIS**](https://govstack.gitbook.io/bb-gis)
+
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
+
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ## Contributors
 

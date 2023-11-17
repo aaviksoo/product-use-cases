@@ -29,14 +29,14 @@ Implementing EPR can create various environmental, economical and social benefit
 ## Building Blocks
 
 * [**Consent**](https://govstack.gitbook.io/bb-consent/)
-* [**Digital Registry**](https://govstack.gitbook.io/specification/v/version-0.9.0/building-blocks/digital-registries)
-* [**Identification and Verification**](https://govstack.gitbook.io/bb-identity/)
+* [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
+* [**Identity**](https://govstack.gitbook.io/bb-identity/)
 * [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 * [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 * [**Payments**](https://govstack.gitbook.io/bb-payments)
 * [**Registration**](https://govstack.gitbook.io/bb-registration)
-* [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
-* [**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+* [**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+* [**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ## Source Documents
 
@@ -65,7 +65,7 @@ Once the EPR regulations and processes have been finalized, information on the E
 
 [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 
-[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
 ### 2 - Producer Registration
 
@@ -83,7 +83,7 @@ Producer registration is the process of collecting information of a new business
 
 [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
@@ -107,7 +107,7 @@ Licensing is the process to acquire authorization from a government agency to op
 
 [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
@@ -115,7 +115,7 @@ Licensing is the process to acquire authorization from a government agency to op
 
 [**Payments**](https://govstack.gitbook.io/bb-payments/)
 
-[**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
 ### 4 - Product Registration
 
@@ -134,11 +134,11 @@ Registration is the process of documenting and maintaining records of registered
 
 [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
-[**Payments**](../product-use-case/broken-reference/)
+[**Payments**](https://govstack.gitbook.io/bb-payments)
 
 [**Registration**](https://govstack.gitbook.io/bb-registration/)
 
@@ -157,11 +157,11 @@ Data verification and validation should be coordinated with all relevant governe
 
 [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
-[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ### 6 - Payment
 
@@ -191,11 +191,11 @@ The fee to be paid could be proportional to the amount of electrical and electro
 
 [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
 
-[**Messaging**](http://127.0.0.1:5000/s/mNnAAqNpNoSI6WELhO9t/1-description)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 
 [**Payments**](https://govstack.gitbook.io/bb-payments/)
 
-[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ### **7 - Ongoing Case Management**
 
@@ -212,13 +212,13 @@ This step involves ensuring information of e-waste producers are kept up to date
 
 [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
-[**Messaging**](http://127.0.0.1:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 
-[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
-[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ### **8 - Ongoing M\&E**
 
@@ -233,13 +233,13 @@ The government authority leading the EPR implementation should also allocate a t
 
 [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
 
-[**Identification and Verification**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
 
-[**Messaging**](http://127.0.0.1:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 
 [**Payments**](https://govstack.gitbook.io/bb-payments/)
 
-[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ## Contributors
 

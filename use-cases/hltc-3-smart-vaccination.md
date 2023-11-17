@@ -39,7 +39,7 @@ Seamless vaccine management and execution under compressed timelines requires or
 
 [**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
-[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ## Source Documents
 
@@ -134,11 +134,11 @@ Eligible individuals receive automated appointment scheduling options based on t
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
-[**Messaging**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/izJ8qoBNDEfETK9xzjLp)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
 
-[**Scheduler**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/bRT3Mh4gvorgs9yuilzH)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
-[**Workflow**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ### 6 - Vaccination
 
@@ -153,11 +153,11 @@ At the vaccination center, healthcare workers use the system to access individua
 
 #### Building Blocks
 
-[**Consent**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
-[**Scheduler**](http://127.0.0.1:5000/s/oEAfhW9JLP3tJ6mPyxtF/2-description)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
 ### 7 - Supply Chain Management
 
@@ -169,9 +169,9 @@ The system monitors the entire vaccine supply chain, from manufacturing to distr
 
 #### Building Blocks
 
-[**Scheduler**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/bRT3Mh4gvorgs9yuilzH)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
-[**Workflow**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ### 8 - Payment
 
@@ -218,9 +218,9 @@ Healthcare providers and recipients can use the system to report any adverse eve
 
 [**Identity**](https://govstack.gitbook.io/bb-identity/)
 
-[**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
-[**Workflow**](https://govstack.gitbook.io/specification/building-blocks/workflow)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ## **Contributors**
 

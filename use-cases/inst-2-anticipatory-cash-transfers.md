@@ -29,15 +29,15 @@ Anticipatory cash transfers (or forecast-based financing) are a social protectio
 
 ## Building Blocks
 
-* [**Consent**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
-* [**GIS**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
-* [**Identity**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
-* [**Information Mediator**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
-* [**Messaging**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/izJ8qoBNDEfETK9xzjLp)
-* [**Payments**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/uJEXiAICNFsZ8S17X5KP/)
-* [**Registration**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/34nLw76x9QyukJXQ4A27)
-* [**Scheduler**](https://govstack.gitbook.io/specification/building-blocks/scheduler)
-* [**Workflow**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/)
+* [**Consent**](https://govstack.gitbook.io/bb-consent/)
+* [**GIS**](https://govstack.gitbook.io/bb-gis)
+* [**Identity**](https://govstack.gitbook.io/bb-identity/)
+* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/)
+* [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+* [**Payments**](https://govstack.gitbook.io/bb-payments/)
+* [**Registration**](https://govstack.gitbook.io/bb-registration/)
+* [**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+* [**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ## Source Documents
 
@@ -59,9 +59,11 @@ The aid dispensing agent conducts scoping exercises in disaster-prone areas with
 
 **Building Blocks**
 
-* [GIS](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
-* [Information Mediator](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
-* [Workflow](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/)
+[**GIS**](https://govstack.gitbook.io/bb-gis)
+
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/)
+
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ### 2 - Outreach Communications
 
@@ -75,8 +77,9 @@ The aid dispensing agent organizes an information campaign to inform about the a
 
 **Building Blocks**
 
-* [Messaging](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/izJ8qoBNDEfETK9xzjLp)
-* [Scheduler](https://govstack.gitbook.io/specification/building-blocks/scheduler)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
 
 ### 3 - Registration
 
@@ -90,10 +93,13 @@ Registration is the process of collecting information on potential beneficiaries
 
 #### Building Blocks
 
-* [Consent](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
-* [Identity](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
-* [Information Mediator](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
-* [Registration](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/34nLw76x9QyukJXQ4A27)
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
+
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
+
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/)
+
+[**Registration**](https://govstack.gitbook.io/bb-registration/)
 
 ### 4 - Data Verification and Validation
 
@@ -106,9 +112,11 @@ Data in the system should be checked and validated against other government data
 
 **Building Blocks**
 
-* [Consent](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/YDTiUt5Ch8a6EBI6Vc6H)
-* [Identity](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
-* [Information mediator](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
+
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
+
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/)
 
 ### 5 - Program Trigger
 
@@ -122,9 +130,11 @@ Based on national/regional early warning systems, the anticipatory cash program 
 
 **Building Blocks**
 
-* [GIS](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/Z9tuRxtxAgEaZ9v9oHvl)
-* [Information Mediator](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/qgqbtL2D985Y6M8wG1ds)
-* [Workflow](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/gHnBHs9nQwhEP9Cf2In0)
+[**GIS**](https://govstack.gitbook.io/bb-gis)
+
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/)
+
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ### 6 - Real-time Eligibility Determination
 
@@ -139,9 +149,11 @@ Once the program has been triggered after an emergency event, there will be a re
 
 **Building Blocks**
 
-* [Identity and Verification](https://govstack.gitbook.io/bb-identity/)
-* [Information Mediator](https://govstack.gitbook.io/bb-information-mediation)
-* [Registration](https://govstack.gitbook.io/bb-registration/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
+
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+
+[**Registration**](https://govstack.gitbook.io/bb-registration/)
 
 ### 7 - Payment
 
@@ -154,7 +166,7 @@ Depending on specific country contexts, payments can be highly automated (such a
 
 **Building Blocks**
 
-* [Payments](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/uJEXiAICNFsZ8S17X5KP/)
+[**Payments**](https://govstack.gitbook.io/bb-payments/)
 
 ### 8 - Ongoing Case Management
 
@@ -168,10 +180,13 @@ During non-emergency times, this step involves ongoing interaction with benefici
 
 **Building Blocks**
 
-* [Consent](https://govstack.gitbook.io/bb-consent/)
-* [Identity](https://govstack.gitbook.io/bb-identity/)
-* [Scheduler](https://govstack.gitbook.io/specification/building-blocks/scheduler)
-* [Workflow](https://govstack.gitbook.io/specification/building-blocks/workflow)
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
+
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
+
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ### 9 - Ongoing M\&E and Program Update
 
@@ -185,10 +200,13 @@ The primary agent should conduct M\&E exercises to make management choices such 
 
 **Building Blocks**
 
-* [Consent](https://govstack.gitbook.io/bb-consent/)
-* [Identity](https://govstack.gitbook.io/bb-identity/)
-* [Scheduler](https://govstack.gitbook.io/specification/building-blocks/scheduler)
-* [Workflow](https://govstack.gitbook.io/specification/building-blocks/workflow)
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
+
+[**Identity**](https://govstack.gitbook.io/bb-identity/)
+
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
 
 ## Contributors
 
