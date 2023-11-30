@@ -13,21 +13,21 @@ Prose description of the overall use case. This can, and likely should comprise 
 
 ## Stakeholders
 
-- A list of the stakeholders that have some engagement with this use case, including how they are involved
+* A list of the stakeholders that have some engagement with this use case, including how they are involved
 
-## SDG Targets
+## Sustainable Development Goals (SDGs)
 
-- The specific SDG targets this use case contributes towards
-- The format for this section is: \<Url to SDG Target with text of specific target ID>: Text of the SDG Target
-  - [11.6](https://solutions.dial.community/sdgs/sustainable_cities_and_communiti): Reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management.
+* The specific SDG targets this use case contributes towards
+* The format for this section is: \<Url to SDG Target with text of specific target ID>: Text of the SDG Target
+  * [11.6](https://solutions.dial.community/sdgs/sustainable\_cities\_and\_communiti): Reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management.
 
 ## Building Blocks
 
-- List of the GovStack Building Blocks involved in this use case, including link to Building Block specification
+* List of the GovStack Building Blocks involved in this use case, including link to Building Block specification
 
 ## Source Documents
 
-- List of links to documents used to create the use case
+* List of links to documents used to create the use case
 
 ## Steps
 
@@ -35,11 +35,11 @@ Prose description of the overall use case. This can, and likely should comprise 
 
 Prose description of the use case step
 
-&#x20;**Workflows**
+**Workflows**
 
-- List of the workflows involved in this step, include a description of how the workflow involved
-- Format: **Workflow Name** text description
-  - **Identification and Registration** for locating and tracking users registered in the system.&#x20;
+* List of the workflows involved in this step, include a description of how the workflow involved
+* Format: **Workflow Name** text description
+  * **Identification and Registration** for locating and tracking users registered in the system.
 
 **Example Implementation**
 
@@ -47,8 +47,8 @@ Prose description of the use case step
 
 **Building Blocks**
 
-List of Building Blocks involved in this use case step, including link to building block specification&#x20;
+List of Building Blocks involved in this use case step, including link to building block specification
 
 ## Contributors
 
-- \<List of contributors, optionally including organization and email address>
+* \<List of contributors, optionally including organization and email address>

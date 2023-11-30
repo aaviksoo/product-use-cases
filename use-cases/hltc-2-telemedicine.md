@@ -7,7 +7,7 @@
 | Name    | Telemedicine |
 | Sector  | Health       |
 | Version | 1.0          |
-| Status  | Draft        |
+| Status  | Published    |
 
 Telemedicine (also referred to as telehealth) lets patients visit with a health care provider without an in-person office visit. Instead, patient-provider interaction is conducted over the phone or online through a computer, tablet, or smartphone.
 
@@ -259,6 +259,11 @@ Administrators of the telehealth company and/or Ministry of Health analysts cond
 
 ## Contributors
 
+* Wesley Brown, GovStack Product Owner, Digital Impact Alliance
+* Steve Conrad, Associate Director of Technology, Digital Impact Alliance
 * Sarah Farooqi, The Exchange Product Owner, Digital Impact Alliance
+* Sainabou Jallow, Business Analyst, Digital Impact Alliance
+* Margus Mägi, GovStack Project Lead for Estonia
+* Dr. P. S. Ramkumar, GovStack, International Telecommunication Union (ITU)
 * Dr. Sanjay Sood, Project and Associate Director, eSanjeevani (National Telemedicine Service)&#x20;
 * Jai Ganesh Udayasankaran, Senior Manager, Healthcare Information Technology and Telehealth Sri Sathya Sai Central Trust, INDIA AeHIN

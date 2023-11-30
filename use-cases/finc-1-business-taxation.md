@@ -7,7 +7,7 @@
 | Name    | Business Taxation |
 | Sector  | Finance           |
 | Version | 1.0               |
-| Status  | Draft             |
+| Status  | Published         |
 
 This use case profiles the digital transformation of tax administration (e-taxation) in the business sector. The meaning of business taxation refers to the taxes that businesses must pay as a normal part of business operations. Tax administrations across the globe are examining the potential benefits of digitalization to broaden the tax base and improve the quality of taxpayer services - tax reporting and collection. Digital tools are seen as potential means that can make tax systems more accessible, efficient, and seamless for both taxpayers and tax administration.
 
@@ -289,7 +289,7 @@ The primary agent should conduct M\&E exercises to acquire feedback from all rel
 * Sarah Farooqi, The Exchange Product Owner, Digital Impact Alliance
 * Sainabou Jallow, Business Analyst, Digital Impact Alliance
 * Aare Laponin, GovStack, Estonia
-* Dr. P. S. Ramkumar, GovStack, International Telecommunication Union (ITU)
 * Margus Mägi, GovStack Project Lead for Estonia
+* Dr. P. S. Ramkumar, GovStack, International Telecommunication Union (ITU)
 * Farina Owusu, Junior Advisor, Global Programme Digital Transformation at GIZ
 * Meelis Zujev, GovStack, Estonia

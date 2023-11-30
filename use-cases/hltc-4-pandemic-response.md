@@ -7,7 +7,7 @@
 | Name    | Pandemic Response |
 | Sector  | Health            |
 | Version | 1.0               |
-| Status  | Draft             |
+| Status  | Published         |
 
 This use case profiles digitalizing pandemic response operations and management systems in a country to ensure effective control of the pandemic. Accurate and real-time data is central to any pandemic response. Having a digitized pandemic response system could entail utilizing robust data science, interactive dashboards, and analytics tools to better understand pandemic impact across the country - where cases are concentrated, coordinate and track treatments and implement preventative measures in communities. This can support emergency operation centers and other coordination response efforts to make quick and informed decisions during disease outbreaks or pandemics.&#x20;
 
@@ -198,4 +198,6 @@ Administrators at the Ministry of Health and/or public health agency in charge o
 * Sarah Farooqi, The Exchange Product Owner, Digital Impact Alliance
 * Pilar Hernandez, Director, SORMAS (Surveillance Outbreak Response Management & Analysis System) Foundation
 * Sainabou Jallow, Business Analyst, Digital Impact Alliance
+* Margus Mägi, GovStack Project Lead for Estonia
 * Julia Niklewski, Advisor Digital Health, GIZ
+* Dr. P. S. Ramkumar, GovStack, International Telecommunication Union (ITU)

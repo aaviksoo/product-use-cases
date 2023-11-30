@@ -7,7 +7,7 @@
 | Name    | Remote Learning |
 | Sector  | Education       |
 | Version | 1.0             |
-| Status  | Draft           |
+| Status  | Published       |
 
 The primary objective of the remote learning platform is to deliver engaging and effective educational content to students, facilitate seamless communication between educators and learners, enable interactive assessments, and support continuous learning in a virtual environment.
 
@@ -182,7 +182,12 @@ The system should cater to the archiving/sunsetting of student data, cohort data
 
 ## **Contributors**
 
+* Wesley Brown, GovStack Product Owner, Digital Impact Alliance
+* Steve Conrad, Associate Director of Technology, Digital Impact Alliance
 * Sarah Farooqi, The Exchange Product Owner, Digital Impact Alliance
+* Sainabou Jallow, Business Analyst, Digital Impact Alliance
 * Rachel Lawson, Community Manager - GovStack, Digital Impact Alliance
+* Margus Mägi, GovStack Project Lead for Estonia
+* Dr. P. S. Ramkumar, GovStack, International Telecommunication Union (ITU)
 * Ayush Shukla, Technical Officer, International Telecommunication Union (ITU)
 * Meelis Zujev, Project Manager, Govstack Sandbox, Gofore

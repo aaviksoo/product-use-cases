@@ -7,7 +7,7 @@
 | Name    | Rural Advisory Service for Farmers |
 | Sector  | Agriculture                        |
 | Version | 1.0                                |
-| Status  | Draft                              |
+| Status  | Published                          |
 
 This use case profiles rural advisory services for farmers. The objective is to equip farmers with the information, knowledge and skills needed to improve their farms and get better yields.
 
