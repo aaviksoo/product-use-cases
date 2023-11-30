@@ -26,15 +26,15 @@ Municipalities and counties/towns have traditionally managed construction permit
 
 ## Building Blocks
 
-* [**Consent**](https://govstack.gitbook.io/bb-consent/)
-* [**Digital Registry**](https://govstack.gitbook.io/bb-digital-registries)
-* [**Identity**](https://govstack.gitbook.io/bb-identity/)
-* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
-* [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
-* [**Payments**](https://govstack.gitbook.io/bb-payments)
-* [**Registration**](https://govstack.gitbook.io/bb-registration)
-* [**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
-* [**Workflow**](https://govstack.gitbook.io/bb-workflow/)
+* [**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
+* [**Digital Registry**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4)
+* [**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
+* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
+* [**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
+* [**Payments**](https://govstack.gitbook.io/bb-payments/v/23Q4)
+* [**Registration**](https://govstack.gitbook.io/bb-registration/v/23Q4)
+* [**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
+* [**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4/)
 
 ## Source Documents
 
@@ -62,9 +62,9 @@ Awareness campaigns can be organized across municipalities informing citizens ab
 
 **Building Blocks**
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
 
 ### 2 - Registration
 
@@ -80,17 +80,17 @@ In certain countries, there is a statewide online construction permit platform i
 
 **Building Blocks**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
 
-[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
 
-[**Registration**](https://govstack.gitbook.io/bb-registration)
+[**Registration**](https://govstack.gitbook.io/bb-registration/v/23Q4)
 
 ### 3 - Application Process
 
@@ -107,15 +107,15 @@ Depending on the country context, the application process can require applicants
 
 **Building Blocks**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
 
-[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
 
-[**Payments**](https://govstack.gitbook.io/bb-payments/)
+[**Payments**](https://govstack.gitbook.io/bb-payments/v/23Q4/)
 
 ### 4 - Data Verification and Validation
 
@@ -128,15 +128,15 @@ Data within the online construction permit is generally checked\* by the Central
 
 **Building Blocks**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
 
-[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4/)
 
 ### 5 - Eligibility Determination
 
@@ -153,11 +153,11 @@ In most countries that have implemented the construction permit, a building auth
 
 **Building Blocks**
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
 
 ### 6 - Payment
 
@@ -173,13 +173,13 @@ If an electronic payment process is enabled, then applicants can pay these fees 
 
 **Building Blocks**
 
-[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
 
-[**Payments**](https://govstack.gitbook.io/bb-payments/)
+[**Payments**](https://govstack.gitbook.io/bb-payments/v/23Q4/)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4/)
 
 ### **7 - Permit Issuing**
 
@@ -196,15 +196,15 @@ Once the building authority also ensures that all outstanding fees have been pai
 
 **Building Blocks**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
 
-[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4/)
 
 ### **8 - Ongoing Case Management**
 
@@ -217,17 +217,17 @@ This step involves ensuring that there is a virtual help desk and/or physical su
 
 **Building Blocks**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
 
-[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4/)
 
 ### **9 - Ongoing M\&E**
 
@@ -242,15 +242,15 @@ In certain countries, once the construction work has been completed, the buildin
 
 **Building Blocks**
 
-[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
 
-[**Payments**](https://govstack.gitbook.io/bb-payments/)
+[**Payments**](https://govstack.gitbook.io/bb-payments/v/23Q4/)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4/)
 
 ## Contributors
 

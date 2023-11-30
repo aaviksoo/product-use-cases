@@ -28,16 +28,16 @@ This use case profiles how streamlined loan programs targeting SMEs can support 
 
 ## Building Blocks
 
-* [**Consent**](https://govstack.gitbook.io/bb-consent/)
-* [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
-* [**E-Signature**](https://govstack.gitbook.io/bb-esignature)
-* [**GIS**](https://govstack.gitbook.io/bb-gis)
-* [**Identity**](https://govstack.gitbook.io/bb-identity/)
-* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/)
-* [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
-* [**Payments**](https://govstack.gitbook.io/bb-payments/)
-* [**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
-* [**Workflow**](https://govstack.gitbook.io/bb-workflow/)
+* [**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
+* [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4)
+* [**E-Signature**](https://govstack.gitbook.io/bb-esignature/v/23Q4)
+* [**GIS**](https://govstack.gitbook.io/bb-gis/v/23Q4)
+* [**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
+* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4/)
+* [**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
+* [**Payments**](https://govstack.gitbook.io/bb-payments/v/23Q4/)
+* [**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
+* [**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4/)
 
 ## Source Documents
 
@@ -60,9 +60,9 @@ Certain countries have implemented SME credit guarantee schemes, where a governm
 
 **Building Blocks**
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4/)
 
 ### 2 - Outreach Communications
 
@@ -78,13 +78,13 @@ Targeted outreach can also be done via existing databases and registries of oper
 
 **Building Blocks**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
 
-[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
 
 ### 3 - Registration
 
@@ -98,17 +98,17 @@ Registration is the process of collecting information on potential SMEs seeking 
 
 #### Building Blocks
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
 
-[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4)
 
-[**E-Signature**](https://govstack.gitbook.io/bb-esignature)
+[**E-Signature**](https://govstack.gitbook.io/bb-esignature/v/23Q4)
 
-[**GIS**](https://govstack.gitbook.io/bb-gis)
+[**GIS**](https://govstack.gitbook.io/bb-gis/v/23Q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4/)
 
 ### 4 - Data Verification and Validation
 
@@ -121,17 +121,17 @@ Data verification and validation should be coordinated with all relevant authori
 
 #### Building Blocks
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
 
-[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4)
 
-[**E-Signature**](https://govstack.gitbook.io/bb-esignature)
+[**E-Signature**](https://govstack.gitbook.io/bb-esignature/v/23Q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4/)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
 
 ### 5 - Eligibility Determination
 
@@ -147,13 +147,13 @@ For example, in the case of a government credit guarantee funding scheme - where
 
 **Building Blocks**
 
-[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4/)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
 
 ### 6 - Application
 
@@ -168,15 +168,15 @@ For example, with countries implementing the SME Credit Guarantee scheme for SME
 
 **Building Blocks**
 
-[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4/)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
 
 ### 7 - Loan Issuance
 
@@ -189,19 +189,19 @@ Loan issuance takes place once the submitted loan application has been reviewed 
 
 **Building Blocks**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
 
-[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4)
 
-[**E-Signature**](https://govstack.gitbook.io/bb-esignature)
+[**E-Signature**](https://govstack.gitbook.io/bb-esignature/v/23Q4)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
 
-[**Payments**](https://govstack.gitbook.io/bb-payments/)
+[**Payments**](https://govstack.gitbook.io/bb-payments/v/23Q4/)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4/)
 
 ### 8 - Credit Case Management
 
@@ -214,15 +214,15 @@ Should an SMEs loan application be rejected, it is crucial to have an effective 
 
 **Building Blocks**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4/)
 
 ## Contributors
 

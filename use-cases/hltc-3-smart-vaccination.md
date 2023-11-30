@@ -27,19 +27,19 @@ Seamless vaccine management and execution under compressed timelines requires or
 
 ## Building Blocks
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
 
-[**Payments**](https://govstack.gitbook.io/bb-payments/)
+[**Payments**](https://govstack.gitbook.io/bb-payments/v/23Q4/)
 
-[**Registration**](https://govstack.gitbook.io/bb-registration/)
+[**Registration**](https://govstack.gitbook.io/bb-registration/v/23Q4/)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4/)
 
 ## Source Documents
 
@@ -61,9 +61,9 @@ Using both targeted and widespread approaches to launch a proactive outreach cam
 
 **Building Blocks**
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
 
 ### 2 - Registration
 
@@ -77,13 +77,13 @@ Individuals can register online through their medical facility, roving healthcar
 
 **Building Blocks**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
 
-[**Registration**](https://govstack.gitbook.io/bb-registration/)
+[**Registration**](https://govstack.gitbook.io/bb-registration/v/23Q4/)
 
 ### 3 - Data Verification and Validation
 
@@ -96,11 +96,11 @@ Advanced identity verification mechanisms, such as biometric authentication or d
 
 **Building Blocks**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
 
 ### 4 - Eligibility
 
@@ -113,13 +113,13 @@ The system cross-references registration data with eligibility criteria defined 
 
 **Building Blocks**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
 
 ### 5 - Schedule Appointments
 
@@ -132,13 +132,13 @@ Eligible individuals receive automated appointment scheduling options based on t
 
 #### Building Blocks
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4/)
 
 ### 6 - Vaccination
 
@@ -153,11 +153,11 @@ At the vaccination center, healthcare workers use the system to access individua
 
 #### Building Blocks
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
 
 ### 7 - Supply Chain Management
 
@@ -169,9 +169,9 @@ The system monitors the entire vaccine supply chain, from manufacturing to distr
 
 #### Building Blocks
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4/)
 
 ### 8 - Payment
 
@@ -184,7 +184,7 @@ Some vaccination campaigns may be partially or fully subsidized by the governmen
 
 **Building Blocks**
 
-[**Payments**](https://govstack.gitbook.io/bb-payments/)
+[**Payments**](https://govstack.gitbook.io/bb-payments/v/23Q4/)
 
 ### 9 - Certification
 
@@ -196,11 +196,11 @@ Once vaccination is completed the patient's immunization record can be updated a
 
 #### Building blocks
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
 
 ### 10 - Ongoing M\&E
 
@@ -214,13 +214,13 @@ Healthcare providers and recipients can use the system to report any adverse eve
 
 **Building Blocks**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4/)
 
 ## **Contributors**
 

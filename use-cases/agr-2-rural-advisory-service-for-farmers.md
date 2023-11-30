@@ -28,16 +28,16 @@ Governments in low- and middle-income countries are increasingly driven to ident
 
 ## Building Blocks
 
-* [**Consent**](https://govstack.gitbook.io/bb-consent)
-* [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
-* [**eMarketplace**](https://govstack.gitbook.io/bb-emarketplace)
-* [**Identity**](https://govstack.gitbook.io/bb-identity)
-* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
-* [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
-* [**Payments**](https://govstack.gitbook.io/bb-payments)
-* [**Registration**](https://govstack.gitbook.io/bb-registration)
-* [**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
-* [**Workflow**](https://govstack.gitbook.io/bb-workflow)
+* [**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4)
+* [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4)
+* [**eMarketplace**](https://govstack.gitbook.io/bb-emarketplace/v/23Q4)
+* [**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4)
+* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
+* [**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
+* [**Payments**](https://govstack.gitbook.io/bb-payments/v/23Q4)
+* [**Registration**](https://govstack.gitbook.io/bb-registration/v/23Q4)
+* [**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
+* [**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4)
 
 ## Source Documents
 
@@ -59,11 +59,11 @@ Awareness drives can be implemented to educate and explain to farmers on the ben
 
 **Building Blocks**
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4)
 
 ### 2 - Advisory Content Management&#x20;
 
@@ -77,11 +77,11 @@ In this step, content contributors (e.g., agriculture experts) can use a digital
 
 **Building Blocks**
 
-[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4)
 
 ### 3 - Registration
 
@@ -94,15 +94,15 @@ Registration is the process of collecting standard information of a target group
 
 **Building Blocks**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
 
-[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
 
-[**Registration**](https://govstack.gitbook.io/bb-registration)
+[**Registration**](https://govstack.gitbook.io/bb-registration/v/23Q4)
 
 ### 4 - Data Verification and Validation
 
@@ -115,13 +115,13 @@ This step is to verify and validate the submitted registration data. The data ca
 
 **Building Blocks**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
 
-[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
 
 ### 5 - Enrollment&#x20;
 
@@ -137,17 +137,17 @@ In some countries, following registration to participate in the rural advisory s
 
 **Building Blocks**
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
 
-[**Registration**](https://govstack.gitbook.io/bb-registration/)
+[**Registration**](https://govstack.gitbook.io/bb-registration/v/23Q4/)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4)
 
 ### 6 - Personalized Advisory Service
 
@@ -160,13 +160,13 @@ Users that subscribe to the rural advisory service, receive a specific number of
 
 **Building Blocks**
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4)
 
 ### 7 - Marketplace
 
@@ -182,15 +182,15 @@ In other instances, this marketplace function can support farmers in identifying
 
 **Building Blocks**
 
-[**eMarketplace**](https://govstack.gitbook.io/bb-emarketplace)
+[**eMarketplace**](https://govstack.gitbook.io/bb-emarketplace/v/23Q4)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
 
-[**Payments**](https://govstack.gitbook.io/bb-payments)
+[**Payments**](https://govstack.gitbook.io/bb-payments/v/23Q4)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4)
 
 ### 8 - Monitoring and Evaluation&#x20;
 
@@ -204,15 +204,15 @@ Monitoring insights are essential to facilitate learning and continuous improvem
 
 **Building Blocks**
 
-[**Identity**](https://govstack.gitbook.io/bb-identity)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4)
 
 ## Contributors
 

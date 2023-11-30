@@ -30,16 +30,16 @@ Local connectivity levels must be considered when designing a telemedicine proje
 
 ## Building Blocks
 
-* [**Consent**](https://govstack.gitbook.io/bb-consent/)
-* [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
-* [**E-Signature**](https://govstack.gitbook.io/bb-esignature)
-* [**GIS**](https://govstack.gitbook.io/bb-gis)
-* [**Identity**](https://govstack.gitbook.io/bb-identity/)
-* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/)
-* [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
-* [**Payments**](https://govstack.gitbook.io/bb-payments/)
-* [**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
-* [**Workflow**](https://govstack.gitbook.io/bb-workflow/)
+* [**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
+* [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4)
+* [**E-Signature**](https://govstack.gitbook.io/bb-esignature/v/23Q4)
+* [**GIS**](https://govstack.gitbook.io/bb-gis/v/23Q4)
+* [**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
+* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4/)
+* [**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
+* [**Payments**](https://govstack.gitbook.io/bb-payments/v/23Q4/)
+* [**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
+* [**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4/)
 
 ## Source Documents
 
@@ -59,7 +59,7 @@ In cases where telemedicine is being pursued as a centralized activity to meet n
 
 **Building Blocks**
 
-[**GIS**](https://govstack.gitbook.io/bb-gis)
+[**GIS**](https://govstack.gitbook.io/bb-gis/v/23Q4)
 
 ### Step 2 - Outreach Communications
 
@@ -74,9 +74,9 @@ Staff from the Ministry of Health, private telehealth companies, or other interm
 
 #### Building Blocks
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
 
 ### Step 3 - Health Provider Registration
 
@@ -94,15 +94,15 @@ In this step, all healthcare workers will also provide information on qualificat
 
 #### Building Blocks
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
 
-[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries)
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4)
 
-[**E-Signature**](https://govstack.gitbook.io/bb-esignature)
+[**E-Signature**](https://govstack.gitbook.io/bb-esignature/v/23Q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4/)
 
 ### Step 4 - Patient Registration
 
@@ -116,13 +116,13 @@ Registration for patients can vary depending on specific country/district-level 
 
 #### Building Blocks
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
 
-[**E-Signature**](https://govstack.gitbook.io/bb-esignature)
+[**E-Signature**](https://govstack.gitbook.io/bb-esignature/v/23Q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4/)
 
 ### Step 5 - Data Verification and Validation
 
@@ -135,11 +135,11 @@ In this step, registration data needs to be verified and validated. Healthcare p
 
 #### Building Blocks
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4/)
 
 ### Step 6 - System Access
 
@@ -151,7 +151,7 @@ Patients, healthcare providers, and administrators need access to telehmedicine 
 
 #### Building Blocks
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4/)
 
 ### Step 7 - Schedule Appointments
 
@@ -164,13 +164,13 @@ Appointments can be triggered by patients (such as for a first-time visit) or by
 
 #### Building Blocks
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4/)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4/)
 
 ### Step 8 - Consultation
 
@@ -187,11 +187,11 @@ As part of the consultation, the healthcare provider can update the patient reco
 
 #### Building Blocks
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4/)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
 
 ### Step 9 - Payment Management
 
@@ -204,11 +204,11 @@ Payments can be collected either pre- or post-consultation. In the context where
 
 #### Building Blocks
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4/)
 
-[**Payments**](https://govstack.gitbook.io/bb-payments/)
+[**Payments**](https://govstack.gitbook.io/bb-payments/v/23Q4/)
 
 ### Step 10 - Ongoing Case Management
 
@@ -226,15 +226,15 @@ Depending on the program and on the country’s broader health policies, this st
 
 #### Building Blocks
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4/)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4/)
 
 ### Step 11 - Ongoing Monitoring and Evaluation
 
@@ -247,15 +247,15 @@ Administrators of the telehealth company and/or Ministry of Health analysts cond
 
 #### Building Blocks
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
 
-[**GIS**](https://govstack.gitbook.io/bb-gis)
+[**GIS**](https://govstack.gitbook.io/bb-gis/v/23Q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow/)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4/)
 
 ## Contributors
 

@@ -24,14 +24,14 @@ This use case profiles specifically the digital integration steps within the del
 
 ## Building Blocks
 
-* [**Consent**](https://govstack.gitbook.io/bb-consent)
-* [**Identity**](https://govstack.gitbook.io/bb-identity)
-* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
-* [**Messaging**](https://govstack.gitbook.io/bb-messaging/)
-* [**Payments**](https://govstack.gitbook.io/bb-payments)
-* [**Registration**](https://govstack.gitbook.io/bb-registration)
-* [**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)
-* [**Workflow**](https://govstack.gitbook.io/bb-workflow)
+* [**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4)
+* [**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4)
+* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
+* [**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
+* [**Payments**](https://govstack.gitbook.io/bb-payments/v/23Q4)
+* [**Registration**](https://govstack.gitbook.io/bb-registration/v/23Q4)
+* [**Scheduling**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
+* [**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4)
 
 ## Source Documents
 
@@ -52,9 +52,9 @@ Staff from the Ministry of Social Welfare or another leading agency / organizati
 
 **Building Blocks**
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
 
-[**Scheduling**](https://govstack.gitbook.io/bb-scheduler/)
+[**Scheduling**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
 
 ### 2 - Registration
 
@@ -72,13 +72,13 @@ Registration is the process of collecting information on potential beneficiaries
 
 **Building Blocks**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
 
-[**Registration**](https://govstack.gitbook.io/bb-registration/)
+[**Registration**](https://govstack.gitbook.io/bb-registration/v/23Q4/)
 
 ### 3 - Data Verification and Validation
 
@@ -91,11 +91,11 @@ Data within the SRIS Social Registry Information System (SRIS) is generally chec
 
 **Building Block Workflows**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
 
 ### 4 - Eligibility Determination and Benefit Package(s) Design
 
@@ -108,9 +108,9 @@ NOTE: Depending on the country and programme, eligibility determination takes di
 
 **Building Blocks**
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
 
 ### 5 - Enrollment
 
@@ -127,13 +127,13 @@ Eligible beneficiaries are re-contacted and asked to enroll onto the programme. 
 
 **Building Blocks**
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
 
-[**Payments**](https://govstack.gitbook.io/bb-payments/)
+[**Payments**](https://govstack.gitbook.io/bb-payments/v/23Q4/)
 
-[**Registration**](https://govstack.gitbook.io/bb-registration/)
+[**Registration**](https://govstack.gitbook.io/bb-registration/v/23Q4/)
 
 ### 6 - Payment
 
@@ -148,7 +148,7 @@ If a social cash transfer programme has enabled electronic payment processes (e.
 
 **Building Blocks**
 
-[**Payments**](https://govstack.gitbook.io/bb-payments/)
+[**Payments**](https://govstack.gitbook.io/bb-payments/v/23Q4/)
 
 ### 7 - Ongoing Case Management
 
@@ -162,13 +162,13 @@ Depending on the programme and on the country’s broader social protection poli
 
 **Building Blocks**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4)
 
 ### 8 - Ongoing M\&E
 
@@ -182,13 +182,13 @@ Central level managers and local social welfare officers base decisions and mana
 
 **Building Blocks**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4)
 
 ### 9 - Updating
 
@@ -202,13 +202,13 @@ Ensuring data is up to date to trigger: Programme exit for those who are no long
 
 **Building Blocks**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4)
 
 ## Contributors
 
