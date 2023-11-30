@@ -7,7 +7,7 @@
 | Name    | Inclusive Financial Services for SMEs |
 | Sector  | Finance                               |
 | Version | 1.0                                   |
-| Status  | Draft                                 |
+| Status  | Published                             |
 
 Small and medium enterprises (SMEs) represent the economic backbone of most developed and emerging countries. Yet they face a number of hurdles in acquiring loans/credits and financing from traditional financial institutions. Thus, access to finance is a critical barrier for SMEs to start, sustain and grow their businesses. For lenders, information asymmetry on the financial and credit data of SMEs, leads to their high lending interest rates and higher rejection rates of loan applications by SMEs. Many SMEs do not have reliable financial statements and/or are unregistered and have no official documentation when compared to large enterprises, making it difficult for financiers to appropriately evaluate and monitor credit risk.
 
@@ -229,7 +229,7 @@ Should an SMEs loan application be rejected, it is crucial to have an effective 
 * Wesley Brown, GovStack Product Owner, Digital Impact Alliance&#x20;
 * Sarah Farooqi, The Exchange Product Owner, Digital Impact Alliance&#x20;
 * Sainabou Jallow, Business Analyst, Digital Impact Alliance&#x20;
+* Margus Mägi, GovStack Project Lead for Estonia
 * Dr. P. S. Ramkumar, GovStack, International Telecommunication Union (ITU)&#x20;
-* Margus Mägi, GovStack Project Lead for Estonia&#x20;
 * Farina Owusu, Junior Advisor, Global Programme Digital Transformation at GIZ&#x20;
 * Meelis Zujev, GovStack, Estonia

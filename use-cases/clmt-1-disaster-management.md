@@ -7,7 +7,7 @@
 | Name    | Disaster Management |
 | Sector  | Climate             |
 | Version | 1.0                 |
-| Status  | Draft               |
+| Status  | Published           |
 
 This use case profiles the implementation process of a disaster management system. With the increasing frequency and severity of disasters (both natural and human-made hazards), the international community and country-level disaster management authorities are prioritizing ways to mitigate, prepare for, respond to, and recover from disasters. This process tends to involve a multiplicity of diverse stakeholders (public, private, non-profit organizations) - to respond to disasters and protect people, property, and places.
 

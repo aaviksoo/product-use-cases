@@ -7,7 +7,7 @@
 | Name    | Anticipatory Cash Transfers |
 | Sector  | Institution                 |
 | Version | 1.0                         |
-| Status  | Draft                       |
+| Status  | Published                   |
 
 The primary agent aims to leverage digital technologies and data-driven approaches to implement anticipatory cash transfers, providing timely financial assistance to vulnerable populations in high-risk areas prone to natural disasters.
 
@@ -210,6 +210,10 @@ The primary agent should conduct M\&E exercises to make management choices such 
 
 ## Contributors
 
+* Wesley Brown, GovStack Product Owner, Digital Impact Alliance
+* Steve Conrad, Associate Director of Technology, Digital Impact Alliance
 * Sarah Farooqi, The Exchange Product Owner, Digital Impact Alliance
 * Sainabou Jallow, Business Analyst, Digital Impact Alliance
+* Margus Mägi, GovStack Project Lead for Estonia
+* Dr. P. S. Ramkumar, GovStack, International Telecommunication Union (ITU)
 * Ayush Shukla, Technical Officer, International Telecommunication Union (ITU)

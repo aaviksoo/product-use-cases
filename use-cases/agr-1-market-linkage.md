@@ -7,7 +7,7 @@
 | Name    | Market Linkage |
 | Sector  | Agriculture    |
 | Version | 1.0            |
-| Status  | Draft          |
+| Status  | Published      |
 
 This use case profiles a market linkage service that links buyers to sellers in the agriculture sector. In this context, market linkage pertains to connecting rural farmers to market information, products, and related services in order to boost productivity, and improve rural incomes and livelihoods. Due to the constraints of their remote location, farmers in remote areas - especially in developing countries, tend to have unequal market power, and poorer access to agricultural production inputs (seeds, fertilizer, and other goods) and services needed to grow and sell their crops.&#x20;
 

@@ -7,7 +7,7 @@
 | Name    | Smart Vaccination |
 | Sector  | SDG 3             |
 | Version | 1.0               |
-| Status  | Draft             |
+| Status  | Published         |
 
 A smart vaccine delivery system can revolutionize immunization efforts by enhancing distribution efficiency, optimizing resource utilization, promoting equitable access to vaccines, and ensuring the integrity of the vaccine supply chain. By leveraging digital technologies, smart vaccines can address the challenges associated with traditional vaccine distribution, and can contribute to the global goal of preventing infectious diseases and safeguarding public health.
 
@@ -226,4 +226,5 @@ Healthcare providers and recipients can use the system to report any adverse eve
 
 * Wesley Brown, GovStack Product Owner, Digital Impact Alliance
 * Sarah Farooqi, The Exchange Product Owner, Digital Impact Alliance
+* Sainabou Jallow, Business Analyst, Digital Impact Alliance
 * Dr. P. S. Ramkumar, GovStack, International Telecommunication Union (ITU)
