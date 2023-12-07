@@ -11,7 +11,7 @@
 
 This use case profiles rural advisory services for farmers. The objective is to equip farmers with the information, knowledge and skills needed to improve their farms and get better yields.
 
-Governments in low- and middle-income countries are increasingly driven to identify sustainable strategies to ensure farmers have the information they need to stimulate agricultural productivity. Also, to overcome various production, management and marketing constraints that affect their productivity, profitability, and livelihood. Providing rural advisory services that are personalized and subscription based to the needs of famers is seen as a solution to equip farmers with the knowledge required to help upgrade their farming and managerial skills. &#x20;
+Governments in low- and middle-income countries are increasingly driven to identify sustainable strategies to ensure farmers have the information they need to stimulate agricultural productivity. Also, to overcome various production, management and marketing constraints that affect their productivity, profitability, and livelihood. Providing rural advisory services that are personalized and subscription based to the needs of famers is seen as a solution to equip farmers with the knowledge required to help upgrade their farming and managerial skills.
 
 ## Stakeholders
 
@@ -30,7 +30,7 @@ Governments in low- and middle-income countries are increasingly driven to ident
 
 * [**Consent**](https://govstack.gitbook.io/bb-consent/v/con-23q4)
 * [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/dr-23q4)
-* [**eMarketplace**](https://govstack.gitbook.io/bb-emarketplace/v/mkt-23q4)
+* [**E-Marketplace**](https://govstack.gitbook.io/bb-emarketplace/v/mkt-23q4)
 * [**Identity**](https://govstack.gitbook.io/bb-identity/v/id-23q4)
 * [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/im-23q4)
 * [**Messaging**](https://govstack.gitbook.io/bb-messaging/v/msg-23q4)
@@ -47,14 +47,14 @@ Governments in low- and middle-income countries are increasingly driven to ident
 
 ### 1 - Outreach Communication
 
-Staff from the Ministry of Agriculture/ Agriculture extension institution organizes an awareness campaign on a new program initiated by government to support farmers in addressing causes of yield losses in agricultural and horticultural crops - i.e., crops pests. In some countries, rural advisory services are also provided by non-governmental organizations (NGOs), civil society, the private sector, or even by producer organizations (POs) and cooperatives. The campaign is spread using promotional services - mobile messaging and/or aired on national radio/television to inform farmers about the new program. Posters advertising this service can also be disseminated. In addition, the agricultural advisor staff for this program, can coordinate in-person community outreach to rural farming communities.&#x20;
+Staff from the Ministry of Agriculture/ Agriculture extension institution organizes an awareness campaign on a new program initiated by government to support farmers in addressing causes of yield losses in agricultural and horticultural crops - i.e., crops pests. In some countries, rural advisory services are also provided by non-governmental organizations (NGOs), civil society, the private sector, or even by producer organizations (POs) and cooperatives. The campaign is spread using promotional services - mobile messaging and/or aired on national radio/television to inform farmers about the new program. Posters advertising this service can also be disseminated. In addition, the agricultural advisor staff for this program, can coordinate in-person community outreach to rural farming communities.
 
-Awareness drives can be implemented to educate and explain to farmers on the benefits and methods to subscribe to the advisory services of the program for example via a Mobile App, which can be downloaded for free from an online repository i.e., an App Store. Also, advisory services can be offered via a SMS & voice based advisory service, available to the subscribers of a particular Mobile Network Operator.&#x20;
+Awareness drives can be implemented to educate and explain to farmers on the benefits and methods to subscribe to the advisory services of the program for example via a Mobile App, which can be downloaded for free from an online repository i.e., an App Store. Also, advisory services can be offered via a SMS & voice based advisory service, available to the subscribers of a particular Mobile Network Operator.
 
 **Workflows**
 
 * **Client Communication** to raise awareness to target users about the program via mobile messaging / media channel(s)/ in-person. Also, communication on how farmers can access and subscribe to use the rural advisory service
-* **Client Education** for educating potential target users about the program's objective(s), benefit(s), constraint(s), guideline on access etc.&#x20;
+* **Client Education** for educating potential target users about the program's objective(s), benefit(s), constraint(s), guideline on access etc.
 * **Content Management** for the government staff and/ extension agents working on the program, to develop and manage training content for farmers on how to use the rural advisory services. Also, development of farming advisory content available on a mobile app and/or via a SMS & Voice based advisory service
 
 **Building Blocks**
@@ -65,7 +65,7 @@ Awareness drives can be implemented to educate and explain to farmers on the ben
 
 [**Workflow**](https://govstack.gitbook.io/bb-workflow/v/wf-23q4)
 
-### 2 - Advisory Content Management&#x20;
+### 2 - Advisory Content Management
 
 In this step, content contributors (e.g., agriculture experts) can use a digital system (often an online content management system such as wiki) to create crop specific advisory packages for targeted users. These guidance recommendations for farmers can then be made available in local languages and saved in data repositories - subsequently, a content management system can be used to publish the digital content. In certain countries, service providers such as mobile network operators, can then access the content management system and pull content - per specific need of the users (farmers) - based upon their query and profile, and send advisory messages to them. Thus, access to the content repository and delivery of the content to the targeted users is facilitated using digital means (SMS or via an App).
 
@@ -110,7 +110,7 @@ This step is to verify and validate the submitted registration data. The data ca
 
 **Workflows**
 
-* **Client Case Management** for storing and reviewing identification records&#x20;
+* **Client Case Management** for storing and reviewing identification records
 * **Data Analysis and Business Intelligence** for cross-referencing and verifying records across multiple registry sources, and reconciling gaps / overlaps
 
 **Building Blocks**
@@ -123,16 +123,16 @@ This step is to verify and validate the submitted registration data. The data ca
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/im-23q4)
 
-### 5 - Enrollment&#x20;
+### 5 - Enrollment
 
 Following registration, eligible farmers are asked to enroll in this advisory service program by subscribing to receive agri tips on crop and livestock, market prices and weather updates. In this use case, subscription can happen when users enact a digital action (e.g., dial an USSD code or complete a personalized profile on a mobile app) to receive personalized rural advisory services. Subscription can be open (without any pre-authorization or ID) or closed loop (only those having pre-authorization, such as a registration token).
 
-In some countries, following registration to participate in the rural advisory service, the users must the enroll to receive tailored rural advisory services. This is to personalize their service experience. The user is prompted to complete their personalized profile by selecting the crops and agricultural products they would like to regularly receive advisory services on - optimal time to harvest specific crops, addressing crop specific pesticide issues, market price updates etc.&#x20;
+In some countries, following registration to participate in the rural advisory service, the users must the enroll to receive tailored rural advisory services. This is to personalize their service experience. The user is prompted to complete their personalized profile by selecting the crops and agricultural products they would like to regularly receive advisory services on - optimal time to harvest specific crops, addressing crop specific pesticide issues, market price updates etc.
 
 **Workflows**
 
 * **Data Collection and Reporting** for capturing personalized subscription selections
-* **Identification and Registration** for identifying registered users and linking them to the crop advisory subscriptions they have selected&#x20;
+* **Identification and Registration** for identifying registered users and linking them to the crop advisory subscriptions they have selected
 * **Client communication** sends users personalize SMS and/or notifications of harvest schedule, market prices for subscribed products/crops, and weather/natural disaster updates. Also to respond to any support needs/services requested by the users
 
 **Building Blocks**
@@ -170,19 +170,19 @@ Users that subscribe to the rural advisory service, receive a specific number of
 
 ### 7 - Marketplace
 
-A marketplace is a platform where customers can find information of vendors selling products or services they need. This marketplace function can include searching and filtering feature as well as scheduling appointments feature. In certain countries that are implementing this rural advisory service via a mobile app, a procurement function is also incorporated into the app. This supports users to be able to search for a specific agricultural product on the app and then be provided a link or even redirected to the respective digital marketplace, where they can purchase this product. An example of such a marketplace platform can be seen outlined in this [market linkage use case](agr-1-market-linkage.md).&#x20;
+A marketplace is a platform where customers can find information of vendors selling products or services they need. This marketplace function can include searching and filtering feature as well as scheduling appointments feature. In certain countries that are implementing this rural advisory service via a mobile app, a procurement function is also incorporated into the app. This supports users to be able to search for a specific agricultural product on the app and then be provided a link or even redirected to the respective digital marketplace, where they can purchase this product. An example of such a marketplace platform can be seen outlined in this [market linkage use case](agr-1-market-linkage.md).
 
 In other instances, this marketplace function can support farmers in identifying and booking a meeting and/or inspection with a specific agricultural expert i.e., an agronomist to visit their farm and address soil management and crop production issues they are facing. Furthermore, also coordinate supply chain management support for farmers around crop storage and waste recycling as well as helping farmer identify contracting services on tilling, harvesting, transport, irrigation,etc.
 
-**Workflows**&#x20;
+**Workflows**
 
-* **Client Case Management** to address any communication needs between users and scheduling support to coordinate on product or service delivery&#x20;
+* **Client Case Management** to address any communication needs between users and scheduling support to coordinate on product or service delivery
 * **Communication** to facilitate communication between farmers and vendors via app
-* **Marketplace** to provide users with a list of products and vendors that can address their products and agricultural service needs&#x20;
+* **Marketplace** to provide users with a list of products and vendors that can address their products and agricultural service needs
 
 **Building Blocks**
 
-[**eMarketplace**](https://govstack.gitbook.io/bb-emarketplace/v/mkt-23q4)
+[**E-Marketplace**](https://govstack.gitbook.io/bb-emarketplace/v/mkt-23q4)
 
 [**Messaging**](https://govstack.gitbook.io/bb-messaging/v/msg-23q4)
 
@@ -192,7 +192,7 @@ In other instances, this marketplace function can support farmers in identifying
 
 [**Workflow**](https://govstack.gitbook.io/bb-workflow/v/wf-23q4)
 
-### 8 - Monitoring and Evaluation&#x20;
+### 8 - Monitoring and Evaluation
 
 Monitoring insights are essential to facilitate learning and continuous improvements. Ongoing monitoring and evaluation entails tracking performance of a service all throughout its implementation cycle. It is important to incorporate the changing needs of farmers, but also address environmental problems in the agricultural sector such as soil erosion, pollution and salination which all cause a decrease in yields for farmers. Thus, being agile and having a process in place to implement learnings as quickly as possible, and method to collect, assess and incorporate feedback from farmers are crucial. For example, feedback can regularly be collected from farmers by using various digital tools such as SMS feedback (e.g., send Yes to 123}, IVRS {press 1 if you agree with statement} or mobile survey forms in mobile apps.
 
@@ -222,4 +222,3 @@ Monitoring insights are essential to facilitate learning and continuous improvem
 * Margus Mägi, GovStack Project Lead for Estonia
 * Farina Owusu, Junior Advisor, Global Programme Digital Transformation at GIZ
 * Meelis Zujev, GovStack, Estonia
-
