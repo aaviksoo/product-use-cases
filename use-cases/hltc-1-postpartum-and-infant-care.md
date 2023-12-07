@@ -25,14 +25,14 @@ Postpartum maternal and infant mortality is still high across multiple low and m
 
 ## Building Blocks
 
-* [**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4)
-* [**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
-* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
-* [**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
-* [**Payments**](https://govstack.gitbook.io/bb-payments/v/23Q4)
-* [**Registration**](https://govstack.gitbook.io/bb-registration/v/23Q4)
-* [**Scheduling**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
-* [**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4)
+* [**Consent**](https://govstack.gitbook.io/bb-consent/v/con-23q4)
+* [**Identity**](https://govstack.gitbook.io/bb-identity/v/id-23q4)
+* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/im-23q4)
+* [**Messaging**](https://govstack.gitbook.io/bb-messaging/v/msg-23q4)
+* [**Payments**](https://govstack.gitbook.io/bb-payments/v/pay-23q4)
+* [**Registration**](https://govstack.gitbook.io/bb-registration/v/reg-23q4)
+* [**Scheduling**](https://govstack.gitbook.io/bb-scheduler/v/skd-23q4)
+* [**Workflow**](https://govstack.gitbook.io/bb-workflow/v/wf-23q4)
 
 ## Source Documents
 
@@ -54,9 +54,9 @@ Outreach communication should be intensive during the kick-off phase of the new 
 
 **Building Blocks**
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/msg-23q4)
 
-[**Scheduling**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
+[**Scheduling**](https://govstack.gitbook.io/bb-scheduler/v/skd-23q4)
 
 ### 2 - Registration
 
@@ -72,13 +72,13 @@ For example, some countries use a centralized information technology based appli
 
 **Building Blocks**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/con-23q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/id-23q4)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/im-23q4)
 
-[**Registration**](https://govstack.gitbook.io/bb-registration/v/23Q4/)
+[**Registration**](https://govstack.gitbook.io/bb-registration/v/reg-23q4)
 
 ### 3 - Data Verification and Validation
 
@@ -91,11 +91,11 @@ Data within the Mother and Child Tracking System (MCTS) is generally checked by 
 
 **Building Block Workflows**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/con-23q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/id-23q4)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/im-23q4)
 
 ### 4 - Eligibility Determination
 
@@ -111,11 +111,11 @@ Community Healthcare workers determine eligibility by reviewing all submitted re
 
 **Building Blocks**
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/id-23q4)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/im-23q4)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/msg-23q4)
 
 ### 5 - Enrollment
 
@@ -130,13 +130,13 @@ Enrollment is the action of being enrolled and accepted as a beneficiary to rece
 
 **Building Blocks**
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/id-23q4)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/im-23q4)
 
-[**Payments**](https://govstack.gitbook.io/bb-payments/v/23Q4/)
+[**Payments**](https://govstack.gitbook.io/bb-payments/v/pay-23q4)
 
-[**Registration**](https://govstack.gitbook.io/bb-registration/v/23Q4/)
+[**Registration**](https://govstack.gitbook.io/bb-registration/v/reg-23q4)
 
 ### 6 - Payment
 
@@ -149,13 +149,13 @@ Certain mother and child community health programs have a financial incentive in
 
 **Building Blocks**
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/id-23q4)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/im-23q4)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/msg-23q4)
 
-[**Payments**](https://govstack.gitbook.io/bb-payments/v/23Q4/)
+[**Payments**](https://govstack.gitbook.io/bb-payments/v/pay-23q4)
 
 ### 7 - Ongoing Case Management
 
@@ -171,15 +171,15 @@ This step involves ongoing interaction with beneficiaries via Community Health W
 
 **Building Blocks**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/con-23q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/id-23q4)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/im-23q4)
 
-[**Payments**](https://govstack.gitbook.io/bb-payments/v/23Q4/)
+[**Payments**](https://govstack.gitbook.io/bb-payments/v/pay-23q4)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4/)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/wf-23q4)
 
 ### 8 - Ongoing M\&E
 
@@ -193,13 +193,13 @@ National healthcare managers and officers make decisions and management choices 
 
 **Building Block Workflows**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/con-23q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/id-23q4)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/im-23q4)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4/)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/wf-23q4)
 
 ### 9 - Updating
 
@@ -213,11 +213,11 @@ Ensuring data is up to date to trigger: Programme exit for those who are no long
 
 **Building Block Workflows**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/con-23q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/id-23q4)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/im-23q4)
 
 ## Contributors
 

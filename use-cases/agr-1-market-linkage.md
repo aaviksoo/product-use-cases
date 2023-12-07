@@ -27,16 +27,16 @@ Governments in low- and middle-income countries are increasingly driven to ident
 
 ## Building Blocks
 
-* [**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4)
-* [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4)
-* [**eMarketplace**](https://govstack.gitbook.io/bb-emarketplace/v/23Q4)
-* [**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
-* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
-* [**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
-* [**Payments**](https://govstack.gitbook.io/bb-payments/v/23Q4)
-* [**Registration**](https://govstack.gitbook.io/bb-registration/v/23Q4)
-* [**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
-* [**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4)
+* [**Consent**](https://govstack.gitbook.io/bb-consent/v/con-23q4)
+* [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/dr-23q4)
+* [**eMarketplace**](https://govstack.gitbook.io/bb-emarketplace/v/mkt-23q4)
+* [**Identity**](https://govstack.gitbook.io/bb-identity/v/id-23q4)
+* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/im-23q4)
+* [**Messaging**](https://govstack.gitbook.io/bb-messaging/v/msg-23q4)
+* [**Payments**](https://govstack.gitbook.io/bb-payments/v/pay-23q4)
+* [**Registration**](https://govstack.gitbook.io/bb-registration/v/reg-23q4)
+* [**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/skd-23q4)
+* [**Workflow**](https://govstack.gitbook.io/bb-workflow/v/wf-23q4)
 
 ## Source Documents
 
@@ -60,11 +60,11 @@ The campaign is spread using promotional services - mobile messaging and/or aire
 
 **Building Blocks**
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/msg-23q4)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/skd-23q4)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/wf-23q4)
 
 ### 2 - Registration
 
@@ -77,17 +77,17 @@ Registration is the process of collecting standard information of a target group
 
 **Building Blocks**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/con-23q4)
 
-[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4)
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/dr-23q4)
 
-[**eMarketplace**](https://govstack.gitbook.io/bb-emarketplace/v/23Q4)
+[**eMarketplace**](https://govstack.gitbook.io/bb-emarketplace/v/mkt-23q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/id-23q4)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/im-23q4)
 
-[**Registration**](https://govstack.gitbook.io/bb-registration/v/23Q4/)
+[**Registration**](https://govstack.gitbook.io/bb-registration/v/reg-23q4)
 
 ### 3 - Data Verification and Validation
 
@@ -100,11 +100,11 @@ As the purpose of the Marketplace is to easily facilitate the buying and selling
 
 **Building Blocks**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/con-23q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/id-23q4)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/im-23q4)
 
 ### 4 - User Profile Account&#x20;
 
@@ -122,13 +122,13 @@ Users should be able to select what kind of services they are seeking to access 
 
 **Building Blocks**
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/id-23q4)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/im-23q4)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/msg-23q4)
 
-[**Registration**](https://govstack.gitbook.io/bb-registration/v/23Q4/)
+[**Registration**](https://govstack.gitbook.io/bb-registration/v/reg-23q4)
 
 ### 5 - Listing Pages
 
@@ -142,11 +142,11 @@ The Marketplace needs listing pages - pages on the platform where sellers can di
 
 **Building Blocks**
 
-[**eMarketplace**](https://govstack.gitbook.io/bb-emarketplace/v/23Q4)
+[**eMarketplace**](https://govstack.gitbook.io/bb-emarketplace/v/mkt-23q4)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/im-23q4)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/msg-23q4)
 
 ### 6 - On-platform Communication
 
@@ -159,9 +159,9 @@ On-platform communication is typically achieved through a messaging tool; a comm
 
 **Building Blocks**
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/msg-23q4)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/skd-23q4)
 
 ### 7 - Seller Transaction&#x20;
 
@@ -178,17 +178,17 @@ When filing out their profile with their necessary information and phone number,
 
 **Building Blocks**
 
-[**eMarketplace**](https://govstack.gitbook.io/bb-emarketplace/v/23Q4)
+[**eMarketplace**](https://govstack.gitbook.io/bb-emarketplace/v/mkt-23q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/id-23q4)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/im-23q4)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/msg-23q4)
 
-[**Payments**](https://govstack.gitbook.io/bb-payments/v/23Q4/)
+[**Payments**](https://govstack.gitbook.io/bb-payments/v/pay-23q4)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/skd-23q4)
 
 ### 8 - Buyer Transaction
 
@@ -205,17 +205,17 @@ When filing out their profile with their necessary information and phone number,
 
 **Building Blocks**
 
-[**eMarketplace**](https://govstack.gitbook.io/bb-emarketplace/v/23Q4)
+[**eMarketplace**](https://govstack.gitbook.io/bb-emarketplace/v/mkt-23q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/id-23q4)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/im-23q4)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/msg-23q4)
 
-[**Payments**](https://govstack.gitbook.io/bb-payments/v/23Q4/)
+[**Payments**](https://govstack.gitbook.io/bb-payments/v/pay-23q4)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/skd-23q4)
 
 ### 9 - Physcial Delivery of Goods
 
@@ -229,11 +229,11 @@ Physical delivery is the act of sending out and the receiving of goods or servic
 
 **Building Blocks**
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/msg-23q4)
 
-[**Payments**](https://govstack.gitbook.io/bb-payments/v/23Q4/)
+[**Payments**](https://govstack.gitbook.io/bb-payments/v/pay-23q4)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/wf-23q4)
 
 ### 10 - Ongoing Case Management
 
@@ -246,9 +246,9 @@ The government entity running the Marketplace platform has a team of case manger
 
 **Building Blocks**
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/id-23q4)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/im-23q4)
 
 ## Contributors
 

@@ -28,15 +28,15 @@ Implementing EPR can create various environmental, economical and social benefit
 
 ## Building Blocks
 
-* [**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
-* [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4)
-* [**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
-* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
-* [**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
-* [**Payments**](https://govstack.gitbook.io/bb-payments/v/23Q4)
-* [**Registration**](https://govstack.gitbook.io/bb-registration/v/23Q4)
-* [**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
-* [**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4/)
+* [**Consent**](https://govstack.gitbook.io/bb-consent/v/con-23q4)
+* [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/dr-23q4)
+* [**Identity**](https://govstack.gitbook.io/bb-identity/v/id-23q4)
+* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/im-23q4)
+* [**Messaging**](https://govstack.gitbook.io/bb-messaging/v/msg-23q4)
+* [**Payments**](https://govstack.gitbook.io/bb-payments/v/pay-23q4)
+* [**Registration**](https://govstack.gitbook.io/bb-registration/v/reg-23q4)
+* [**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/skd-23q4)
+* [**Workflow**](https://govstack.gitbook.io/bb-workflow/v/wf-23q4)
 
 ## Source Documents
 
@@ -63,9 +63,9 @@ Once the EPR regulations and processes have been finalized, information on the E
 
 **Building Blocks**
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/msg-23q4)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/skd-23q4)
 
 ### 2 - Producer Registration
 
@@ -79,15 +79,15 @@ Producer registration is the process of collecting information of a new business
 
 **Building Blocks**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/con-23q4)
 
-[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4)
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/dr-23q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/id-23q4)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/im-23q4)
 
-[**Registration**](https://govstack.gitbook.io/bb-registration/v/23Q4/)
+[**Registration**](https://govstack.gitbook.io/bb-registration/v/reg-23q4)
 
 ### 3 - Licensing
 
@@ -103,19 +103,19 @@ Licensing is the process to acquire authorization from a government agency to op
 
 **Building Blocks**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/con-23q4)
 
-[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4)
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/dr-23q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/id-23q4)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/im-23q4)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/msg-23q4)
 
-[**Payments**](https://govstack.gitbook.io/bb-payments/v/23Q4/)
+[**Payments**](https://govstack.gitbook.io/bb-payments/v/pay-23q4)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/skd-23q4)
 
 ### 4 - Product Registration
 
@@ -130,17 +130,17 @@ Registration is the process of documenting and maintaining records of registered
 
 **Building Blocks**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/con-23q4)
 
-[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4)
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/dr-23q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/id-23q4)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/im-23q4)
 
-[**Payments**](https://govstack.gitbook.io/bb-payments/v/23Q4)
+[**Payments**](https://govstack.gitbook.io/bb-payments/v/pay-23q4)
 
-[**Registration**](https://govstack.gitbook.io/bb-registration/v/23Q4/)
+[**Registration**](https://govstack.gitbook.io/bb-registration/v/reg-23q4)
 
 ### 5 - Data Verification and Validation
 
@@ -153,15 +153,15 @@ Data verification and validation should be coordinated with all relevant governe
 
 **Building Blocks**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/con-23q4)
 
-[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4)
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/dr-23q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/id-23q4)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/im-23q4)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4/)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/wf-23q4)
 
 ### 6 - Payment
 
@@ -189,13 +189,13 @@ The fee to be paid could be proportional to the amount of electrical and electro
 
 **Building Blocks**
 
-[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4)
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/dr-23q4)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/msg-23q4)
 
-[**Payments**](https://govstack.gitbook.io/bb-payments/v/23Q4/)
+[**Payments**](https://govstack.gitbook.io/bb-payments/v/pay-23q4)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4/)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/wf-23q4)
 
 ### **7 - Ongoing Case Management**
 
@@ -208,17 +208,17 @@ This step involves ensuring information of e-waste producers are kept up to date
 
 **Building Blocks**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/con-23q4)
 
-[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4)
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/dr-23q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/id-23q4)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/msg-23q4)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/skd-23q4)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4/)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/wf-23q4)
 
 ### **8 - Ongoing M\&E**
 
@@ -231,15 +231,15 @@ The government authority leading the EPR implementation should also allocate a t
 
 **Building Blocks**
 
-[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4)
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/dr-23q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/id-23q4)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/msg-23q4)
 
-[**Payments**](https://govstack.gitbook.io/bb-payments/v/23Q4/)
+[**Payments**](https://govstack.gitbook.io/bb-payments/v/pay-23q4)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4/)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/wf-23q4)
 
 ## Contributors
 

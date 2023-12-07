@@ -28,16 +28,16 @@ Moreover, digitalizing the tax collection process is now seen as a key mean to c
 
 ## Building Blocks
 
-* [**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
-* [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4/)
-* [**E-Signature**](https://govstack.gitbook.io/bb-esignature/v/23Q4)
-* [**GIS**](https://govstack.gitbook.io/bb-gis/v/23Q4)
-* [**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
-* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4/)
-* [**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
-* [**Payments**](https://govstack.gitbook.io/bb-payments/v/23Q4/)
-* [**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
-* [**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4/)
+* [**Consent**](https://govstack.gitbook.io/bb-consent/v/con-23q4)
+* [**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/dr-23q4)
+* [**E-Signature**](https://govstack.gitbook.io/bb-esignature/v/sig-23q4)
+* [**GIS**](https://govstack.gitbook.io/bb-gis/v/gis-23q4)
+* [**Identity**](https://govstack.gitbook.io/bb-identity/v/id-23q4)
+* [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/im-23q4)
+* [**Messaging**](https://govstack.gitbook.io/bb-messaging/v/msg-23q4)
+* [**Payments**](https://govstack.gitbook.io/bb-payments/v/pay-23q4)
+* [**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/skd-23q4)
+* [**Workflow**](https://govstack.gitbook.io/bb-workflow/v/wf-23q4)
 
 ## Source Documents
 
@@ -58,9 +58,9 @@ Success in digitalizing the tax administration process requires a high level of 
 
 **Building Blocks**
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/skd-23q4)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4/)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/wf-23q4)
 
 ### 2 - Outreach Communications
 
@@ -74,13 +74,13 @@ For communication with the target business entity taxpayers - the tax administra
 
 **Building Blocks**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/con-23q4)
 
-[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4)
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/dr-23q4)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/msg-23q4)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/skd-23q4)
 
 ### 3 - Registration
 
@@ -94,17 +94,17 @@ Registration is the process of collecting information of all eligible tax paying
 
 #### Building Blocks
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/con-23q4)
 
-[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4/)
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/dr-23q4)
 
-[**E-Signature**](https://govstack.gitbook.io/bb-esignature/v/23Q4)
+[**E-Signature**](https://govstack.gitbook.io/bb-esignature/v/sig-23q4)
 
-[**GIS**](https://govstack.gitbook.io/bb-gis/v/23Q4)
+[**GIS**](https://govstack.gitbook.io/bb-gis/v/gis-23q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/id-23q4)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4/)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/im-23q4)
 
 ### 4 - Data Verification and Validation
 
@@ -117,17 +117,17 @@ Data verification and validation should be coordinated with all relevant governm
 
 #### Building Blocks
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/con-23q4)
 
-[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4/)
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/dr-23q4)
 
-[**E-Signature**](https://govstack.gitbook.io/bb-esignature/v/23Q4)
+[**E-Signature**](https://govstack.gitbook.io/bb-esignature/v/sig-23q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/id-23q4)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4/)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/im-23q4)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/skd-23q4)
 
 ### 5 - Registration Fee
 
@@ -140,15 +140,15 @@ To complete the registration, a fee can be charged to cover administration cost 
 
 **Building Blocks**
 
-[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4/)
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/dr-23q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/id-23q4)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4/)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/im-23q4)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/msg-23q4)
 
-[**Payments**](https://govstack.gitbook.io/bb-payments/v/23Q4/)
+[**Payments**](https://govstack.gitbook.io/bb-payments/v/pay-23q4)
 
 ### 6 - Tax Submission
 
@@ -161,15 +161,15 @@ To file and submit all requirements for tax submission purposes, users (business
 
 **Building Blocks**
 
-[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4/)
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/dr-23q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/id-23q4)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4/)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/im-23q4)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/msg-23q4)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/skd-23q4)
 
 ### 7 - Tax Payment
 
@@ -185,17 +185,17 @@ The tax platform used can automate the tax calculation process by taking into ac
 
 **Building Blocks**
 
-[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/23Q4/)
+[**Digital Registries**](https://govstack.gitbook.io/bb-digital-registries/v/dr-23q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/id-23q4)
 
-[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/23Q4/)
+[**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation/v/im-23q4)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/msg-23q4)
 
-[**Payments**](https://govstack.gitbook.io/bb-payments/v/23Q4/)
+[**Payments**](https://govstack.gitbook.io/bb-payments/v/pay-23q4)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/skd-23q4)
 
 ### 8 - Tax Payer Account
 
@@ -209,15 +209,15 @@ This step is where the tax paying business entity can keep track of all filed ta
 
 **Building Blocks**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/con-23q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/id-23q4)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/msg-23q4)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/skd-23q4)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4/)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/wf-23q4)
 
 ### 9 - Audit
 
@@ -232,15 +232,15 @@ An experienced auditor will then manually review the submitted tax information. 
 
 **Building Blocks**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/con-23q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/id-23q4)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/msg-23q4)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/skd-23q4)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4/)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/wf-23q4)
 
 ### 10 - Ongoing Case Management
 
@@ -254,15 +254,15 @@ This step involves ensuring information of businesses are kept up to date - spec
 
 **Building Blocks**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/con-23q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/id-23q4)
 
-[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/23Q4/)
+[**Messaging**](https://govstack.gitbook.io/bb-messaging/v/msg-23q4)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/skd-23q4)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4/)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/wf-23q4)
 
 ### 11 - Ongoing M\&E
 
@@ -275,13 +275,13 @@ The primary agent should conduct M\&E exercises to acquire feedback from all rel
 
 **Building Blocks**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/v/23Q4/)
+[**Consent**](https://govstack.gitbook.io/bb-consent/v/con-23q4)
 
-[**Identity**](https://govstack.gitbook.io/bb-identity/v/23Q4/)
+[**Identity**](https://govstack.gitbook.io/bb-identity/v/id-23q4)
 
-[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/23Q4/)
+[**Scheduler**](https://govstack.gitbook.io/bb-scheduler/v/skd-23q4)
 
-[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/23Q4/)
+[**Workflow**](https://govstack.gitbook.io/bb-workflow/v/wf-23q4)
 
 ## Contributors
 
