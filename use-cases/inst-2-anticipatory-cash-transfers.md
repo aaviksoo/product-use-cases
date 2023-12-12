@@ -9,9 +9,9 @@
 | Version | 1.0                         |
 | Status  | Published                   |
 
-The primary agent aims to leverage digital technologies and data-driven approaches to implement anticipatory cash transfers, providing timely financial assistance to vulnerable populations in high-risk areas prone to natural disasters.
+The primary agent aims to leverage digital technologies and data-driven approaches to implement anticipatory cash transfers (ACTs), providing timely financial assistance to vulnerable populations in high-risk areas prone to natural disasters.
 
-Anticipatory cash transfers (or forecast-based financing) are a social protection mechanism to protect people from climate and human-induced disasters. Anticipatory action in the form of a cash transfer provides support to people before a disaster has struck, as an investment in prevention and resiliency, rather than recovery. Early response is a more dignified way of supporting communities and is more cost-effective than rebuilding efforts, but they vary in scope and are highly time-sensitive and connected to forecasts. This use case considers leveraging digital to streamline ACTs in climate disaster scenarios..
+Anticipatory cash transfers (or forecast-based financing) are a social protection mechanism to protect people from climate and human-induced disasters. Anticipatory action in the form of a cash transfer provides support to people before a disaster has struck, as an investment in prevention and resiliency, rather than recovery. Early response is a more dignified way of supporting communities and is more cost-effective than rebuilding efforts, but they vary in scope and are highly time-sensitive and connected to forecasts. This use case considers leveraging digital tools to streamline ACTs in climate disaster scenarios.
 
 ## Stakeholders
 
