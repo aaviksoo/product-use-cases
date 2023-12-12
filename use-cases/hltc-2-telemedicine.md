@@ -11,7 +11,7 @@
 
 Telemedicine (also referred to as telehealth) lets patients visit with a health care provider without an in-person office visit. Instead, patient-provider interaction is conducted over the phone or online through a computer, tablet, or smartphone.
 
-The goal for modern telemedicine is to provide an alternative to in-person visits which helps improve access to health care for distant or rural populations, provides a safe experience without the risk of exposure to communicable diseases, and/or helps patients receive routine, specialty, or emergency care without the need to visit a health center. For s healthcare providers telemedicine can save time in under-resourced areas, can extend the geographical reach of individual practitioners, and can meet gaps in a practitioner’s schedule.
+The goal for modern telemedicine is to provide an alternative to in-person visits which helps improve access to health care for distant or rural populations, provides a safe experience without the risk of exposure to communicable diseases, and/or helps patients receive routine, specialty, or emergency care without the need to visit a health center. For healthcare providers telemedicine can save time in under-resourced areas, can extend the geographical reach of individual practitioners, and can meet gaps in a practitioner’s schedule.
 
 Telemedicine is not a substitute for in-person care, but can extend the reach of traditional health systems and can help meet ambitious national health targets.
 
