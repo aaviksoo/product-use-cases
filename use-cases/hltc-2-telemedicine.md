@@ -65,7 +65,7 @@ In cases where telemedicine is being pursued as a centralized activity to meet n
 
 Staff from the Ministry of Health, private telehealth companies, or other intermediary organizes outreach communications to physicians, nurses, and other healthcare providers to sign up as a telehealth practitioner. Similarly, staff from the Ministry of Health, CSOs, or other intermediary organizations launch an information campaign to inform about a telehealth program aimed at potential target population/ beneficiary group and implemented via telehealth company. The campaign is conveyed via mobile messaging and/or aired on national radio/television, while a more capillary village to village campaign is performed by district / local social welfare officers. Outreach communication is intensive during the kick-off phase of the new program, but also requires ongoing touch points and additional information sharing.
 
-#### Workflows
+**Workflows**
 
 * **Client Education** for educating potential target beneficiaries around the approach and objective(s), benefit(s), constraint(s), partner(s), etc. of the program
 * **Client Communication** to facilitate the spreading of program awareness for target audience and encouraging enrolment via mobile / media channel(s)
@@ -86,7 +86,7 @@ In decentralized contexts, healthcare workers an sign up through participating h
 
 In this step, all healthcare workers will also provide information on qualifications, certifications and licenses.
 
-#### Workflows
+**Workflows**
 
 * **Data Collecting and Reporting** to capture provider’s demographic data, information on specialties, and information on qualifications. In return patients can provide demographic, geographic, and health history data
 * **Identification and Verification** for enrolled identified healthcare providers and patients and enabling permissions
@@ -108,7 +108,7 @@ In this step, all healthcare workers will also provide information on qualificat
 
 Registration for patients can vary depending on specific country/district-level contexts. Patients can sign up directly, through their hospital systems, or via representative health workers that can register participating individuals. In the latter case, the healthcare worker can assist individuals to provide demographic, geographic, and health history data into the system.
 
-#### Workflows
+**Workflows**
 
 * **Data Collecting and Reporting** to capture provider’s demographic data, information on specialties, and information on qualifications. In return patients can provide demographic, geographic, and health history data
 * **Client Case Management** for creating patient user records
@@ -128,7 +128,7 @@ Registration for patients can vary depending on specific country/district-level 
 
 In this step, registration data needs to be verified and validated. Healthcare provider qualifications can be checked via the licensure organization in the country and patient data can be verified with local digital identification or census database.
 
-#### Workflows
+**Workflows**
 
 * **Client case Management** used for verifying and validating enrollment of patients and healthcare workers
 * **Data Analysis and Business Intelligence / Data Collection and Reporting** for administrators and national workers to monitor and track use and uptake of the system.
@@ -145,7 +145,7 @@ In this step, registration data needs to be verified and validated. Healthcare p
 
 Patients, healthcare providers, and administrators need access to telehmedicine system using an application protocol while adhering to stringent privacy protection measures. As the front end to most telemedicine applications, it is critical to maintain available, high-performance web front end systems. When monitoring and troubleshooting issues with telemedicine systems, IT teams need to have visibility across web connections and through firewalls and load balancers.
 
-#### Workflows
+**Workflows**
 
 * **Client Communication** to facilitate individual communication between the system and all users (healthcare workers, patients, and administrators)
 
@@ -157,7 +157,7 @@ Patients, healthcare providers, and administrators need access to telehmedicine 
 
 Appointments can be triggered by patients (such as for a first-time visit) or by health care providers (such as for a follow-up). In either case, health care providers set a schedule of availability for patients selection. Patients can book appointments with health care providers directly or through intermediaries, based on preferences and condition (such as general, emergency, specialty, or nursing care, etc.). The system can also generate auto-notifications for receiving confirmations and/or reminders, and for approving appointments.
 
-#### Workflows
+**Workflows**
 
 * **Client case Management** can be either automated or through an intermediary health care worker on the ground that is responsible for coordinating appointments on a centralized system
 * **Work Planning and Coordination** so healthcare providers and administrative staff can coordinate the timing/schedules of multiple patients they may be serving
@@ -178,7 +178,7 @@ Depending on connectivity and device parameters, there are two main ways that a 
 
 As part of the consultation, the healthcare provider can update the patient record, diagnose the patient, recommend a treatment plan, prescribe medications, request lab work, generate a referral with a specialist, and/or recommend a follow-up.
 
-#### Workflows
+**Workflows**
 
 * **Client Communication** for sharing relevant updates, diagnoses, treatment plans, and follow-up with client
 * **Client Case Management** for identifying and recording patient interaction with healthcare workers and for determining follow-ups and storing patient history
@@ -197,7 +197,7 @@ As part of the consultation, the healthcare provider can update the patient reco
 
 Payments can be collected either pre- or post-consultation. In the context where a digital financial service system is not employed, each beneficiary would be requested to pay via mobile money or to travel to the nearest designated pay-point and pay the fees by program-specific authentication. Money is transferred to the selected payment mechanism and is subsequently verified against the provider.
 
-#### Workflows
+**Workflows**
 
 * **Client Case Management** for identifying and authenticating individual that is making a payment
 * **Financial Services** for processing consultation fees and other fees related to tests, labs, and prescriptions
@@ -218,7 +218,7 @@ Depending on the program and on the country’s broader health policies, this st
 * Ensure information on patients and health care providers stays up to date
 * Address complaints, grievances, and appeals
 
-#### Workflows
+**Workflows**
 
 * **Client Case Management** for identifying and recording patient interaction with health care providers/worker and capturing reported cases on grievances
 * **Data Collection and Reporting** for capturing changes in patient or health care provider information
@@ -240,7 +240,7 @@ Depending on the program and on the country’s broader health policies, this st
 
 Administrators of the telehealth company and/or Ministry of Health analysts conduct ongoing M\&E of the programs to understand uptake and benefit of telemedicine services. In addition, they can use analysis to make decisions and management choices, such as general health outcomes of enrolled areas/patients vs. non-enrolled areas/patients, where to conduct trainings, where to prioritize budget, etc.
 
-#### Workflows
+**Workflows**
 
 * **Client Case Management** for ongoing monitoring and tracking of patients and health care workers usage and experience
 * **Data Analysis and Business Intelligence/ Decision Support / Data Collection and Reporting** - to analyize, update, and report program output/performance information
