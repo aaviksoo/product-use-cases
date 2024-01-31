@@ -40,15 +40,19 @@ To start the registration process the beneficiary information must be obtained, 
 **Example Implementations**
 
 1. High-Level Process
+
 [Sequence Diagram]
 
 2. New Registration
+
 [Sequence Diagram]
 
 3. Existing Data Import
+
 [Sequence Diagram]
 
 4. Error Handling
+
 [Sequence Diagram]
 
 ### 2 - Data Verification
@@ -68,9 +72,11 @@ Once the required data has been obtained it must be verified using the appropiat
 **Example Implementations**
 
 1. Data Validation
+
 [Sequence Diagram]
 
 2. Error Handling
+
 [Sequence Diagram]
 
 ### 3 - Eligibility Determination
@@ -92,9 +98,11 @@ The beneficiary data has now been obtained and verified and now the some type of
 **Example Implementations**
 
 1. Confirming Eligibility
+
 [Sequence Diagram]
 
 2. Error Handling
+
 [Sequence Diagram]
 
 ### 4 - Enrollment
@@ -118,6 +126,7 @@ Now that all the required data entry, data validation, and beneficiary eligibili
 **Example Implementations**
 
 1. Enrollment
+
 [Sequence Diagram]
 
 ## Contributors
