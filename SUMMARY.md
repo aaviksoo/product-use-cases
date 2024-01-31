@@ -17,3 +17,5 @@
   * [INST-1 - Unconditional Social Cash Transfer](use-cases/inst-1-unconditional-social-cash-transfer.md)
   * [INST-2 - Anticipatory Cash Transfers](use-cases/inst-2-anticipatory-cash-transfers.md)
   * [\<Use Case Template>](use-cases/less-than-use-case-template-greater-than.md)
+* [Service Blocks](service-blocks.md)
+  * [Registration](service-blocks/registration.md)
