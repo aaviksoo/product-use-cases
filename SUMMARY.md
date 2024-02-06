@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Reference Use Cases](README.md)
-* [Use Cases](use-cases.md)
+* [Use Cases](use-cases/README.md)
   * [AGR-1 - Market Linkage](use-cases/agr-1-market-linkage.md)
   * [AGR-2 - Rural Advisory Service for Farmers](use-cases/agr-2-rural-advisory-service-for-farmers.md)
   * [CLMT-1 - Disaster Management](use-cases/clmt-1-disaster-management.md)

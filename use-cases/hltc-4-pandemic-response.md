@@ -120,7 +120,7 @@ In this step, registration data needs to be verified and validated. The person's
 
 [**Consent**](https://govstack.gitbook.io/bb-consent/)
 
-[**Identity**](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
+[**Identity**](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/c/0usSj5SjaAsqoOEju90C)
 
 [**Information Mediator**](https://govstack.gitbook.io/bb-information-mediation)
 
