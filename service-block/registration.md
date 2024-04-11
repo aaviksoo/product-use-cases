@@ -92,6 +92,8 @@ Application-->>-Individual: Confirm registration
 
 note over Foundational ID: Individual is registered
 
+```
+
 2. New Registration
 
 [Sequence Diagram]
