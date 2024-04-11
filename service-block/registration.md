@@ -55,7 +55,42 @@ To start the registration process the beneficiary information must be obtained, 
 
 1. High-Level Process
 
-[Sequence Diagram]
+'''Mermaid
+sequenceDiagram
+
+actor Individual
+Individual->>+Application: Invoke registration workflow
+Application->>+Workflow BB: Trigger registration workflow
+
+note over Workflow BB: Identifies the need for consent
+
+Workflow BB->>+Consent BB: Fetch consent agreement (Registration)
+Consent BB-->>-Workflow BB: Returns consent agreement
+Workflow BB-->>-Application: Returns consent agreement
+Application-->>-Individual: Show consent agreement to fetch data 
+
+note over Individual: The individual agrees<br />to the consent agreement 
+
+Individual->>+Application: Accept consent agreement
+Application->>+Foundational ID: Redirect to Foundational ID UI
+
+Foundational ID-->>-Individual: Return Foundational ID authentication UI
+Individual->>+Foundational ID: Provide credentials to perform authentication
+Foundational ID-->>-Application: Return Foundational ID token (e.g. JWT token) 
+
+note over Application: Foundational ID token recieved<br />is the proof of consent
+
+Application->>+Workflow BB: Fetch data workflow
+note right of Workflow BB: Fetch data, <br />For e.g. a population regsitry.
+
+Workflow BB-->>-Application: Confirms the workflow
+Application-->>+Workflow BB: Record consent against consent agreement (Foundation ID token, Appl user ID)
+Workflow BB-->>+Consent BB: Record consent against the consent agreement
+Consent BB-->>-Workflow BB: Return consent ID
+Workflow BB-->>-Application: Return consent ID
+Application-->>-Individual: Confirm registration
+
+note over Foundational ID: Individual is registered
 
 2. New Registration
 
