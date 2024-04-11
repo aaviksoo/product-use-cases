@@ -55,7 +55,7 @@ To start the registration process the beneficiary information must be obtained, 
 
 1. High-Level Process
 
-'''Mermaid
+```Mermaid
 sequenceDiagram
 
 actor Individual
